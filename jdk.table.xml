@@ -1,0 +1,975 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/.virtualenvs/MidiusBeta" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/MidiusBeta/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/MidiusBeta/lib/python3.5" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/MidiusBeta/lib/python3.5/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/MidiusBeta/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/MidiusBeta/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/.pyenv/versions/pe_medius_beta" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.pyenv/versions/pe_medius_beta/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/pe_medius_beta/lib/python3.5" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/pe_medius_beta/lib/python3.5/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/pe_medius_beta/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/pe_medius_beta/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Medius/Beta/celery_sample/proj" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/.pyenv/versions/eb-virt" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/.pyenv/versions/eb-virt/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/eb-virt/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/eb-virt/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/eb-virt/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/eb-virt/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/AWS/ebdjango" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DRF/Taskproject/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DRF/Taskproject/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Devel/DRF/Taskproject/env/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/Taskproject/env/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/Taskproject/env/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/Taskproject/env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DRF/Taskproject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Medius/Beta/mediuschatserver/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Medius/Beta/mediuschatserver/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Medius/Beta/mediuschatserver/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Medius/Beta/mediuschatserver" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Medius/Beta/mediuschatserver/.env (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Medius/Beta/mediuschatserver/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Medius/Beta/mediuschatserver/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Medius/Beta/mediuschatserver" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Medius/Beta/medius_chatserver/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/447806916" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Medius/Beta/medius_chatserver" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DRF/react_drf/backend/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DRF/react_drf/backend/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/react_drf/backend/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DRF/react_drf/backend" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DRF/djmailer/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DRF/djmailer/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/djmailer/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DRF/djmailer" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DRF/quick_example/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DRF/quick_example/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/quick_example/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DRF/quick_example" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DevOps/static-files-in-django/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DevOps/static-files-in-django/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DevOps/static-files-in-django/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DevOps/static-files-in-django" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DRF/tools/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DRF/tools/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/tools/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DRF/tools" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DRF/tools_mongo/tools/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DRF/tools_mongo/tools/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/tools_mongo/tools/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DRF/tools_mongo/tools" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DRF/DRF_quick_start_tutorial/tutorial/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DRF/DRF_quick_start_tutorial/tutorial/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/DRF_quick_start_tutorial/tutorial/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DRF/DRF_quick_start_tutorial/tutorial" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/DRF/piedpiper-web/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/DRF/piedpiper-web/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/DRF/piedpiper-web/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/DRF/piedpiper-web" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Channels/heroku_chat/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Channels/heroku_chat/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Channels/heroku_chat/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Channels/heroku_chat" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Channels/example_channels/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Channels/example_channels/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Channels/example_channels/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Channels/example_channels" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 virtualenv at ~/Devel/Channels/example_channels_author/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/Devel/Channels/example_channels_author/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Channels/example_channels_author/.env/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1857292896" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Channels/example_channels_author" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Channels/DRF_Channels_Chatbot/django-chatbot-production/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Channels/DRF_Channels_Chatbot/django-chatbot-production/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Channels/DRF_Channels_Chatbot/django-chatbot-production/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Channels/DRF_Channels_Chatbot/django-chatbot-production" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Channels/Official_Getting_Started/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Channels/Official_Getting_Started/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Channels/Official_Getting_Started/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Channels/Official_Getting_Started" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Channels/Sourcelair/django-channels-chat/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Channels/Sourcelair/django-channels-chat/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Channels/Sourcelair/django-channels-chat/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Channels/Sourcelair/django-channels-chat" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Channels/official_examples/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Channels/official_examples/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Channels/official_examples/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Channels/official_examples" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Mathu/Django/hacksoft.io/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Mathu/Django/hacksoft.io/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Mathu/Django/hacksoft.io/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/Django/hacksoft.io" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Mathu/FSM/transitions/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Mathu/FSM/transitions/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Mathu/FSM/transitions/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/FSM/transitions" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 virtualenv at ~/Devel/Mathu/ObeyTheGod/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/Devel/Mathu/ObeyTheGod/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Mathu/ObeyTheGod/.env/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/ObeyTheGod" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Mathu/Django/official_tutorial/mysite/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Mathu/Django/official_tutorial/mysite/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Mathu/Django/official_tutorial/mysite/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/Django/official_tutorial/mysite" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Mathu/Django/custom_user_model/emailuser/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Mathu/Django/custom_user_model/emailuser/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Mathu/Django/custom_user_model/emailuser/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/Django/custom_user_model/emailuser" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Mathu/Flask/Official_Tutorial/flaskr/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Mathu/Flask/Official_Tutorial/flaskr/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Mathu/Flask/Official_Tutorial/flaskr/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/Flask/Official_Tutorial/flaskr" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Mathu/Hack4DV/helpfordv/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Mathu/Hack4DV/helpfordv/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Mathu/Hack4DV/helpfordv/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/Hack4DV/helpfordv" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/Devel/Mathu/Pelican/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Mathu/Pelican/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Mathu/Pelican/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Mathu/Pelican" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 virtualenv at ~/Devel/Medius/Interviews/Sathish/chatbot/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/Devel/Medius/Interviews/Sathish/chatbot/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Medius/Interviews/Sathish/chatbot/.env/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1873849853" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Devel/Medius/Interviews/Sathish/chatbot" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (temp)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/.virtualenvs/temp/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.6.4_4/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.6.4_4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/temp/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/temp/lib/python3.6/site-packages/setuptools-39.0.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/temp/lib/python3.6/site-packages/pip-9.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1801007691" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/temp" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (MyExperiments)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/.virtualenvs/MyExperiments/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.6.4_4/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.6.4_4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/MyExperiments/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/MyExperiments/lib/python3.6/site-packages/setuptools-39.0.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/MyExperiments/lib/python3.6/site-packages/pip-9.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-880724365" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/MyExperiments" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4 (MyExperiments)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/MyExperiments/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/MyExperiments/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/288182246" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/MyExperiments" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4 (.env)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env/lib/python3.4/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/447806916" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/MyExperiments" />
+    </jdk>
+  </component>
+</application>
