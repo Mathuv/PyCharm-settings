@@ -17,7 +17,7 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1531465021854">
+      <file name="/fragment.py" timestamp="1531802350893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -50,8 +50,11 @@
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1530444804208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/manage.py@medius_chatserver" timestamp="1528934234427">
+      <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1530752897541">
         <mark key="'" line="21" column="85" />
@@ -93,14 +96,14 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531799072113">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531804367980">
         <mark key="d" line="406" column="52" />
         <mark key="'" line="377" column="43" />
-        <mark key="[" line="779" column="45" />
+        <mark key="[" line="1329" column="56" />
         <mark key="m" line="856" column="37" />
-        <mark key="]" line="779" column="45" />
-        <mark key="." line="779" column="45" />
-        <mark key="^" line="778" column="39" />
+        <mark key="]" line="733" column="76" />
+        <mark key="." line="733" column="76" />
+        <mark key="^" line="733" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console_1.sql" timestamp="1531120512913">
         <mark key="[" line="0" column="0" />
@@ -157,12 +160,12 @@
       <file name="/utils_dynamictable [Quro_TEST_RDS]" timestamp="1530735084879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1531212217086">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1531803573424">
         <mark key="'" line="20" column="9" />
-        <mark key="[" line="16" column="41" />
-        <mark key="]" line="16" column="41" />
-        <mark key="^" line="20" column="10" />
-        <mark key="." line="16" column="41" />
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
       <file name="/diagnosis_symptomcategory [Quro_DEV_RDS]" timestamp="1530248540424">
         <mark key="[" line="0" column="0" />
@@ -293,22 +296,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>entity_name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>entity_name</text>
       </register>
       <register name="/" type="4">
         <text>parent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZW50aXR5X2lkIGFuZCBwYXJlbnRfZW50aXR5X2lkIGFuZCBub3Qgc2ltaWxhcl9tZWRpdXNfaWQ6Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBBdHRyaWJ1dGVLZXkub2JqZWN0cy5maWx0ZXIobmFtZT0nc291cmNlJykuZXhpc3RzKCk6CiAgICAgICAgQXR0cmlidXRlS2V5Lm9iamVjdHMuY3JlYXRlKAogICAgICAgICAgICBtZWRpdXNfaWQ9J0FfNicsCiAgICAgICAgICAgIG5hbWU9J3NvdXJjZScKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBBdHRyaWJ1dGVLZXkub2JqZWN0cy5maWx0ZXIobmFtZT0nc291cmNlJykuZXhpc3RzKCk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBBdHRyaWJ1dGVLZXkub2JqZWN0cy5maWx0ZXIoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -323,14 +326,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text># handle parent-child (is-a) relationship attached to source (duplicate) entity
-                    if parent_entity_db:</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -369,7 +371,6 @@
         <entry>parent</entry>
       </history-search>
       <history-cmd>
-        <entry>help put</entry>
         <entry>help :put</entry>
         <entry>help home</entry>
         <entry>home</entry>
@@ -388,6 +389,7 @@
         <entry>$s/undo_merge_similar_entities/undo_merge_relationships/g/c</entry>
         <entry>%s/undo_merge_similar_entities/undo_merge_relationships/g/c</entry>
         <entry>%s/undo_merge_similar_entities/undo_merge_relationships/c</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
