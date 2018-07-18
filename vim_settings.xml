@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="N" line="856" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" protocol="file" />
+      <mark key="N" line="883" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="/start_script.py" timestamp="1528426139734">
@@ -28,6 +28,10 @@
       </file>
       <file name="/auth_group_permissions [Postgres_Dev_Local]" timestamp="1529282101115">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0002_link_disgnosis_symptoms_diseases_with_entities.py" timestamp="1531891084118">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="250" column="103" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0009_refresh_nonprod_db_from_prod_db.py" timestamp="1530772216505">
         <mark key="'" line="26" column="0" />
@@ -96,14 +100,14 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531807670875">
-        <mark key="d" line="406" column="52" />
-        <mark key="'" line="924" column="0" />
-        <mark key="[" line="942" column="25" />
-        <mark key="m" line="856" column="37" />
-        <mark key="]" line="942" column="24" />
-        <mark key="." line="942" column="24" />
-        <mark key="^" line="939" column="19" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531891104086">
+        <mark key="d" line="433" column="52" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="51" />
+        <mark key="m" line="883" column="37" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="0" column="64" />
+        <mark key="^" line="0" column="64" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console_1.sql" timestamp="1531120512913">
         <mark key="[" line="0" column="0" />
@@ -194,8 +198,6 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1531808394294" />
     </filemarks>
     <jumps>
-      <jump line="372" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="414" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="420" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="422" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="436" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
@@ -273,7 +275,6 @@
       <jump line="1254" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="913" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="980" column="40" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="214" column="28" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="347" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="363" column="96" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
@@ -294,19 +295,22 @@
       <jump line="931" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="927" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="924" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="38" column="89" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="226" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'Updates diagnosis_symptom table with data from ALL SYMPTOMS QURO 25Apr18.xls'</text>
       </register>
       <register name="/" type="4">
         <text>duplicate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVRUUklCVVRFX0tFWV9TT1VSQ0UgPSAiQV82Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjX3R5cGUsIGV4Y192YWx1ZSwgZXhjX3RyYWNlYmFjayA9IHN5cy5leGNfaW5mbygpCiAgICAgICAgICAgIGZvcm1hdHRlZF9leGNwdGlvbiA9IHRyYWNlYmFjay5mb3JtYXRfZXhjZXB0aW9uKGV4Y190eXBlLCBleGNfdmFsdWUsIGV4Y190cmFjZWJhY2spCiAgICAgICAgICAgIGZvciBsaW5lIGluIGZvcm1hdHRlZF9leGNwdGlvbjoKICAgICAgICAgICAgICAgIHNlbGYuc3Rkb3V0LndyaXRlKGxpbmUsIGVuZGluZz0nJykKICAgICAgICAgICAgcmFpc2UgQ29tbWFuZEVycm9yKCJBbiBleGNlcHRpb24gb2NjdXJyZWQuIEFsbCBvcGVyYXRpb25zIGFib3J0ZWQsIGRhdGFiYXNlIHJvbGxlZCBiYWNrLlxuIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
