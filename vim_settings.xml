@@ -100,14 +100,14 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531891104086">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531893598275">
         <mark key="d" line="433" column="52" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="51" />
+        <mark key="[" line="503" column="196" />
         <mark key="m" line="883" column="37" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="0" column="64" />
-        <mark key="^" line="0" column="64" />
+        <mark key="]" line="517" column="81" />
+        <mark key="^" line="517" column="81" />
+        <mark key="." line="517" column="81" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console_1.sql" timestamp="1531120512913">
         <mark key="[" line="0" column="0" />
@@ -301,19 +301,24 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlY29uZGFyeUxheW1hbnRlcm0ub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ltcHRvbV9pZF9pZD10YXJnZXRfc3ltcHRvbS5zeW1wdG9tX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlcm1fX2lleGFjdD10ZXJtLnN0cmlwKCkubG93ZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKS5kZWxldGUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'Updates diagnosis_symptom table with data from ALL SYMPTOMS QURO 25Apr18.xls'</text>
+        <text>_start_timek</text>
       </register>
       <register name="/" type="4">
         <text>duplicate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjX3R5cGUsIGV4Y192YWx1ZSwgZXhjX3RyYWNlYmFjayA9IHN5cy5leGNfaW5mbygpCiAgICAgICAgICAgIGZvcm1hdHRlZF9leGNwdGlvbiA9IHRyYWNlYmFjay5mb3JtYXRfZXhjZXB0aW9uKGV4Y190eXBlLCBleGNfdmFsdWUsIGV4Y190cmFjZWJhY2spCiAgICAgICAgICAgIGZvciBsaW5lIGluIGZvcm1hdHRlZF9leGNwdGlvbjoKICAgICAgICAgICAgICAgIHNlbGYuc3Rkb3V0LndyaXRlKGxpbmUsIGVuZGluZz0nJykKICAgICAgICAgICAgcmFpc2UgQ29tbWFuZEVycm9yKCJBbiBleGNlcHRpb24gb2NjdXJyZWQuIEFsbCBvcGVyYXRpb25zIGFib3J0ZWQsIGRhdGFiYXNlIHJvbGxlZCBiYWNrLlxuIikK</text>
+      <register name="0" type="4">
+        <text>if not self.dryrun:
+                                        # secondary_layman_term.delete()
+                                        SecondaryLaymanterm.objects.filter(
+                                            symptom_id_id=target_symptom.symptom_id,
+                                            term__iexact=term.strip().lower()
+                                        ).delete()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlY29uZGFyeUxheW1hbnRlcm0ub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ltcHRvbV9pZF9pZD10YXJnZXRfc3ltcHRvbS5zeW1wdG9tX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlcm1fX2lleGFjdD10ZXJtLnN0cmlwKCkubG93ZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKS5kZWxldGUoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -340,7 +345,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -382,7 +387,6 @@
         <entry>*home*</entry>
         <entry>q!</entry>
         <entry>WQ</entry>
-        <entry>wq</entry>
         <entry>help</entry>
         <entry>substitute</entry>
         <entry>143,148/out.//g</entry>
@@ -396,6 +400,7 @@
         <entry>%s/undo_merge_similar_entities/undo_merge_relationships/c</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
