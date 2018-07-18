@@ -29,7 +29,7 @@
       <file name="/auth_group_permissions [Postgres_Dev_Local]" timestamp="1529282101115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0002_link_disgnosis_symptoms_diseases_with_entities.py" timestamp="1531891084118">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0002_link_disgnosis_symptoms_diseases_with_entities.py" timestamp="1531902493547">
         <mark key="[" line="246" column="0" />
         <mark key="]" line="250" column="103" />
       </file>
@@ -101,7 +101,7 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531900729241">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531902158852">
         <mark key="d" line="433" column="52" />
         <mark key="'" line="231" column="0" />
         <mark key="[" line="1167" column="118" />
