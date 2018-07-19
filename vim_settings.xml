@@ -91,7 +91,7 @@
       <file name="/utils_dynamictable [Quro_DEV_RDS]" timestamp="1530492975561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531951243020">
+      <file name="/Python Console" timestamp="1531985697085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="48" />
@@ -113,18 +113,19 @@
         <mark key="." line="120" column="12" />
         <mark key="^" line="119" column="11" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-075830.log" timestamp="1531987657516" />
       <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1531975913863">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="89" column="8" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
-        <mark key="^" line="230" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1531987081374">
+        <mark key="'" line="244" column="20" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
+        <mark key="^" line="227" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-063436.log" timestamp="1531982249341" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1531463856018">
@@ -204,7 +205,7 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1530445677826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531984939992">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531985890595">
         <mark key="[" line="5" column="108" />
         <mark key="]" line="5" column="108" />
         <mark key="." line="5" column="108" />
@@ -217,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="949" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="944" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="942" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="931" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
@@ -317,31 +317,32 @@
       <jump line="215" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="223" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="231" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="244" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EntityRelationship not found for Condition Entity ID</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgoZXgpKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>EntityRelationship not found for Condition Entity ID</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgoZXgpKQ==</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBlbGFwc2VkX3RpbWUoc2VsZik6CiAgICAgICAgaWYgc2VsZi5fc3RhcnRfdGltZSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiB0aW1lem9uZS5ub3coKSAtIHNlbGYuX3N0YXJ0X3RpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bXB0b21fZW50aXR5X2lkID0gcm93LmdldCgnU3ltcHRvbSBFbnRpdHkgSUQnKS5zdHJpcCgpIGlmIHJvdy5nZXQoJ1N5bXB0b20gRW50aXR5IElEJykgZWxzZSBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTXlDbGFzczoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCiAgICAKICAgIEBwcm9wZXJ0eQogICAgZGVmIG15X3ZhcihzZWxmKToKICAgICAgICBwYXNzCiAgICAKICAgIEBteV92YXIuc2V0dGVyCiAgICBkZWYgbXlfdmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiQ29uZGl0aW9uIE5hbWU6IHt9Ii5mb3JtYXQoY29uZGl0aW9uX25hbWUpICsgc3RyKGV4KSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlY29uZGFyeUxheW1hbnRlcm0ub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ltcHRvbV9pZF9pZD10YXJnZXRfc3ltcHRvbS5zeW1wdG9tX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlcm1fX2lleGFjdD10ZXJtLnN0cmlwKCkubG93ZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKS5kZWxldGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiQ29uZGl0aW9uIE5hbWU6IHt9Ii5mb3JtYXQoY29uZGl0aW9uX25hbWUpICsgc3RyKGV4KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTXlDbGFzczoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCiAgICAKICAgIEBwcm9wZXJ0eQogICAgZGVmIG15X3ZhcihzZWxmKToKICAgICAgICBwYXNzCiAgICAKICAgIEBteV92YXIuc2V0dGVyCiAgICBkZWYgbXlfdmEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlY29uZGFyeUxheW1hbnRlcm0ub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ltcHRvbV9pZF9pZD10YXJnZXRfc3ltcHRvbS5zeW1wdG9tX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlcm1fX2lleGFjdD10ZXJtLnN0cmlwKCkubG93ZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKS5kZWxldGUoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
