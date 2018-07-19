@@ -61,9 +61,9 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1531899378694">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1531975913863">
         <mark key="'" line="174" column="0" />
-        <mark key="[" line="276" column="81" />
+        <mark key="[" line="89" column="8" />
         <mark key="]" line="230" column="0" />
         <mark key="." line="230" column="0" />
         <mark key="^" line="230" column="0" />
