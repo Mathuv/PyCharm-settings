@@ -126,6 +126,7 @@
         <mark key="." line="230" column="0" />
         <mark key="^" line="230" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-063436.log" timestamp="1531982249341" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1531463856018">
         <mark key="'" line="333" column="0" />
         <mark key="[" line="348" column="9" />
@@ -203,7 +204,11 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1530445677826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531978854996" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531982033853">
+        <mark key="[" line="5" column="108" />
+        <mark key="]" line="5" column="108" />
+        <mark key="." line="5" column="108" />
+      </file>
       <file name="/utils_dynamictable [Django default]" timestamp="1531456517558">
         <mark key="[" line="0" column="0" />
       </file>
@@ -314,11 +319,11 @@
       <jump line="231" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgTXlDbGFzczoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCiAgICAKICAgIEBwcm9wZXJ0eQogICAgZGVmIG15X3ZhcihzZWxmKToKICAgICAgICBwYXNzCiAgICAKICAgIEBteV92YXIuc2V0dGVyCiAgICBkZWYgbXlfdmEK</text>
+      <register name="&quot;" type="4">
+        <text>EntityRelationship not found for Condition Entity ID</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>EntityRelationship not found for Condition Entity ID</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
