@@ -50,7 +50,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console_1.sql" timestamp="1531120512913">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE_SYMPTOM_RELATIONSHIPS_REVIEW_20180720-022913.log" timestamp="1532055272466" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE_SYMPTOM_RELATIONSHIPS_REVIEW_20180720-022913.log" timestamp="1532056234441" />
       <file name="/django_migrations [Postgres_Dev_Local]" timestamp="1530166601487">
         <mark key="[" line="0" column="0" />
       </file>
