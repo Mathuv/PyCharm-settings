@@ -11,10 +11,6 @@
       <file name="/a.dummy" timestamp="1530777382390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0002_link_disgnosis_symptoms_diseases_with_entities.py" timestamp="1531902493547">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="250" column="103" />
-      </file>
       <file name="/diagnosis_symptom [Quro_DEV_RDS]" timestamp="1530735085577">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,10 +38,10 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/dev.txt" timestamp="1530090797555">
         <mark key="[" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1531960815415">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532051524407">
         <mark key="d" line="433" column="52" />
         <mark key="'" line="231" column="0" />
-        <mark key="[" line="1167" column="118" />
+        <mark key="[" line="120" column="33" />
         <mark key="m" line="883" column="37" />
         <mark key="]" line="791" column="6" />
         <mark key="^" line="791" column="6" />
@@ -82,23 +78,16 @@
       <file name="/Clipboard.txt" timestamp="1529284452792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1531895422598">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="65" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="0" column="64" />
-        <mark key="^" line="0" column="64" />
-      </file>
       <file name="/utils_dynamictable [Quro_DEV_RDS]" timestamp="1530492975561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532046748285">
+      <file name="/Python Console" timestamp="1532053500241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1531802350893">
+      <file name="/fragment.py" timestamp="1532053488940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -121,29 +110,25 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532049974947">
-        <mark key="'" line="232" column="66" />
-        <mark key="[" line="232" column="66" />
-        <mark key="]" line="250" column="78" />
-        <mark key="." line="250" column="78" />
-        <mark key="^" line="250" column="78" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532053736679">
+        <mark key="'" line="326" column="0" />
+        <mark key="[" line="272" column="143" />
+        <mark key="]" line="246" column="0" />
+        <mark key="." line="246" column="0" />
+        <mark key="^" line="246" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-063436.log" timestamp="1531982249341" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1531463856018">
-        <mark key="'" line="333" column="0" />
-        <mark key="[" line="348" column="9" />
-        <mark key="]" line="348" column="24" />
-        <mark key="^" line="348" column="24" />
-        <mark key="." line="348" column="24" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="42" column="90" />
         <mark key="." line="42" column="51" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="/Django Console" timestamp="1531208863962">
-        <mark key="[" line="0" column="0" />
+      <file name="/Django Console" timestamp="1532053116104">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d2590c03-33d6-42de-b774-a8649a7f8de4/console.sql" timestamp="1531974252212">
         <mark key="[" line="9" column="33" />
@@ -220,13 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="942" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="931" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="927" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="924" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="38" column="89" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" />
       <jump line="94" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
@@ -320,13 +298,20 @@
       <jump line="231" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="244" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="232" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="276" column="51" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="275" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="280" column="41" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="288" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="292" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="323" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="326" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>condition_entity_id</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>condition_entity_id</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
