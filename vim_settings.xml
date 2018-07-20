@@ -34,13 +34,13 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="/Python Console" timestamp="1532063681200">
+      <file name="/Python Console" timestamp="1532065626655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1532064621158">
+      <file name="/fragment.py" timestamp="1532065659469">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -60,12 +60,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532064680246">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532066825680">
         <mark key="'" line="326" column="0" />
-        <mark key="[" line="347" column="0" />
-        <mark key="]" line="347" column="0" />
-        <mark key="." line="347" column="0" />
-        <mark key="^" line="349" column="0" />
+        <mark key="[" line="330" column="32" />
+        <mark key="]" line="366" column="25" />
+        <mark key="." line="366" column="25" />
+        <mark key="^" line="366" column="25" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-063436.log" timestamp="1531982249341" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
@@ -210,8 +210,8 @@
       <jump line="326" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>self.load_data_from_google_spreadsheet('1UcAqyisomq1BT28K4H_P2pRU759B7_Q62OQeOtoZgjQ')</text>
       </register>
       <register name="-" type="4">
         <text>condition_entity_id</text>
@@ -219,8 +219,8 @@
       <register name="/" type="4">
         <text>handle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bXB0b21fZW50aXR5X2lkID0gcm93LmdldCgnU3ltcHRvbSBFbnRpdHkgSUQnKS5zdHJpcCgpIGlmIHJvdy5nZXQoJ1N5bXB0b20gRW50aXR5IElEJykgZWxzZSBOb25lCg==</text>
+      <register name="0" type="4">
+        <text>self.load_data_from_google_spreadsheet('1UcAqyisomq1BT28K4H_P2pRU759B7_Q62OQeOtoZgjQ')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
