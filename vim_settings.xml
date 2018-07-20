@@ -60,7 +60,7 @@
       <file name="/diagnosis_symptomattributes [Quro_DEV_RDS]" timestamp="1527818704083">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-235214.log" timestamp="1532046075006" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-235214.log" timestamp="1532046653684" />
       <file name="d64a8f75-3c5d-42aa-833e-023f367fafc7/consoles/Quro_DEV_RDS" timestamp="1528258723468">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,7 +92,7 @@
       <file name="/utils_dynamictable [Quro_DEV_RDS]" timestamp="1530492975561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531985697085">
+      <file name="/Python Console" timestamp="1532046748285">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="48" />
@@ -121,7 +121,7 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532045709287">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532047414635">
         <mark key="'" line="244" column="20" />
         <mark key="[" line="260" column="114" />
         <mark key="]" line="260" column="114" />
