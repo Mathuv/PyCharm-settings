@@ -94,6 +94,11 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180720-003537.log" timestamp="1532049173263" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE_SYMPTOM_RELATIONSHIPS_REVIEW_20180720-073438.log" timestamp="1532169053574">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1531803573424">
         <mark key="'" line="20" column="9" />
         <mark key="[" line="22" column="45" />
@@ -211,10 +216,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.load_data_from_google_spreadsheet('1UcAqyisomq1BT28K4H_P2pRU759B7_Q62OQeOtoZgjQ')</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>condition_entity_id</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
