@@ -96,7 +96,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1530578944309">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1532334747311">
+        <mark key="'" line="26" column="57" />
         <mark key="[" line="817" column="12" />
         <mark key="]" line="943" column="20" />
         <mark key="^" line="943" column="11" />
@@ -127,8 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="132" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="134" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="139" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
@@ -227,6 +226,8 @@
       <jump line="115" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="113" column="34" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="26" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -236,7 +237,7 @@
         <text>CACHE_TTL = getattr(settings, )</text>
       </register>
       <register name="/" type="4">
-        <text>cach</text>
+        <text>kb_disease</text>
       </register>
       <register name="0" type="4">
         <text>disease_attributes</text>
@@ -273,9 +274,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cach</last-search>
+      <last-search>kb_disease</last-search>
       <last-offset />
-      <last-pattern>cach</last-pattern>
+      <last-pattern>kb_disease</last-pattern>
       <last-replace>undo_merge_relationships</last-replace>
       <last-substitute>undo_merge_similar_entities</last-substitute>
       <last-dir>1</last-dir>
@@ -283,7 +284,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unmerge</entry>
         <entry>undo</entry>
         <entry>perform</entry>
         <entry>update_existing_sy</entry>
@@ -303,6 +303,7 @@
         <entry>kb_ent</entry>
         <entry>cahe</entry>
         <entry>cach</entry>
+        <entry>kb_disease</entry>
       </history-search>
       <history-cmd>
         <entry>help home</entry>
