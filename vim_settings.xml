@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/code.py" timestamp="1531974953552">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1532335986514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -20,6 +25,11 @@
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1532333169355">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE_SYMPTOM_RELATIONSHIPS_REVIEW_20180720-073438.log" timestamp="1532169053574">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
         <mark key="[" line="0" column="0" />
@@ -39,69 +49,10 @@
         <mark key="^" line="168" column="136" />
         <mark key="." line="168" column="136" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="42" column="90" />
-        <mark key="." line="42" column="51" />
-        <mark key="^" line="42" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532328758645">
-        <mark key="'" line="348" column="0" />
-        <mark key="[" line="348" column="26" />
-        <mark key="]" line="353" column="18" />
-        <mark key="^" line="353" column="18" />
-        <mark key="." line="353" column="18" />
-      </file>
-      <file name="/Django Console" timestamp="1532333275698">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532323426219">
-        <mark key="'" line="573" column="8" />
-        <mark key="[" line="611" column="0" />
-        <mark key="]" line="611" column="16" />
-        <mark key="n" line="299" column="38" />
-        <mark key="." line="611" column="16" />
-        <mark key="^" line="610" column="29" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" timestamp="1532333321548">
-        <mark key="'" line="113" column="34" />
-        <mark key="[" line="140" column="62" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="127" column="1" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532311393805">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="59" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="45" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532324719683">
-        <mark key="'" line="195" column="76" />
-        <mark key="[" line="203" column="21" />
-        <mark key="]" line="200" column="18" />
-        <mark key="." line="200" column="18" />
-        <mark key="^" line="200" column="18" />
-      </file>
-      <file name="/code.py" timestamp="1531974953552">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE_SYMPTOM_RELATIONSHIPS_REVIEW_20180720-073438.log" timestamp="1532169053574">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1532335978229">
-        <mark key="'" line="1055" column="29" />
-        <mark key="[" line="1033" column="35" />
-        <mark key="]" line="1061" column="61" />
-        <mark key="." line="1061" column="61" />
-        <mark key="^" line="1061" column="61" />
+        <mark key="]" line="1033" column="61" />
+        <mark key="." line="1033" column="61" />
+        <mark key="^" line="1033" column="61" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1532310877796">
         <mark key="'" line="20" column="9" />
@@ -115,16 +66,48 @@
         <mark key="[" line="112" column="0" />
         <mark key="]" line="113" column="37" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="42" column="90" />
+        <mark key="." line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532328758645">
+        <mark key="'" line="348" column="0" />
+        <mark key="[" line="348" column="26" />
+        <mark key="]" line="353" column="18" />
+        <mark key="^" line="353" column="18" />
+        <mark key="." line="353" column="18" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531985890595">
         <mark key="[" line="5" column="108" />
         <mark key="]" line="5" column="108" />
         <mark key="." line="5" column="108" />
+      </file>
+      <file name="/Django Console" timestamp="1532333275698">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1531464191945">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="6" column="51" />
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532311393805">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="59" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="45" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532324719683">
+        <mark key="'" line="195" column="76" />
+        <mark key="[" line="203" column="21" />
+        <mark key="]" line="200" column="18" />
+        <mark key="." line="200" column="18" />
+        <mark key="^" line="200" column="18" />
       </file>
     </filemarks>
     <jumps>
