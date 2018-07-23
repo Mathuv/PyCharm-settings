@@ -100,12 +100,12 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532321762362">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532324719683">
         <mark key="'" line="195" column="76" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="202" column="20" />
-        <mark key="." line="202" column="20" />
-        <mark key="^" line="202" column="20" />
+        <mark key="[" line="203" column="21" />
+        <mark key="]" line="200" column="18" />
+        <mark key="." line="200" column="18" />
+        <mark key="^" line="200" column="18" />
       </file>
     </filemarks>
     <jumps>
