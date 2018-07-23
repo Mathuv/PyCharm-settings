@@ -1,9 +1,7 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="N" line="883" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" protocol="file" />
-    </globalmarks>
+    <globalmarks />
     <filemarks>
       <file name="/code.py" timestamp="1531974953552">
         <mark key="[" line="0" column="0" />
@@ -40,13 +38,6 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532066825680">
-        <mark key="'" line="326" column="0" />
-        <mark key="[" line="330" column="32" />
-        <mark key="]" line="366" column="25" />
-        <mark key="." line="366" column="25" />
-        <mark key="^" line="366" column="25" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
         <mark key="[" line="180" column="133" />
         <mark key="]" line="168" column="136" />
@@ -59,9 +50,9 @@
         <mark key="^" line="943" column="11" />
         <mark key="." line="943" column="20" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1531803573424">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1532310877796">
         <mark key="'" line="20" column="9" />
-        <mark key="[" line="22" column="45" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="45" />
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
@@ -83,20 +74,18 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532051524407">
-        <mark key="d" line="433" column="52" />
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="120" column="33" />
-        <mark key="m" line="883" column="37" />
-        <mark key="]" line="791" column="6" />
-        <mark key="^" line="791" column="6" />
-        <mark key="." line="791" column="6" />
-      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532051524407" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1531464191945">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="6" column="51" />
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532311393805">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="59" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1531973676111">
         <mark key="'" line="155" column="22" />
@@ -210,16 +199,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>system_anatomy</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>predictor_category</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
       </register>
       <register name="0" type="4">
-        <text>self.load_data_from_google_spreadsheet('1UcAqyisomq1BT28K4H_P2pRU759B7_Q62OQeOtoZgjQ')</text>
+        <text>system_anatomy</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
