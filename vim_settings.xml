@@ -55,7 +55,7 @@
         <mark key="." line="1033" column="61" />
         <mark key="^" line="1033" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1532310877796">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1532391099983">
         <mark key="'" line="20" column="9" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="45" />
@@ -85,13 +85,12 @@
         <mark key="]" line="5" column="108" />
         <mark key="." line="5" column="108" />
       </file>
-      <file name="/Django Console" timestamp="1532333275698">
+      <file name="/Django Console" timestamp="1532391936186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532388099284" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1531464191945">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="6" column="51" />
