@@ -73,12 +73,12 @@
         <mark key="." line="42" column="51" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532408727581">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532410480258">
         <mark key="'" line="415" column="0" />
-        <mark key="[" line="445" column="64" />
-        <mark key="]" line="457" column="20" />
-        <mark key="^" line="457" column="20" />
-        <mark key="." line="457" column="20" />
+        <mark key="[" line="464" column="32" />
+        <mark key="]" line="464" column="32" />
+        <mark key="^" line="464" column="32" />
+        <mark key="." line="464" column="32" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531985890595">
         <mark key="[" line="5" column="108" />
