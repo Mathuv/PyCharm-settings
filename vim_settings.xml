@@ -20,7 +20,7 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1532304521263">
+      <file name="/a.dummy" timestamp="1532393501559">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1532333169355">
@@ -37,9 +37,9 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532389535572">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532393931744">
         <mark key="'" line="314" column="139" />
-        <mark key="[" line="355" column="0" />
+        <mark key="[" line="326" column="59" />
         <mark key="]" line="355" column="32" />
         <mark key="^" line="354" column="46" />
         <mark key="." line="355" column="32" />
@@ -97,22 +97,21 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532311393805">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="59" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="45" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532393357588">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532324719683">
-        <mark key="'" line="195" column="76" />
-        <mark key="[" line="203" column="21" />
-        <mark key="]" line="200" column="18" />
-        <mark key="." line="200" column="18" />
-        <mark key="^" line="200" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532394007332">
+        <mark key="'" line="198" column="7" />
+        <mark key="[" line="200" column="16" />
+        <mark key="]" line="200" column="16" />
+        <mark key="." line="200" column="16" />
+        <mark key="^" line="200" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="41" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="288" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="292" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="323" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
@@ -212,19 +211,20 @@
       <jump line="619" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1055" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="306" column="139" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="198" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>disease_scoring</text>
       </register>
       <register name="0" type="4">
-        <text>ATTRIBUTE_KEY_CONFIRMATION_SYMPTOM</text>
+        <text>confirmation_symptom</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
