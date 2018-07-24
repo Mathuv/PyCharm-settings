@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1532413291141">
+      <file name="/Dummy.txt" timestamp="1532415264993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1531974953552">
@@ -11,7 +11,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532395351613">
+      <file name="/Python Console" timestamp="1532415045544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="48" />
@@ -91,7 +91,7 @@
       <file name="/a.sql" timestamp="1532405498845">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1532391936186">
+      <file name="/Django Console" timestamp="1532415206501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -102,6 +102,9 @@
         <mark key="]" line="6" column="51" />
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
+        <mark key="[" line="101" column="103" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532396032989">
         <mark key="[" line="16" column="45" />
