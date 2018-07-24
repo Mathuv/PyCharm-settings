@@ -73,17 +73,20 @@
         <mark key="." line="42" column="51" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532396859256">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532405235664">
         <mark key="'" line="328" column="0" />
-        <mark key="[" line="351" column="20" />
-        <mark key="]" line="351" column="20" />
-        <mark key="^" line="351" column="20" />
-        <mark key="." line="351" column="20" />
+        <mark key="[" line="370" column="3" />
+        <mark key="]" line="370" column="9" />
+        <mark key="^" line="370" column="9" />
+        <mark key="." line="370" column="9" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531985890595">
         <mark key="[" line="5" column="108" />
         <mark key="]" line="5" column="108" />
         <mark key="." line="5" column="108" />
+      </file>
+      <file name="/a.sql" timestamp="1532405498845">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Django Console" timestamp="1532391936186">
         <mark key="[" line="0" column="0" />
@@ -102,6 +105,9 @@
         <mark key="]" line="16" column="44" />
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
+      </file>
+      <file name="/dummy.sql" timestamp="1532404816238">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532395924718">
         <mark key="'" line="198" column="7" />
@@ -215,10 +221,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kb_entityattribute</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>kb_entityattribute</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>disease_scoring</text>
