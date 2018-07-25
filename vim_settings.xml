@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1532523872204">
+      <file name="/Python Console" timestamp="1532560151661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="48" />
@@ -27,11 +27,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532524190223">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532560167105">
         <mark key="'" line="407" column="16" />
         <mark key="[" line="427" column="30" />
         <mark key="]" line="216" column="1" />
-        <mark key="." line="216" column="1" />
+        <mark key="." line="117" column="141" />
         <mark key="^" line="216" column="1" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
