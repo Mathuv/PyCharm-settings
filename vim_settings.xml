@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1532520469101">
+      <file name="/Python Console" timestamp="1532523872204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="48" />
@@ -27,12 +27,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532520991140">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532524190223">
         <mark key="'" line="407" column="16" />
         <mark key="[" line="427" column="30" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="7" column="41" />
+        <mark key="]" line="216" column="1" />
+        <mark key="." line="216" column="1" />
+        <mark key="^" line="216" column="1" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
         <mark key="[" line="180" column="133" />
@@ -254,7 +254,7 @@
         <text encoding="base64">KENBU0UKICAgICAgIFdIRU4ga2Uua2V5X2lkID0gJ0FfMycKICAgICAgICAgVEhFTiBjYXN0KHZhbHVlIEFTIERPVUJMRSBQUkVDSVNJT04pID4gMC4wMgogICAgICAgRU5EKQ==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>history</text>
       </register>
     </registers>
     <search>
@@ -290,7 +290,6 @@
         <entry>except</entry>
       </history-search>
       <history-cmd>
-        <entry>WQ</entry>
         <entry>help</entry>
         <entry>substitute</entry>
         <entry>143,148/out.//g</entry>
@@ -310,6 +309,7 @@
         <entry>s/handle_relationships_review_spreadsheet/update_existing_relationships</entry>
         <entry>%s/handle_relationships_review_spreadsheet/update_existing_relationships/gc</entry>
         <entry>w</entry>
+        <entry>history</entry>
       </history-cmd>
       <history-expr />
       <history-input />
