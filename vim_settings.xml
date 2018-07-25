@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1532415264993">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1531974953552">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1532415400097">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -28,11 +20,6 @@
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1532333169355">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE_SYMPTOM_RELATIONSHIPS_REVIEW_20180720-073438.log" timestamp="1532169053574">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
         <mark key="[" line="0" column="0" />
@@ -53,6 +40,65 @@
         <mark key="^" line="168" column="136" />
         <mark key="." line="168" column="136" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="42" column="90" />
+        <mark key="." line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532492611352">
+        <mark key="'" line="123" column="25" />
+        <mark key="[" line="619" column="58" />
+        <mark key="]" line="621" column="0" />
+        <mark key="^" line="621" column="0" />
+        <mark key="." line="621" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/acd3a14e-d9a5-4a6e-b1e5-550f48175043/console.sql" timestamp="1532492232373">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1532405498845">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1532415206501">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d2590c03-33d6-42de-b774-a8649a7f8de4/console.sql" timestamp="1532491717538" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532396032989">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+      </file>
+      <file name="/dummy.sql" timestamp="1532404816238">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532395924718">
+        <mark key="'" line="198" column="7" />
+        <mark key="[" line="203" column="5" />
+        <mark key="]" line="203" column="34" />
+        <mark key="." line="203" column="34" />
+        <mark key="^" line="203" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1532491868742">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1531974953552">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE_SYMPTOM_RELATIONSHIPS_REVIEW_20180720-073438.log" timestamp="1532169053574">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1532335978229">
         <mark key="]" line="1033" column="61" />
         <mark key="." line="1033" column="61" />
@@ -70,33 +116,10 @@
         <mark key="[" line="96" column="37" />
         <mark key="]" line="116" column="37" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="42" column="90" />
-        <mark key="." line="42" column="51" />
-        <mark key="^" line="42" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532419418967">
-        <mark key="'" line="588" column="5" />
-        <mark key="[" line="570" column="21" />
-        <mark key="]" line="553" column="10" />
-        <mark key="^" line="553" column="10" />
-        <mark key="." line="553" column="10" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531985890595">
         <mark key="[" line="5" column="108" />
         <mark key="]" line="5" column="108" />
         <mark key="." line="5" column="108" />
-      </file>
-      <file name="/a.sql" timestamp="1532405498845">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env/lib/python3.4/site-packages/sqlalchemy/events.py" timestamp="1532415732401" />
-      <file name="/Django Console" timestamp="1532415206501">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1531464191945">
         <mark key="[" line="2" column="26" />
@@ -107,45 +130,8 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532396032989">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="44" />
-        <mark key="^" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-      </file>
-      <file name="/dummy.sql" timestamp="1532404816238">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532395924718">
-        <mark key="'" line="198" column="7" />
-        <mark key="[" line="203" column="5" />
-        <mark key="]" line="203" column="34" />
-        <mark key="." line="203" column="34" />
-        <mark key="^" line="203" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="6" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
-      <jump line="137" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
-      <jump line="115" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
-      <jump line="113" column="34" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1061" column="61" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1064" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1065" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1071" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1077" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1078" column="79" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1081" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1084" column="80" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1085" column="80" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1089" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1091" column="80" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="2" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1056" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1070" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="26" column="60" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="619" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1055" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
@@ -167,7 +153,6 @@
       <jump line="105" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="109" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="114" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
-      <jump line="119" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="126" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="135" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="140" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
@@ -225,19 +210,41 @@
       <jump line="548" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="546" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="586" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="6" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/acd3a14e-d9a5-4a6e-b1e5-550f48175043/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/acd3a14e-d9a5-4a6e-b1e5-550f48175043/console.sql" />
+      <jump line="581" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="618" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="619" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="615" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="609" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="608" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="601" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="597" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="564" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="527" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="523" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="526" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="558" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="561" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="563" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="585" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="621" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="119" column="133" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="123" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBlci5tZWRpdXNfaWQsCiAgZXIuZW50aXR5X2Zyb21faWQsCiAgZXIuZW50aXR5X3RvX2lkLAogIGVyLmVudGl0eV9yZWxhdGlvbnNoaXBfdHlwZV9pZCwK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKd2hlcmUgZW50aXR5X2Zyb21faWQgaW4gKCdFXzAwMDAxNzYwNjcnLCAnRV8wMDAwMzQxNjkxJykKICAgICAgYW5kIGVudGl0eV90b19pZCBpbiAoJ0VfMDAwMDE3NjA2NycsICdFXzAwMDAzNDE2OTEnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>AS entity_relationship_id</text>
       </register>
       <register name="/" type="4">
-        <text>SELECT</text>
+        <text>ship_type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBrYl9lbnRpdHlhdHRyaWJ1dGUKd2hlcmUga2V5X2lkPSdBXzknOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKd2hlcmUgZW50aXR5X2Zyb21faWQgaW4gKCdFXzAwMDAxNzYwNjcnLCAnRV8wMDAwMzQxNjkxJykKICAgICAgYW5kIGVudGl0eV90b19pZCBpbiAoJ0VfMDAwMDE3NjA2NycsICdFXzAwMDAzNDE2OTEnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBlci5tZWRpdXNfaWQsCiAgZXIuZW50aXR5X2Zyb21faWQsCiAgZXIuZW50aXR5X3RvX2lkLAogIGVyLmVudGl0eV9yZWxhdGlvbnNoaXBfdHlwZV9pZCwK</text>
@@ -271,17 +278,16 @@
       </register>
     </registers>
     <search>
-      <last-search>SELECT</last-search>
+      <last-search>ship_type</last-search>
       <last-offset />
-      <last-pattern>SELECT</last-pattern>
+      <last-pattern>ship_type</last-pattern>
       <last-replace>undo_merge_relationships</last-replace>
       <last-substitute>undo_merge_similar_entities</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>period</entry>
         <entry encoding="base64">XDxzeW1wdG9tX25hbWVcPg==</entry>
         <entry>parent</entry>
         <entry>duplicate</entry>
@@ -301,6 +307,7 @@
         <entry>disease_scoring</entry>
         <entry>select</entry>
         <entry>SELECT</entry>
+        <entry>ship_type</entry>
       </history-search>
       <history-cmd>
         <entry>help home</entry>
