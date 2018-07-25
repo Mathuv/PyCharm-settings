@@ -70,12 +70,6 @@
         <mark key="." line="0" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d2590c03-33d6-42de-b774-a8649a7f8de4/console.sql" timestamp="1532491717538" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1532396032989">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="44" />
-        <mark key="^" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-      </file>
       <file name="/dummy.sql" timestamp="1532404816238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,9 +106,9 @@
         <mark key="." line="22" column="45" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1532417775825">
-        <mark key="'" line="782" column="0" />
+        <mark key="'" line="779" column="0" />
         <mark key="[" line="96" column="37" />
-        <mark key="]" line="116" column="37" />
+        <mark key="]" line="113" column="37" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/diagnosis/management/commands/DISEASE SYMPTOM RELATIONSHIPS REVIEW_20180719-053625.log" timestamp="1531985890595">
         <mark key="[" line="5" column="108" />
