@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1532570339490">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="48" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1532570364590">
+      <file name="/fragment.py" timestamp="1532573831112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -27,12 +21,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532571964285">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532573705738">
         <mark key="'" line="63" column="37" />
-        <mark key="[" line="438" column="83" />
-        <mark key="]" line="438" column="24" />
-        <mark key="." line="438" column="24" />
-        <mark key="^" line="438" column="23" />
+        <mark key="[" line="314" column="46" />
+        <mark key="]" line="318" column="24" />
+        <mark key="." line="121" column="52" />
+        <mark key="^" line="121" column="52" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
         <mark key="[" line="180" column="133" />
@@ -46,12 +40,12 @@
         <mark key="." line="42" column="51" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532571273979">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1532573301063">
         <mark key="'" line="618" column="0" />
-        <mark key="[" line="632" column="11" />
-        <mark key="]" line="629" column="5" />
-        <mark key="^" line="629" column="5" />
-        <mark key="." line="629" column="5" />
+        <mark key="[" line="643" column="35" />
+        <mark key="]" line="644" column="111" />
+        <mark key="^" line="644" column="111" />
+        <mark key="." line="644" column="111" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/acd3a14e-d9a5-4a6e-b1e5-550f48175043/console.sql" timestamp="1532492232373">
         <mark key="'" line="0" column="0" />
@@ -68,12 +62,12 @@
       <file name="/dummy.sql" timestamp="1532404816238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532571778277">
-        <mark key="'" line="225" column="2" />
-        <mark key="[" line="229" column="26" />
-        <mark key="]" line="229" column="27" />
-        <mark key="." line="229" column="27" />
-        <mark key="^" line="229" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1532572434507">
+        <mark key="'" line="233" column="0" />
+        <mark key="[" line="236" column="21" />
+        <mark key="]" line="241" column="30" />
+        <mark key="." line="241" column="30" />
+        <mark key="^" line="241" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1532491868742">
         <mark key="[" line="0" column="0" />
@@ -109,7 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="564" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="527" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="523" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="526" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
@@ -209,19 +202,28 @@
       <jump line="123" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="87" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="63" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="233" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>EntityRelationship.objects.filter(
+                            entity_from_id=condition_entity_id,
+                            entity_to_id=symptom_entity_id,
+                            entity_relationship_type_id=relationship_type_id,
+                        )</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>add_new</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0CiAgc3Vic3RyKG1lZGl1c19pZCwzKSwKLS0gICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDYpIEFTIElOVEVHRVIpICwKICBtZWRpdXNfaWQKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKb3JkZXIgYnkKLS0gICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpIERFU0MKICAgIHN1YnN0cihtZWRpdXNfaWQsIDMpICBBU0MKbGltaXQgMTA7Cg==</text>
+      <register name="0" type="4">
+        <text>EntityRelationship.objects.filter(
+                            entity_from_id=condition_entity_id,
+                            entity_to_id=symptom_entity_id,
+                            entity_relationship_type_id=relationship_type_id,
+                        )</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpICwKICBtZWRpdXNfaWQKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKb3JkZXIgYnkKLS0gICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpIERFU0MKICAgIHN1YnN0cihtZWRpdXNfaWQsIDMpICBERVNDCmxpbWl0IDEwOw==</text>
