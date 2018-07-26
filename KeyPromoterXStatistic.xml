@@ -374,7 +374,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>519</Count>
+          <Count>521</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -462,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '0008_update_entity_relationships_with_google_spreadsheet'</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '0009_refresh_nonprod_db_from_prod_db'">
@@ -566,7 +566,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">
