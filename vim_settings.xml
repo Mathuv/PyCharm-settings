@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1532579882814">
+      <file name="/Python Console" timestamp="1532653939333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532579339341">
@@ -60,6 +60,7 @@
       <file name="/a.sql" timestamp="1532405498845">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1532654191048" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d2590c03-33d6-42de-b774-a8649a7f8de4/console.sql" timestamp="1532491717538" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532582884901">
         <mark key="'" line="22" column="22" />
@@ -82,11 +83,6 @@
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" timestamp="1532571529222">
         <mark key="'" line="334" column="49" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1532335978229">
-        <mark key="]" line="1033" column="61" />
-        <mark key="." line="1033" column="61" />
-        <mark key="^" line="1033" column="61" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1532391099983">
         <mark key="'" line="20" column="9" />
