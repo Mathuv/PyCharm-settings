@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1532653939333">
+      <file name="/Dummy.txt" timestamp="1532491868742">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1532657828636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532579339341">
@@ -24,18 +27,21 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532651421223">
-        <mark key="'" line="395" column="0" />
-        <mark key="[" line="389" column="8" />
-        <mark key="]" line="389" column="8" />
-        <mark key="." line="389" column="8" />
-        <mark key="^" line="389" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" timestamp="1532571529222">
+        <mark key="'" line="334" column="49" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
         <mark key="[" line="180" column="133" />
         <mark key="]" line="168" column="136" />
         <mark key="^" line="168" column="136" />
         <mark key="." line="168" column="136" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1532391099983">
+        <mark key="'" line="20" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
         <mark key="[" line="43" column="0" />
@@ -60,13 +66,17 @@
       <file name="/a.sql" timestamp="1532405498845">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1532654191048" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d2590c03-33d6-42de-b774-a8649a7f8de4/console.sql" timestamp="1532491717538" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532582884901">
-        <mark key="'" line="22" column="22" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="22" column="26" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1532657797553">
+        <mark key="'" line="161" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1531464191945">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
+        <mark key="[" line="101" column="103" />
       </file>
       <file name="/dummy.sql" timestamp="1532404816238">
         <mark key="[" line="0" column="0" />
@@ -78,40 +88,8 @@
         <mark key="." line="249" column="31" />
         <mark key="^" line="249" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532491868742">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" timestamp="1532571529222">
-        <mark key="'" line="334" column="49" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1532391099983">
-        <mark key="'" line="20" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1532417775825">
-        <mark key="'" line="779" column="0" />
-        <mark key="[" line="96" column="37" />
-        <mark key="]" line="113" column="37" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1531464191945">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="6" column="51" />
-        <mark key="^" line="6" column="51" />
-        <mark key="." line="6" column="51" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
-        <mark key="[" line="101" column="103" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
-      <jump line="266" column="6" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
-      <jump line="283" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
-      <jump line="284" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
-      <jump line="285" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
       <jump line="290" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
       <jump line="291" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
       <jump line="298" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
@@ -197,7 +175,6 @@
       <jump line="450" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="488" column="28" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="17" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="77" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="80" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="193" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="200" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
@@ -207,27 +184,45 @@
       <jump line="396" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="389" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="395" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="77" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="188" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="180" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfc2VsZWN0ZWRfc3ltcHRvbXM9a2JfdXNlcl9zZWxlY3RlZF9zeW1wdG9tc19saXN0LAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
+        <text>disease_scoring</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVkaXVzX2lkPW5ld19yZWxhdGlvbnNoaXBfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eV9mcm9tX2lkPWNvbmRpdGlvbl9lbnRpdHlfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eV90b19pZD1zeW1wdG9tX2VudGl0eV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5X3JlbGF0aW9uc2hpcF90eXBlX2lkPXJlbGF0aW9uc2hpcF90eXBlX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfc2VsZWN0ZWRfc3ltcHRvbXM9a2JfdXNlcl9zZWxlY3RlZF9zeW1wdG9tc19saXN0LAo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="2" type="8">
+      <register name="6" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>#
 #
 #
@@ -235,32 +230,20 @@
 #
 #</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eV9yZWxhdGlvbnNoaXAgPSBOb25lCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpICwKICBtZWRpdXNfaWQKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKb3JkZXIgYnkKLS0gICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpIERFU0MKICAgIHN1YnN0cihtZWRpdXNfaWQsIDMpICBERVNDCmxpbWl0IDEwOw==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVHVybiBvZmYgZGphbmdvJ3MgZGVmYXVsdCBhdXRvY29tbWl0LCBzbyB0aGF0IHdlIGNhbiBwcm9ncmFtYXRpYWxseSBjb21taXQgYW5kIHJvbGxiYWNrIGFzIHJlcXVyZWQKICAgICAgICAgICAgICAgIHRyYW5zYWN0aW9uLnNldF9hdXRvY29tbWl0KGF1dG9jb21taXQ9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eV9yZWxhdGlvbnNoaXAgPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2FjdGlvblw+</last-search>
+      <last-search>disease_scoring</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2FjdGlvblw+</last-pattern>
+      <last-pattern>disease_scoring</last-pattern>
       <last-replace>update_existing_relationships</last-replace>
       <last-substitute>handle_relationships_review_spreadsheet</last-substitute>
       <last-dir>1</last-dir>
@@ -273,7 +256,6 @@
         <entry>cach</entry>
         <entry>kb_disease</entry>
         <entry>disea</entry>
-        <entry>disease_scoring</entry>
         <entry>select</entry>
         <entry>SELECT</entry>
         <entry>ship_type</entry>
@@ -288,6 +270,7 @@
         <entry>logfile</entry>
         <entry>log_file</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
+        <entry>disease_scoring</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
