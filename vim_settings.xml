@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1532491868742">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532657828636">
+      <file name="/Python Console" timestamp="1532659232026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532579339341">
@@ -26,6 +26,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532659372150">
+        <mark key="[" line="121" column="116" />
+        <mark key="]" line="128" column="104" />
+        <mark key="^" line="128" column="104" />
+        <mark key="." line="128" column="104" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" timestamp="1532571529222">
         <mark key="'" line="334" column="49" />
@@ -192,11 +198,11 @@
       <jump line="161" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfc2VsZWN0ZWRfc3ltcHRvbXM9a2JfdXNlcl9zZWxlY3RlZF9zeW1wdG9tc19saXN0LAo=</text>
+      <register name="&quot;" type="4">
+        <text>NEW HAS SYMPTOM RELATIONSHIPS</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NEW HAS SYMPTOM RELATIONSHIPS</text>
       </register>
       <register name="/" type="4">
         <text>disease_scoring</text>
@@ -237,7 +243,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eV9yZWxhdGlvbnNoaXAgPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -290,9 +296,9 @@
         <entry>promptr</entry>
         <entry>s/handle_relationships_review_spreadsheet/update_existing_relationships</entry>
         <entry>%s/handle_relationships_review_spreadsheet/update_existing_relationships/gc</entry>
-        <entry>w</entry>
         <entry>history</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
