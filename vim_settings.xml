@@ -24,10 +24,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532592404297">
-        <mark key="]" line="77" column="14" />
-        <mark key="." line="77" column="14" />
-        <mark key="^" line="77" column="14" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532651421223">
+        <mark key="'" line="395" column="0" />
+        <mark key="[" line="389" column="8" />
+        <mark key="]" line="389" column="8" />
+        <mark key="." line="389" column="8" />
+        <mark key="^" line="389" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
         <mark key="[" line="180" column="133" />
@@ -109,9 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
-      <jump line="248" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
-      <jump line="249" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
       <jump line="253" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
       <jump line="266" column="6" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
       <jump line="283" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" />
@@ -209,13 +208,16 @@
       <jump line="322" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="373" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="382" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="396" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="389" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="395" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Relationship already exists:</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="-" type="4">
-        <text>Relationship already exists:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
@@ -223,32 +225,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVkaXVzX2lkPW5ld19yZWxhdGlvbnNoaXBfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eV9mcm9tX2lkPWNvbmRpdGlvbl9lbnRpdHlfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eV90b19pZD1zeW1wdG9tX2VudGl0eV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5X3JlbGF0aW9uc2hpcF90eXBlX2lkPXJlbGF0aW9uc2hpcF90eXBlX2lkCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eV9yZWxhdGlvbnNoaXAgPSBOb25lCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpICwKICBtZWRpdXNfaWQKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKb3JkZXIgYnkKLS0gICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpIERFU0MKICAgIHN1YnN0cihtZWRpdXNfaWQsIDMpICBERVNDCmxpbWl0IDEwOw==</text>
+      <register name="3" type="8">
+        <text>#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eV9yZWxhdGlvbnNoaXAgPSBOb25lCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVHVybiBvZmYgZGphbmdvJ3MgZGVmYXVsdCBhdXRvY29tbWl0LCBzbyB0aGF0IHdlIGNhbiBwcm9ncmFtYXRpYWxseSBjb21taXQgYW5kIHJvbGxiYWNrIGFzIHJlcXVyZWQKICAgICAgICAgICAgICAgIHRyYW5zYWN0aW9uLnNldF9hdXRvY29tbWl0KGF1dG9jb21taXQ9RmFsc2UpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpICwKICBtZWRpdXNfaWQKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKb3JkZXIgYnkKLS0gICBjYXN0KHN1YnN0cihtZWRpdXNfaWQsIDMpIEFTIElOVEVHRVIpIERFU0MKICAgIHN1YnN0cihtZWRpdXNfaWQsIDMpICBERVNDCmxpbWl0IDEwOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgID1yZWxhdGlvbnNoaXBfdHlwZV9pZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Igc2hlZXQgaW4gc2VsZi5sb2FkX2RhdGFfZnJvbV9nb29nbGVfc3ByZWFkc2hlZXQoJzFVY0FxeWlzb21xMUJUMjhLNEhfUDJwUlU3NTlCN19RNjJPUWVPdG9aZ2pRJywgIk5FVyBSRUxBVElPTlNISVBTIik6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubmV3ZGF0YS5kaWN0ID0gc2hlZXQKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfbmV3X3JlbGF0aW9uc2hpcHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVHVybiBvZmYgZGphbmdvJ3MgZGVmYXVsdCBhdXRvY29tbWl0LCBzbyB0aGF0IHdlIGNhbiBwcm9ncmFtYXRpYWxseSBjb21taXQgYW5kIHJvbGxiYWNrIGFzIHJlcXVyZWQKICAgICAgICAgICAgICAgIHRyYW5zYWN0aW9uLnNldF9hdXRvY29tbWl0KGF1dG9jb21taXQ9RmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
