@@ -33,6 +33,9 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" timestamp="1532661873085">
         <mark key="'" line="334" column="49" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532786759819">
+        <mark key="[" line="73" column="9" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
         <mark key="[" line="180" column="133" />
         <mark key="]" line="168" column="136" />
@@ -72,12 +75,15 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1532657797553">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532772322645">
+      <file name="/Django Console" timestamp="1532786373516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532786788126">
         <mark key="'" line="76" column="37" />
-        <mark key="[" line="837" column="0" />
-        <mark key="]" line="837" column="28" />
-        <mark key="^" line="824" column="35" />
-        <mark key="." line="837" column="28" />
+        <mark key="[" line="153" column="53" />
+        <mark key="]" line="153" column="12" />
+        <mark key="^" line="153" column="12" />
+        <mark key="." line="153" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1531464191945">
         <mark key="[" line="2" column="26" />
@@ -202,11 +208,11 @@
       <jump line="76" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKd2hlcmUgZW50aXR5X3JlbGF0aW9uc2hpcF90eXBlX2lkPSdFUlRfMzA0Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>env_prefix</text>
       </register>
       <register name="-" type="4">
-        <text>add_new_has_symptom_relationships</text>
+        <text>env_prefix</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWdfZml4X3J1blw+</text>
