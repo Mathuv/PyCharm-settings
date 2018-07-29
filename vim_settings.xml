@@ -33,8 +33,11 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" timestamp="1532661873085">
         <mark key="'" line="334" column="49" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532786759819">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1532840293453">
         <mark key="[" line="73" column="9" />
+        <mark key="]" line="81" column="7" />
+        <mark key="^" line="81" column="7" />
+        <mark key="." line="81" column="7" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
         <mark key="[" line="180" column="133" />
@@ -48,6 +51,9 @@
         <mark key="]" line="22" column="45" />
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1532840305406">
+        <mark key="'" line="184" column="12" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
         <mark key="[" line="43" column="0" />
@@ -106,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1370" column="60" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="1464" column="45" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="1467" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="1476" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
@@ -206,6 +211,7 @@
       <jump line="1247" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="1361" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="76" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="184" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
