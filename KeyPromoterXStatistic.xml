@@ -254,7 +254,7 @@
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
           <ShortCut>'⌥⌘↓'</ShortCut>
           <Description>Next Page</Description>
-          <Count>29</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -302,7 +302,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'⌥⌘L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
