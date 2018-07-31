@@ -79,12 +79,12 @@
       <file name="/Django Console" timestamp="1532786373516">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533020745866">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533021816495">
         <mark key="'" line="759" column="0" />
-        <mark key="[" line="767" column="117" />
-        <mark key="]" line="767" column="130" />
-        <mark key="^" line="767" column="130" />
-        <mark key="." line="767" column="130" />
+        <mark key="[" line="767" column="88" />
+        <mark key="]" line="767" column="99" />
+        <mark key="^" line="767" column="99" />
+        <mark key="." line="767" column="99" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/acd3a14e-d9a5-4a6e-b1e5-550f48175043/console.sql" timestamp="1532492232373">
         <mark key="'" line="0" column="0" />
@@ -224,10 +224,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'E_0000341320','E_0000025861', 'E_0000122651'</text>
+        <text>E_0000341320','E_0000025861</text>
       </register>
       <register name="-" type="4">
-        <text>'E_0000341320','E_0000025861', 'E_0000122651'</text>
+        <text>E_0000341320','E_0000025861</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGUk9NXD4=</text>
