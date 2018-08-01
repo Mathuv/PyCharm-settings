@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1533093999115">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/search/views.py" timestamp="1533109365562">
+        <mark key="[" line="82" column="40" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1533108752315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1532579339341">
+      <file name="/fragment.py" timestamp="1533108741074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -103,13 +109,13 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1533089255349">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1533109548055">
         <mark key="'" line="962" column="16" />
         <mark key="j" line="897" column="12" />
-        <mark key="[" line="1115" column="85" />
-        <mark key="]" line="1116" column="27" />
+        <mark key="[" line="1021" column="62" />
+        <mark key="]" line="1021" column="62" />
         <mark key="^" line="1116" column="27" />
-        <mark key="." line="1116" column="27" />
+        <mark key="." line="1021" column="62" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1533094798819" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533021816495">
@@ -240,11 +246,11 @@
       <jump line="962" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkZWFjdGl2YXRlIHN5bXB0b21zIHdpdGhvdXQgYSBxdWVzdGlvbgogICAgICAgICAgICBpZiBzeW1wdG9tLnN5bXB0b21fc3RhdHVzID09IDEgYW5kIHN5bXB0b20uc3ltcHRvbV9xdWVzdGlvbiA9PSBOb25lOgogICAgICAgICAgICAgICAgY291bnQgKz0gMQogICAgICAgICAgICAgICAgc3ltcHRvbS5zeW1wdG9tX3N0YXR1cyA9IDAKICAgICAgICAgICAgICAgIGlmIG5vdCBzZWxmLmRyeXJ1bjoKICAgICAgICAgICAgICAgICAgICBzeW1wdG9tLnNhdmUoKQogICAgICAgICAgICAgICAgcHJpbnQoIkRlYWN0aXZhdGUgZGlhZ25vc2lzIHN5bXB0b206IHt9IC0ge30iLmZvcm1hdChzeW1wdG9tLnN5bXB0b21faWQsIHN5bXB0b20uc3ltcHRvbV9uYW1lKSkK</text>
+      <register name="&quot;" type="4">
+        <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>except</text>
