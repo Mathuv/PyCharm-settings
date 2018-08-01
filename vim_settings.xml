@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1532912150404">
+      <file name="/Python Console" timestamp="1533093999115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532579339341">
@@ -64,7 +64,7 @@
         <mark key="^" line="300" column="23" />
         <mark key="." line="300" column="58" />
       </file>
-      <file name="/Django Console" timestamp="1532786373516">
+      <file name="/Django Console" timestamp="1533095014072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532786788126">
@@ -111,6 +111,7 @@
         <mark key="^" line="1116" column="27" />
         <mark key="." line="1116" column="27" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1533094798819" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533021816495">
         <mark key="'" line="759" column="0" />
         <mark key="[" line="767" column="88" />
