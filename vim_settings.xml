@@ -102,8 +102,9 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1532840305406">
         <mark key="'" line="184" column="12" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1533084545475">
-        <mark key="'" line="1114" column="21" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1533087206834">
+        <mark key="'" line="1115" column="21" />
+        <mark key="[" line="1066" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533021816495">
         <mark key="'" line="759" column="0" />
