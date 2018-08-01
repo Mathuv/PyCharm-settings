@@ -102,6 +102,9 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1532840305406">
         <mark key="'" line="184" column="12" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1533084545475">
+        <mark key="'" line="1114" column="21" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533021816495">
         <mark key="'" line="759" column="0" />
         <mark key="[" line="767" column="88" />
@@ -128,18 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="373" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="382" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="396" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="389" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="395" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="77" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="195" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
-      <jump line="188" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
       <jump line="124" column="45" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="413" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="412" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
@@ -228,6 +219,18 @@
       <jump line="15" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0003_activate_deactivate_symptoms.py" />
       <jump line="18" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0003_activate_deactivate_symptoms.py" />
       <jump line="27" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0003_activate_deactivate_symptoms.py" />
+      <jump line="947" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1118" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1193" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1215" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="845" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="899" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="903" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="951" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1016" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1020" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1068" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1114" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -237,7 +240,7 @@
         <text>and</text>
       </register>
       <register name="/" type="4">
-        <text>deactivate_symptoms_without_kb_entity_id</text>
+        <text>failed</text>
       </register>
       <register name="0" type="4">
         <text>symptom.symptom_question == None</text>
@@ -275,9 +278,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deactivate_symptoms_without_kb_entity_id</last-search>
+      <last-search>failed</last-search>
       <last-offset />
-      <last-pattern>deactivate_symptoms_without_kb_entity_id</last-pattern>
+      <last-pattern>failed</last-pattern>
       <last-replace>deactivate_symptoms</last-replace>
       <last-substitute>deactivate_symptoms_without_kb_entity_id</last-substitute>
       <last-dir>1</last-dir>
@@ -285,7 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ship_type</entry>
         <entry encoding="base64">XDxoYW5kbGVfcmVsYXRpb25zaGlwc19yZXZpZXdfc3ByZWFkc2hlZXRcPg==</entry>
         <entry>handle_relationships_review_spreadsheet</entry>
         <entry>except</entry>
@@ -305,6 +307,7 @@
         <entry encoding="base64">XDxGUk9NXD4=</entry>
         <entry encoding="base64">XDxkZWFjdGl2YXRlX3N5bXB0b21zX3dpdGhvdXRfa2JfZW50aXR5X2lkXD4=</entry>
         <entry>deactivate_symptoms_without_kb_entity_id</entry>
+        <entry>failed</entry>
       </history-search>
       <history-cmd>
         <entry>143,148/%s/out.//g</entry>
