@@ -117,7 +117,9 @@
         <mark key="^" line="1116" column="27" />
         <mark key="." line="1021" column="62" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1533094798819" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1533177680604">
+        <mark key="'" line="354" column="71" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533021816495">
         <mark key="'" line="759" column="0" />
         <mark key="[" line="767" column="88" />
@@ -144,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="505" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="507" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="510" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="524" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
@@ -244,6 +245,7 @@
       <jump line="898" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="947" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="962" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="354" column="71" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -253,7 +255,7 @@
         <text>q</text>
       </register>
       <register name="/" type="4">
-        <text>except</text>
+        <text>cache</text>
       </register>
       <register name="0" type="4">
         <text>symptom.symptom_question == None</text>
@@ -291,9 +293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>except</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>except</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>deactivate_symptoms</last-replace>
       <last-substitute>deactivate_symptoms_without_kb_entity_id</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handle_relationships_review_spreadsheet</entry>
         <entry>self.dryrun</entry>
         <entry encoding="base64">XDxzYXZlXD4=</entry>
         <entry>EntityRela</entry>
@@ -321,6 +322,7 @@
         <entry>failed</entry>
         <entry>exception</entry>
         <entry>except</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>143,148/%s/out.//g</entry>
