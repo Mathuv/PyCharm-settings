@@ -129,12 +129,12 @@
         <mark key="^" line="272" column="29" />
         <mark key="." line="272" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533281730252">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533541203219">
         <mark key="'" line="795" column="8" />
-        <mark key="[" line="795" column="6" />
-        <mark key="]" line="795" column="30" />
-        <mark key="^" line="795" column="30" />
-        <mark key="." line="795" column="30" />
+        <mark key="[" line="777" column="7" />
+        <mark key="]" line="777" column="9" />
+        <mark key="^" line="777" column="9" />
+        <mark key="." line="777" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/acd3a14e-d9a5-4a6e-b1e5-550f48175043/console.sql" timestamp="1532492232373">
         <mark key="'" line="0" column="0" />
