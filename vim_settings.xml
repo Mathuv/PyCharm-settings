@@ -35,6 +35,12 @@
       <file name="/a.dummy" timestamp="1532393501559">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/apps.py" timestamp="1533613389614">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1532932539947">
         <mark key="[" line="91" column="54" />
         <mark key="]" line="91" column="58" />
@@ -95,14 +101,28 @@
         <mark key="^" line="29" column="95" />
         <mark key="." line="29" column="95" />
       </file>
+      <file name="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/models.py" timestamp="1533614453179">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="/dummy.sql" timestamp="1532404816238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1533251747361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" timestamp="1532661873085">
-        <mark key="'" line="334" column="49" />
+      <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
+        <mark key="[" line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/settings.py" timestamp="1533613504402">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="34" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1532391099983">
         <mark key="'" line="20" column="9" />
@@ -155,8 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0003_activate_deactivate_symptoms.py" />
-      <jump line="27" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0003_activate_deactivate_symptoms.py" />
       <jump line="1118" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1193" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1215" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
@@ -255,55 +273,57 @@
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="798" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="790" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="14" column="0" filename="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zdGF0aWNmaWxlcycsCg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>accent</text>
+        <text>INSTALL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eV9mcm9tX2lkPWNvbmRpdGlvbl9lbnRpdHlfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHlfdG9faWQ9c3ltcHRvbV9lbnRpdHlfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQ9cmVsYXRpb25zaGlwX3R5cGVfaWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJOZXcgcmVsYXRpb25zaGlwIGFkZGVkOiBFbnRpdHkgRnJvbToge30sIEVudGl0eSBUbzoge30sIFR5cGU6IHt9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgZW50aXR5X2Zyb21faWQsCiAgICAgICAgICAgICAgICAgICAgZW50aXR5X3RvX2lkLAogICAgICAgICAgICAgICAgICAgIHJlbGF0aW9uc2hpcF90eXBlX2lkCiAgICAgICAgICAgICAgICApKQo=</text>
+        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zdGF0aWNmaWxlcycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJOZXcgcmVsYXRpb25zaGlwIGFkZGVkOiBFbnRpdHkgRnJvbToge30sIEVudGl0eSBUbzoge30sIFR5cGU6IHt9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgZW50aXR5X2Zyb21faWQsCiAgICAgICAgICAgICAgICAgICAgZW50aXR5X3RvX2lkLAogICAgICAgICAgICAgICAgICAgIHJlbGF0aW9uc2hpcF90eXBlX2lkCiAgICAgICAgICAgICAgICApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIG5ld19yZWxhdGlvbnNoaXBfaWQgPSBzZWxmLmdldF9uZXdfZW50aXR5X3JlbGF0aW9uc2hpcF9pZCgpCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0IERhdGFiYXNlRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgICAgICMgdHJhbnNhY3Rpb24ucm9sbGJhY2soKQogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIG5ld19yZWxhdGlvbnNoaXBfaWQgPSBzZWxmLmdldF9uZXdfZW50aXR5X3JlbGF0aW9uc2hpcF9pZCgpCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0IERhdGFiYXNlRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgICAgICMgdHJhbnNhY3Rpb24ucm9sbGJhY2soKQogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIG5ld19yZWxhdGlvbnNoaXBfaWQgPSBzZWxmLmdldF9uZXdfZW50aXR5X3JlbGF0aW9uc2hpcF9pZCgpCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0IERhdGFiYXNlRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgICAgICMgdHJhbnNhY3Rpb24ucm9sbGJhY2soKQogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3Qgc2VsZi5kcnlydW46Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3Qgc2VsZi5kcnlydW46Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>accent</last-search>
+      <last-search>INSTALL</last-search>
       <last-offset />
-      <last-pattern>accent</last-pattern>
+      <last-pattern>INSTALL</last-pattern>
       <last-replace>deactivate_symptoms</last-replace>
       <last-substitute>deactivate_symptoms_without_kb_entity_id</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
         <entry>disease_scoring</entry>
         <entry>add_new_relationships</entry>
         <entry encoding="base64">XDxSRUxBVElPTlNISVBfVFlQRV9NVVRVQUxMWV9FWENMVURFU1w+</entry>
@@ -331,9 +350,9 @@
         <entry>from kb_entity</entry>
         <entry>util</entry>
         <entry>accent</entry>
+        <entry>INSTALL</entry>
       </history-search>
       <history-cmd>
-        <entry>143,148/%s/out.//g</entry>
         <entry>%s/out.//g</entry>
         <entry>red</entry>
         <entry>$s/undo_merge_similar_entities/undo_merge_relationships/c</entry>
@@ -352,6 +371,7 @@
         <entry encoding="base64">JzwsJz4lcy9maWx0ZXJlZF9lci9lci9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbHRlcmVkX2VyL2VyL2dj</entry>
         <entry>%s/deactivate_symptoms_without_kb_entity_id/deactivate_symptoms/gc</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
