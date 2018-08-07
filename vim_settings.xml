@@ -41,11 +41,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1532932539947">
-        <mark key="[" line="91" column="54" />
-        <mark key="]" line="91" column="58" />
-        <mark key="^" line="91" column="58" />
-        <mark key="." line="91" column="58" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1533623533322">
+        <mark key="[" line="185" column="52" />
+        <mark key="]" line="186" column="14" />
+        <mark key="^" line="186" column="14" />
+        <mark key="." line="186" column="14" />
       </file>
       <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
         <mark key="[" line="0" column="0" />
@@ -284,7 +284,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>INSTALL</text>
+        <text>ROUTE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eV9mcm9tX2lkPWNvbmRpdGlvbl9lbnRpdHlfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHlfdG9faWQ9c3ltcHRvbV9lbnRpdHlfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQ9cmVsYXRpb25zaGlwX3R5cGVfaWQsCg==</text>
@@ -321,9 +321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>INSTALL</last-search>
+      <last-search>ROUTE</last-search>
       <last-offset />
-      <last-pattern>INSTALL</last-pattern>
+      <last-pattern>ROUTE</last-pattern>
       <last-replace>deactivate_symptoms</last-replace>
       <last-substitute>deactivate_symptoms_without_kb_entity_id</last-substitute>
       <last-dir>1</last-dir>
@@ -331,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disease_scoring</entry>
         <entry>add_new_relationships</entry>
         <entry encoding="base64">XDxSRUxBVElPTlNISVBfVFlQRV9NVVRVQUxMWV9FWENMVURFU1w+</entry>
         <entry encoding="base64">XDxidWdfZml4X3J1blw+</entry>
@@ -351,6 +350,7 @@
         <entry>util</entry>
         <entry>accent</entry>
         <entry>INSTALL</entry>
+        <entry>ROUTE</entry>
       </history-search>
       <history-cmd>
         <entry>%s/out.//g</entry>
