@@ -11,7 +11,7 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533250209850">
+      <file name="/Python Console" timestamp="1533689220646">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1533188624063">
@@ -32,7 +32,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1532393501559">
+      <file name="/a.dummy" timestamp="1533688487058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/apps.py" timestamp="1533613389614">
@@ -41,11 +41,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1533628548860">
-        <mark key="[" line="185" column="52" />
-        <mark key="]" line="186" column="14" />
-        <mark key="^" line="186" column="14" />
-        <mark key="." line="186" column="14" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1533689389709">
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="72" column="20" />
+        <mark key="^" line="72" column="20" />
+        <mark key="." line="72" column="20" />
       </file>
       <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
         <mark key="[" line="0" column="0" />
@@ -78,7 +78,7 @@
         <mark key="^" line="304" column="12" />
         <mark key="." line="304" column="12" />
       </file>
-      <file name="/Django Console" timestamp="1533095014072">
+      <file name="/Django Console" timestamp="1533689166492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1532786788126">
@@ -111,7 +111,7 @@
       <file name="/dummy.sql" timestamp="1532404816238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533251747361">
+      <file name="/Dummy.txt" timestamp="1533688021436">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
@@ -277,11 +277,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zdGF0aWNmaWxlcycsCg==</text>
+      <register name="&quot;" type="4">
+        <text>DATABASE</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>DATABASE</text>
       </register>
       <register name="/" type="4">
         <text>ROUTE</text>
