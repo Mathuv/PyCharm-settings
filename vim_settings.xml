@@ -8,9 +8,6 @@
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1533706113866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1533702241088">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,6 +27,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env/lib/python3.4/site-packages/tenant_schemas/models.py" timestamp="1533693141873" />
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,6 +37,7 @@
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/models.py" timestamp="1533706780556" />
       <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533706100707">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,6 +54,7 @@
         <mark key="." line="306" column="26" />
         <mark key="^" line="306" column="26" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1533706867789" />
       <file name="/Python Console" timestamp="1533689220646">
         <mark key="[" line="0" column="0" />
       </file>
