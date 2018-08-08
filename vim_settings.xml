@@ -54,12 +54,12 @@
         <mark key="^" line="272" column="29" />
         <mark key="." line="272" column="29" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1533711283042">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1533772122723">
         <mark key="'" line="78" column="47" />
-        <mark key="[" line="75" column="39" />
-        <mark key="]" line="75" column="39" />
-        <mark key="." line="75" column="39" />
-        <mark key="^" line="75" column="39" />
+        <mark key="[" line="80" column="26" />
+        <mark key="]" line="80" column="63" />
+        <mark key="." line="80" column="63" />
+        <mark key="^" line="80" column="63" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
