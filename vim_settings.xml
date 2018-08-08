@@ -41,11 +41,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1533691924816">
-        <mark key="[" line="215" column="16" />
-        <mark key="]" line="85" column="36" />
-        <mark key="^" line="85" column="36" />
-        <mark key="." line="85" column="36" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1533693648523">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="66" column="19" />
+        <mark key="^" line="66" column="19" />
+        <mark key="." line="66" column="19" />
       </file>
       <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
         <mark key="[" line="0" column="0" />
@@ -108,6 +108,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env/lib/python3.4/site-packages/tenant_schemas/models.py" timestamp="1533693141873" />
       <file name="/dummy.sql" timestamp="1532404816238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,9 +144,9 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1533182598686">
         <mark key="'" line="354" column="71" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/models.py" timestamp="1533691829268">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/models.py" timestamp="1533693416463">
         <mark key="'" line="1" column="44" />
-        <mark key="[" line="3" column="0" />
+        <mark key="[" line="9" column="52" />
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
