@@ -42,6 +42,11 @@
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1533774411621">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/models.py" timestamp="1533692312591">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="28" />
@@ -60,7 +65,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/models.py" timestamp="1533706780556" />
-      <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533711490035">
+      <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533774401888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
@@ -72,12 +77,12 @@
         <mark key="^" line="272" column="29" />
         <mark key="." line="272" column="29" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1533773431815">
-        <mark key="'" line="78" column="47" />
-        <mark key="[" line="89" column="31" />
-        <mark key="]" line="90" column="19" />
-        <mark key="." line="90" column="19" />
-        <mark key="^" line="90" column="19" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1533776572334">
+        <mark key="'" line="79" column="47" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="20" />
+        <mark key="." line="93" column="20" />
+        <mark key="^" line="84" column="26" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -89,14 +94,14 @@
         <mark key="^" line="273" column="36" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1533706867789" />
-      <file name="/Python Console" timestamp="1533711398326">
+      <file name="/Python Console" timestamp="1533776603805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1533188624063">
+      <file name="/fragment.py" timestamp="1533776123545">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="40" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="40" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0008_auto_20180727_0323.py" timestamp="1532662312905">
         <mark key="[" line="12" column="18" />
@@ -138,7 +143,7 @@
         <mark key="^" line="304" column="12" />
         <mark key="." line="304" column="12" />
       </file>
-      <file name="/Django Console" timestamp="1533772270852">
+      <file name="/Django Console" timestamp="1533775025207">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -153,7 +158,7 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533713795303">
+      <file name="/dummy.sql" timestamp="1533775497836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1533688021436">
@@ -168,7 +173,7 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533771037458">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533777270015">
         <mark key="'" line="795" column="0" />
         <mark key="[" line="804" column="66" />
         <mark key="]" line="804" column="66" />
@@ -283,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>row</text>
