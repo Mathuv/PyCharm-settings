@@ -6,10 +6,22 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/My Project-d2b8dc1525a8.json" timestamp="1533710543214" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/search/views.py" timestamp="1533109365562">
+        <mark key="[" line="59" column="40" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/utils/management/commands/0001_clear_cache.py" timestamp="1532932500609">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1533706113866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1533710355710">
+      <file name="/a.dummy" timestamp="1533773208666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
@@ -20,6 +32,12 @@
       </file>
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1530659701399">
+        <mark key="[" line="180" column="133" />
+        <mark key="]" line="168" column="136" />
+        <mark key="^" line="168" column="136" />
+        <mark key="." line="168" column="136" />
       </file>
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
@@ -54,12 +72,12 @@
         <mark key="^" line="272" column="29" />
         <mark key="." line="272" column="29" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1533772122723">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1533773431815">
         <mark key="'" line="78" column="47" />
-        <mark key="[" line="80" column="26" />
-        <mark key="]" line="80" column="63" />
-        <mark key="." line="80" column="63" />
-        <mark key="^" line="80" column="63" />
+        <mark key="[" line="89" column="31" />
+        <mark key="]" line="90" column="19" />
+        <mark key="." line="90" column="19" />
+        <mark key="^" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -74,11 +92,41 @@
       <file name="/Python Console" timestamp="1533711398326">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.py" timestamp="1533188624063">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0008_auto_20180727_0323.py" timestamp="1532662312905">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/apps.py" timestamp="1533613389614">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1533693648523">
         <mark key="[" line="49" column="0" />
       </file>
+      <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/settings.py" timestamp="1533189997661">
         <mark key="[" line="406" column="23" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0023_export_kb_data_into_neo4j.py" timestamp="1529966315296">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="42" column="90" />
+        <mark key="." line="42" column="51" />
+        <mark key="^" line="42" column="51" />
       </file>
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
@@ -90,8 +138,17 @@
         <mark key="^" line="304" column="12" />
         <mark key="." line="304" column="12" />
       </file>
-      <file name="/Django Console" timestamp="1533689166492">
+      <file name="/Django Console" timestamp="1533772270852">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1531464191945">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="51" />
       </file>
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
@@ -226,16 +283,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>row</text>
       </register>
       <register name="0" type="4">
-        <text>row[DISEASE_TRIAGE]</text>
+        <text>disease_rec.disease_triage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZQp3aGVyZSBkaXNlYXNlX2Rlc2NyaXB0aW9uIGlzIG5vdCBudWxsIGFuZCBkaXNlYXNlX2Rlc2NyaXB0aW9uICE9ICIiOwo=</text>
