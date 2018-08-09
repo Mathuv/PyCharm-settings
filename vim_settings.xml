@@ -77,13 +77,6 @@
         <mark key="^" line="272" column="29" />
         <mark key="." line="272" column="29" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1533776572334">
-        <mark key="'" line="79" column="47" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="20" />
-        <mark key="." line="93" column="20" />
-        <mark key="^" line="84" column="26" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
@@ -94,7 +87,7 @@
         <mark key="^" line="273" column="36" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1533706867789" />
-      <file name="/Python Console" timestamp="1533776603805">
+      <file name="/Python Console" timestamp="1533781024104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1533776123545">
@@ -173,7 +166,7 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533777270015">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533781007076">
         <mark key="'" line="795" column="0" />
         <mark key="[" line="804" column="66" />
         <mark key="]" line="804" column="66" />
