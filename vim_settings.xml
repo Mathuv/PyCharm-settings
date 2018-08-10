@@ -65,10 +65,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/models.py" timestamp="1533706780556" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180809_2220.py" timestamp="1533853853050">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="13" column="9" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180809_2220.py" timestamp="1533860833060">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+        <mark key="^" line="22" column="49" />
       </file>
       <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533774401888">
         <mark key="[" line="0" column="0" />
@@ -85,11 +86,12 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1533711543545">
-        <mark key="[" line="269" column="9" />
-        <mark key="]" line="273" column="36" />
-        <mark key="." line="273" column="36" />
-        <mark key="^" line="273" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1533861674534">
+        <mark key="'" line="274" column="0" />
+        <mark key="[" line="290" column="26" />
+        <mark key="]" line="291" column="106" />
+        <mark key="." line="291" column="106" />
+        <mark key="^" line="291" column="106" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1533706867789" />
       <file name="/Python Console" timestamp="1533781024104">
@@ -120,12 +122,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1533860317657">
-        <mark key="'" line="594" column="76" />
-        <mark key="[" line="596" column="51" />
-        <mark key="]" line="596" column="51" />
-        <mark key="^" line="596" column="51" />
-        <mark key="." line="596" column="51" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1533860376793">
+        <mark key="'" line="595" column="76" />
+        <mark key="[" line="591" column="48" />
+        <mark key="]" line="592" column="78" />
+        <mark key="^" line="592" column="78" />
+        <mark key="." line="592" column="78" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/settings.py" timestamp="1533189997661">
         <mark key="[" line="406" column="23" />
@@ -195,17 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1062" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1060" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1055" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1044" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1031" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1036" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1039" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1050" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1052" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1080" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1084" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1093" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1085" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="769" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
@@ -295,55 +286,68 @@
       <jump line="26" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="593" column="76" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="97" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="173" column="72" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="259" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="103" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="105" column="125" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="109" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="254" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="269" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="278" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="284" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="274" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>select *
+from django_session</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>select *</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRfbmV3X211dHVhbGx5X2V4Y2x1ZGVzX3JlbGF0aW9uc2hpcHNcPg==</text>
+        <text>relationship_type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVRUUklCVVRFX0tFWV9DT05GSVJNQVRJT05fU1lNUFRPTSA9ICJBXzkiCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkamFuZ29fbWlncmF0aW9ucwp3aGVyZSBpZCA9IDc4Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>select *
+from django_session</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiTmV3IHJlbGF0aW9uc2hpcCBhZGRlZDogRW50aXR5IEZyb206IHt9LCBFbnRpdHkgVG86IHt9LCBUeXBlOiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHlfZnJvbV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5X3RvX2lkLAogICAgICAgICAgICAgICAgICAgICAgICByZWxhdGlvbnNoaXBfdHlwZV9pZAogICAgICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGFkZF9yZWxhdGlvbnNoaXBfdHlwZShhcHBzLCBzY2hlbWFfZWRpdG9yKToKICAgIEVudGl0eVJlbGF0aW9uc2hpcFR5cGUgPSBhcHBzLmdldF9tb2RlbCgna2InLCAnRW50aXR5UmVsYXRpb25zaGlwVHlwZScpCgogICAgaWYgbm90IEVudGl0eVJlbGF0aW9uc2hpcFR5cGUub2JqZWN0cy5maWx0ZXIobWVkaXVzX2lkPSdFUlRfMzA0JykuZXhpc3RzKCk6CiAgICAgICAgRW50aXR5UmVsYXRpb25zaGlwVHlwZS5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgbWVkaXVzX2lkPSdFUlRfMzA0JywKICAgICAgICAgICAgbmFtZT0nbXV0dWFsbHlfZXhjbHVkZXMnCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiTmV3IHJlbGF0aW9uc2hpcCBhZGRlZDogRW50aXR5IEZyb206IHt9LCBFbnRpdHkgVG86IHt9LCBUeXBlOiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHlfZnJvbV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5X3RvX2lkLAogICAgICAgICAgICAgICAgICAgICAgICByZWxhdGlvbnNoaXBfdHlwZV9pZAogICAgICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGFkZF9yZWxhdGlvbnNoaXBfdHlwZShhcHBzLCBzY2hlbWFfZWRpdG9yKToKICAgIEVudGl0eVJlbGF0aW9uc2hpcFR5cGUgPSBhcHBzLmdldF9tb2RlbCgna2InLCAnRW50aXR5UmVsYXRpb25zaGlwVHlwZScpCgogICAgaWYgbm90IEVudGl0eVJlbGF0aW9uc2hpcFR5cGUub2JqZWN0cy5maWx0ZXIobWVkaXVzX2lkPSdFUlRfMzA1JykuZXhpc3RzKCk6CiAgICAgICAgRW50aXR5UmVsYXRpb25zaGlwVHlwZS5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgbWVkaXVzX2lkPSdFUlRfMzA1JywKICAgICAgICAgICAgbmFtZT0naGFzX2RpZmZlcmVudGlhbCcKICAgICAgICApCg==</text>
+        <text encoding="base64">ZGVmIGFkZF9yZWxhdGlvbnNoaXBfdHlwZShhcHBzLCBzY2hlbWFfZWRpdG9yKToKICAgIEVudGl0eVJlbGF0aW9uc2hpcFR5cGUgPSBhcHBzLmdldF9tb2RlbCgna2InLCAnRW50aXR5UmVsYXRpb25zaGlwVHlwZScpCgogICAgaWYgbm90IEVudGl0eVJlbGF0aW9uc2hpcFR5cGUub2JqZWN0cy5maWx0ZXIobWVkaXVzX2lkPSdFUlRfMzA0JykuZXhpc3RzKCk6CiAgICAgICAgRW50aXR5UmVsYXRpb25zaGlwVHlwZS5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgbWVkaXVzX2lkPSdFUlRfMzA0JywKICAgICAgICAgICAgbmFtZT0nbXV0dWFsbHlfZXhjbHVkZXMnCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZQp3aGVyZSBkaXNlYXNlX2Rlc2NyaXB0aW9uIGlzIG5vdCBudWxsIGFuZCBkaXNlYXNlX2Rlc2NyaXB0aW9uICE9ICIiOwo=</text>
+        <text encoding="base64">ZGVmIGFkZF9yZWxhdGlvbnNoaXBfdHlwZShhcHBzLCBzY2hlbWFfZWRpdG9yKToKICAgIEVudGl0eVJlbGF0aW9uc2hpcFR5cGUgPSBhcHBzLmdldF9tb2RlbCgna2InLCAnRW50aXR5UmVsYXRpb25zaGlwVHlwZScpCgogICAgaWYgbm90IEVudGl0eVJlbGF0aW9uc2hpcFR5cGUub2JqZWN0cy5maWx0ZXIobWVkaXVzX2lkPSdFUlRfMzA1JykuZXhpc3RzKCk6CiAgICAgICAgRW50aXR5UmVsYXRpb25zaGlwVHlwZS5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgbWVkaXVzX2lkPSdFUlRfMzA1JywKICAgICAgICAgICAgbmFtZT0naGFzX2RpZmZlcmVudGlhbCcKICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfYXNzZXNzbWVudHN5bXB0b20Kd2hlcmUgYXNzZXNzbWVudF9pZD02OwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZWNhdGVnb3J5OwoKc2VsZWN0ICoKZnJvbSBjaGF0X2NoYXRtZXNzYWdlOwoKc2VsZWN0ICoKZnJvbSBjaGF0X2NvbnZlcnNhdGlvbnN0YXRlOwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfc3ltcHRvbTsKCnNlbGVjdCAqCmZyb20gZGlhZ25vc2lzX2Rpc2Vhc2U7CgpzZWxlY3QgKgpmcm9tIGRpYWdub3Npc19zZWNvbmRhcnlsYXltYW50ZXJtOwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZXN5bXB0b207CgpzZWxlY3QgKgpmcm9tIGRpYWdub3Npc19zeW1wdG9tYXR0cmlidXRlczsKCnNlbGVjdCAqCmZyb20gZGlhZ25vc2lzX2dlbmRlcmF0dHJpYnV0ZXM7CgpzZWxlY3QgY291bnQoKikKZnJvbSBrYl9lbnRpdHk7CgpzZWxlY3QgY291bnQoKikKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXA7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZQp3aGVyZSBkaXNlYXNlX2Rlc2NyaXB0aW9uIGlzIG5vdCBudWxsIGFuZCBkaXNlYXNlX2Rlc2NyaXB0aW9uICE9ICIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkaXNlYXNlX3JlYyA9IERpc2Vhc2Uub2JqZWN0cy5maWx0ZXIoZGlzZWFzZV9uYW1lX19pY29udGFpbnM9cm93WydEaXNlYXNlIE5hbWUnXSkuZmlyc3QoKQo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfYXNzZXNzbWVudHN5bXB0b20Kd2hlcmUgYXNzZXNzbWVudF9pZD02OwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZWNhdGVnb3J5OwoKc2VsZWN0ICoKZnJvbSBjaGF0X2NoYXRtZXNzYWdlOwoKc2VsZWN0ICoKZnJvbSBjaGF0X2NvbnZlcnNhdGlvbnN0YXRlOwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfc3ltcHRvbTsKCnNlbGVjdCAqCmZyb20gZGlhZ25vc2lzX2Rpc2Vhc2U7CgpzZWxlY3QgKgpmcm9tIGRpYWdub3Npc19zZWNvbmRhcnlsYXltYW50ZXJtOwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZXN5bXB0b207CgpzZWxlY3QgKgpmcm9tIGRpYWdub3Npc19zeW1wdG9tYXR0cmlidXRlczsKCnNlbGVjdCAqCmZyb20gZGlhZ25vc2lzX2dlbmRlcmF0dHJpYnV0ZXM7CgpzZWxlY3QgY291bnQoKikKZnJvbSBrYl9lbnRpdHk7CgpzZWxlY3QgY291bnQoKikKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc3RhdHVzID0gaW50KHJvdy5nZXQoJ0Rpc2Vhc2UgU3RhdHVzJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkaXNlYXNlX3JlYyA9IERpc2Vhc2Uub2JqZWN0cy5maWx0ZXIoZGlzZWFzZV9uYW1lX19pY29udGFpbnM9cm93WydEaXNlYXNlIE5hbWUnXSkuZmlyc3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgc3RhdHVzID09IDE6CiAgICAgICAgICAgICAgICAjICAgICBhY3RpdmVfZGlzZWFzZV9jb3VudCA9IGFjdGl2ZV9kaXNlYXNlX2NvdW50ICsgMQogICAgICAgICAgICAgICAgIyBwcmludCgne30uIERpc2Vhc2UgZm91bmQ6IHt9Jy5mb3JtYXQoaSwgcm93WydEaXNlYXNlIE5hbWUnXSkpCiAgICAgICAgICAgICAgICAjIGRpc2Vhc2VfcmVjLmRpc2Vhc2Vfc3RhdHVzID0gc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc3RhdHVzID0gaW50KHJvdy5nZXQoJ0Rpc2Vhc2UgU3RhdHVzJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRfbmV3X211dHVhbGx5X2V4Y2x1ZGVzX3JlbGF0aW9uc2hpcHNcPg==</last-search>
+      <last-search>relationship_type</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRfbmV3X211dHVhbGx5X2V4Y2x1ZGVzX3JlbGF0aW9uc2hpcHNcPg==</last-pattern>
+      <last-pattern>relationship_type</last-pattern>
       <last-replace>HELP_TEXTT</last-replace>
       <last-substitute encoding="base64">XDxhZGRfbmV3X211dHVhbGx5X2V4Y2x1ZGVzX3JlbGF0aW9uc2hpcHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -351,7 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>except</entry>
         <entry>cache</entry>
         <entry>disease_sco</entry>
         <entry>def symptom</entry>
@@ -371,6 +374,7 @@
         <entry>To Entity ID</entry>
         <entry>1U</entry>
         <entry encoding="base64">XDxhZGRfbmV3X211dHVhbGx5X2V4Y2x1ZGVzX3JlbGF0aW9uc2hpcHNcPg==</entry>
+        <entry>relationship_type</entry>
       </history-search>
       <history-cmd>
         <entry>s/handle_relationships_review_spreadsheet/update_existing_relationships</entry>
