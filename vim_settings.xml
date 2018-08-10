@@ -65,7 +65,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/models.py" timestamp="1533706780556" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180809_2220.py" timestamp="1533860833060">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180809_2220.py" timestamp="1533863188660">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="22" column="49" />
         <mark key="." line="22" column="49" />
@@ -86,8 +86,8 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1533861674534">
-        <mark key="'" line="274" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1533862956546">
+        <mark key="'" line="279" column="21" />
         <mark key="[" line="290" column="26" />
         <mark key="]" line="291" column="106" />
         <mark key="." line="291" column="106" />
@@ -163,7 +163,7 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533775497836">
+      <file name="/dummy.sql" timestamp="1533863189893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1533688021436">
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1093" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1085" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="769" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="768" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
@@ -297,6 +296,7 @@
       <jump line="278" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="284" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="274" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="279" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -341,7 +341,7 @@ from django_session</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgc3RhdHVzID0gaW50KHJvdy5nZXQoJ0Rpc2Vhc2UgU3RhdHVzJykpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -377,11 +377,7 @@ from django_session</text>
         <entry>relationship_type</entry>
       </history-search>
       <history-cmd>
-        <entry>s/handle_relationships_review_spreadsheet/update_existing_relationships</entry>
-        <entry>%s/handle_relationships_review_spreadsheet/update_existing_relationships/gc</entry>
-        <entry>history</entry>
         <entry>%s/add_new_relationships/add_new_has_symptom_relationships/gc</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz4lcy9maWx0ZXJlZF9lci9lci9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbHRlcmVkX2VyL2VyL2dj</entry>
         <entry>%s/deactivate_symptoms_without_kb_entity_id/deactivate_symptoms/gc</entry>
@@ -397,6 +393,10 @@ from django_session</text>
         <entry>%s//HELP_TEXTT/gc</entry>
         <entry encoding="base64">bWFwISA8Qy1GPiA8RXNjPmdVaXdgXWE=</entry>
         <entry>w</entry>
+        <entry encoding="base64">bWFwIDxzcGFjZT4gdml3</entry>
+        <entry encoding="base64">dW5tYXAgPHNwYWNlPiB2aXc=</entry>
+        <entry>wq</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
