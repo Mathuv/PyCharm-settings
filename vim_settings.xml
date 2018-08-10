@@ -113,8 +113,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1533786484021">
-        <mark key="[" line="49" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1533866405156">
+        <mark key="[" line="88" column="25" />
+        <mark key="]" line="88" column="25" />
+        <mark key="^" line="88" column="25" />
+        <mark key="." line="88" column="25" />
       </file>
       <file name="/manage.py@medius_chatserver" timestamp="1531803618668">
         <mark key="[" line="0" column="0" />
@@ -175,9 +178,9 @@
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/models.py" timestamp="1533786364033">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/models.py" timestamp="1533864963527">
         <mark key="'" line="1" column="44" />
-        <mark key="[" line="9" column="52" />
+        <mark key="[" line="6" column="43" />
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
