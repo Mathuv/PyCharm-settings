@@ -120,8 +120,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1533856744180">
-        <mark key="'" line="26" column="44" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1533860317657">
+        <mark key="'" line="594" column="76" />
+        <mark key="[" line="596" column="51" />
+        <mark key="]" line="596" column="51" />
+        <mark key="^" line="596" column="51" />
+        <mark key="." line="596" column="51" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/settings.py" timestamp="1533189997661">
         <mark key="[" line="406" column="23" />
@@ -166,9 +170,6 @@
       <file name="/kb_entitytype [Postgres_Dev_Local]" timestamp="1533706126524">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/models.py" timestamp="1532661873085">
-        <mark key="'" line="334" column="49" />
-      </file>
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,7 +183,7 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533853420864">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1533860226026">
         <mark key="'" line="118" column="10" />
         <mark key="[" line="807" column="21" />
         <mark key="]" line="808" column="0" />
@@ -194,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1079" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1062" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1060" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1055" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
@@ -294,19 +294,20 @@
       <jump line="132" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="26" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="593" column="76" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRfbmV3X211dHVhbGx5X2V4Y2x1ZGVzX3JlbGF0aW9uc2hpcHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkVMQVRJT05TSElQX1RZUEVfTVVUVUFMTFlfRVhDTFVERVMgPSAiRVJUXzMwNCIK</text>
+        <text encoding="base64">QVRUUklCVVRFX0tFWV9DT05GSVJNQVRJT05fU1lNUFRPTSA9ICJBXzkiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -336,7 +337,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgc3RhdHVzID09IDE6CiAgICAgICAgICAgICAgICAjICAgICBhY3RpdmVfZGlzZWFzZV9jb3VudCA9IGFjdGl2ZV9kaXNlYXNlX2NvdW50ICsgMQogICAgICAgICAgICAgICAgIyBwcmludCgne30uIERpc2Vhc2UgZm91bmQ6IHt9Jy5mb3JtYXQoaSwgcm93WydEaXNlYXNlIE5hbWUnXSkpCiAgICAgICAgICAgICAgICAjIGRpc2Vhc2VfcmVjLmRpc2Vhc2Vfc3RhdHVzID0gc3RhdHVzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s//HELP_TEXTT/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -372,7 +373,6 @@
         <entry encoding="base64">XDxhZGRfbmV3X211dHVhbGx5X2V4Y2x1ZGVzX3JlbGF0aW9uc2hpcHNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>promptr</entry>
         <entry>s/handle_relationships_review_spreadsheet/update_existing_relationships</entry>
         <entry>%s/handle_relationships_review_spreadsheet/update_existing_relationships/gc</entry>
         <entry>history</entry>
@@ -389,9 +389,10 @@
         <entry>%s/304/305/gc</entry>
         <entry>s/To Entity ID/Relationship Type ID/gc</entry>
         <entry>%s//add_new_relationships/gc</entry>
-        <entry>w</entry>
         <entry>%s//HELP_TEXT/gc</entry>
         <entry>%s//HELP_TEXTT/gc</entry>
+        <entry encoding="base64">bWFwISA8Qy1GPiA8RXNjPmdVaXdgXWE=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
