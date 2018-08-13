@@ -47,8 +47,8 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1534122792722">
-        <mark key="'" line="889" column="40" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1534137094898">
+        <mark key="'" line="634" column="42" />
         <mark key="[" line="898" column="51" />
         <mark key="]" line="898" column="88" />
         <mark key="." line="898" column="88" />
@@ -112,6 +112,9 @@
         <mark key="]" line="33" column="54" />
         <mark key="." line="33" column="54" />
         <mark key="^" line="33" column="54" />
+      </file>
+      <file name="/Python Console" timestamp="1534137101770">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534118379742">
         <mark key="[" line="0" column="8" />
@@ -217,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="132" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="127" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="126" column="125" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
@@ -260,7 +262,6 @@
       <jump line="141" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="850" column="101" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="627" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="634" column="73" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="869" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="873" column="65" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="844" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
@@ -317,6 +318,8 @@
       <jump line="886" column="52" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="887" column="65" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="889" column="40" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="1546" column="68" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="634" column="42" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -326,7 +329,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>anatomy\c</text>
+        <text>DEBUG</text>
       </register>
       <register name="0" type="4">
         <text>attribute_key</text>
@@ -367,9 +370,9 @@ from django_session</text>
       </register>
     </registers>
     <search>
-      <last-search>anatomy\c</last-search>
+      <last-search>DEBUG</last-search>
       <last-offset />
-      <last-pattern>anatomy\c</last-pattern>
+      <last-pattern>DEBUG</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -377,8 +380,6 @@ from django_session</text>
     </search>
     <history>
       <history-search>
-        <entry>relationship_type</entry>
-        <entry>10</entry>
         <entry>key</entry>
         <entry>migratin</entry>
         <entry>migration</entry>
@@ -397,6 +398,8 @@ from django_session</text>
         <entry>set scs</entry>
         <entry>anatomy</entry>
         <entry>anatomy\c</entry>
+        <entry>Anatomy</entry>
+        <entry>DEBUG</entry>
       </history-search>
       <history-cmd>
         <entry>%s//add_new_relationships/gc</entry>
