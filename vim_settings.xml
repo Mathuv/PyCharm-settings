@@ -208,11 +208,11 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1534113688915">
-        <mark key="'" line="90" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1534148915060">
+        <mark key="'" line="790" column="0" />
         <mark key="[" line="809" column="0" />
         <mark key="]" line="809" column="0" />
-        <mark key="." line="806" column="8" />
+        <mark key="." line="296" column="8" />
         <mark key="^" line="809" column="0" />
       </file>
       <file name="/utils_dynamictable [Postgres_Dev_Local]" timestamp="1533706354498">
@@ -220,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="127" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="126" column="125" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="123" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
@@ -320,6 +319,7 @@
       <jump line="889" column="40" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="1546" column="68" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="634" column="42" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="790" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -329,7 +329,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>DEBUG</text>
+        <text>util</text>
       </register>
       <register name="0" type="4">
         <text>attribute_key</text>
@@ -370,9 +370,9 @@ from django_session</text>
       </register>
     </registers>
     <search>
-      <last-search>DEBUG</last-search>
+      <last-search>util</last-search>
       <last-offset />
-      <last-pattern>DEBUG</last-pattern>
+      <last-pattern>util</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -380,7 +380,6 @@ from django_session</text>
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>migratin</entry>
         <entry>migration</entry>
         <entry encoding="base64">XDxBVFRSSUJVVEVfS0VZX1NZU1RFTV9BTkFUT01ZXD4=</entry>
@@ -400,6 +399,7 @@ from django_session</text>
         <entry>anatomy\c</entry>
         <entry>Anatomy</entry>
         <entry>DEBUG</entry>
+        <entry>util</entry>
       </history-search>
       <history-cmd>
         <entry>%s//add_new_relationships/gc</entry>
