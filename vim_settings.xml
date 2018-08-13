@@ -47,12 +47,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1534118602384">
-        <mark key="'" line="881" column="20" />
-        <mark key="[" line="881" column="36" />
-        <mark key="]" line="887" column="11" />
-        <mark key="." line="869" column="76" />
-        <mark key="^" line="887" column="11" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1534119986286">
+        <mark key="'" line="891" column="35" />
+        <mark key="[" line="878" column="48" />
+        <mark key="]" line="878" column="55" />
+        <mark key="." line="878" column="55" />
+        <mark key="^" line="878" column="55" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/models.py" timestamp="1533692312591">
         <mark key="'" line="0" column="0" />
@@ -88,6 +88,7 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1534119984109" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1533188668109">
         <mark key="[" line="272" column="28" />
         <mark key="]" line="272" column="29" />
@@ -111,9 +112,6 @@
         <mark key="]" line="33" column="54" />
         <mark key="." line="33" column="54" />
         <mark key="^" line="33" column="54" />
-      </file>
-      <file name="/Python Console" timestamp="1534118492549">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534118379742">
         <mark key="[" line="0" column="8" />
@@ -219,16 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="288" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="294" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="297" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="89" column="58" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
-      <jump line="2" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
-      <jump line="11" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
-      <jump line="54" column="10" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
-      <jump line="56" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
-      <jump line="61" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
       <jump line="71" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
       <jump line="87" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
       <jump line="91" column="40" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" />
@@ -298,7 +286,6 @@
       <jump line="219" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="33" column="54" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180812_2238.py" />
       <jump line="141" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="636" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="28" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="850" column="101" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
@@ -319,67 +306,77 @@
       <jump line="628" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="669" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="881" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="125" column="46" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="635" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="636" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="637" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="638" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="639" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="721" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="740" column="49" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="742" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="754" column="49" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="891" column="35" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KGRmMlsiQW5hdG9teSBMZXZlbCAxIl0gIT0gIiIpIHwg</text>
+        <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGRmMlsiQW5hdG9teSBMZXZlbCAxIl0gIT0gIiIpIHwg</text>
+        <text>_clumns</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;Anatomy Level 1&quot;</text>
+        <text>anatomy_level_clumn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3lzdGVtX2FuYXRvbXlfbGV2ZWxfMToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZjFfd2l0aF9hbmF0b215ID0gZGYxLmxvY1tkZjFbYW5hdG9teV9sZXZlbF0gIT0gIiJdCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>df1.loc[df1[] != &quot;&quot;]</text>
+      </register>
+      <register name="2" type="4">
+        <text>anatomy_level</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>df1.loc[df1[] != &quot;&quot;]</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGVscD0iU3BlY2lmeSB0aGUgcHJlZml4IHRvIGluY2x1ZGUgaW4gbG9nIGZpbGUgbmFtZSIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmFtZT0nc3lzdGVtX2FuYXRvbXknCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>select *
 from django_session</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiTmV3IHJlbGF0aW9uc2hpcCBhZGRlZDogRW50aXR5IEZyb206IHt9LCBFbnRpdHkgVG86IHt9LCBUeXBlOiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHlfZnJvbV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5X3RvX2lkLAogICAgICAgICAgICAgICAgICAgICAgICByZWxhdGlvbnNoaXBfdHlwZV9pZAogICAgICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIGFkZF9yZWxhdGlvbnNoaXBfdHlwZShhcHBzLCBzY2hlbWFfZWRpdG9yKToKICAgIEVudGl0eVJlbGF0aW9uc2hpcFR5cGUgPSBhcHBzLmdldF9tb2RlbCgna2InLCAnRW50aXR5UmVsYXRpb25zaGlwVHlwZScpCgogICAgaWYgbm90IEVudGl0eVJlbGF0aW9uc2hpcFR5cGUub2JqZWN0cy5maWx0ZXIobWVkaXVzX2lkPSdFUlRfMzA0JykuZXhpc3RzKCk6CiAgICAgICAgRW50aXR5UmVsYXRpb25zaGlwVHlwZS5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgbWVkaXVzX2lkPSdFUlRfMzA0JywKICAgICAgICAgICAgbmFtZT0nbXV0dWFsbHlfZXhjbHVkZXMnCiAgICAgICAgKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIGFkZF9yZWxhdGlvbnNoaXBfdHlwZShhcHBzLCBzY2hlbWFfZWRpdG9yKToKICAgIEVudGl0eVJlbGF0aW9uc2hpcFR5cGUgPSBhcHBzLmdldF9tb2RlbCgna2InLCAnRW50aXR5UmVsYXRpb25zaGlwVHlwZScpCgogICAgaWYgbm90IEVudGl0eVJlbGF0aW9uc2hpcFR5cGUub2JqZWN0cy5maWx0ZXIobWVkaXVzX2lkPSdFUlRfMzA1JykuZXhpc3RzKCk6CiAgICAgICAgRW50aXR5UmVsYXRpb25zaGlwVHlwZS5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgbWVkaXVzX2lkPSdFUlRfMzA1JywKICAgICAgICAgICAgbmFtZT0naGFzX2RpZmZlcmVudGlhbCcKICAgICAgICApCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZQp3aGVyZSBkaXNlYXNlX2Rlc2NyaXB0aW9uIGlzIG5vdCBudWxsIGFuZCBkaXNlYXNlX2Rlc2NyaXB0aW9uICE9ICIiOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfYXNzZXNzbWVudHN5bXB0b20Kd2hlcmUgYXNzZXNzbWVudF9pZD02OwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZWNhdGVnb3J5OwoKc2VsZWN0ICoKZnJvbSBjaGF0X2NoYXRtZXNzYWdlOwoKc2VsZWN0ICoKZnJvbSBjaGF0X2NvbnZlcnNhdGlvbnN0YXRlOwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfc3ltcHRvbTsKCnNlbGVjdCAqCmZyb20gZGlhZ25vc2lzX2Rpc2Vhc2U7CgpzZWxlY3QgKgpmcm9tIGRpYWdub3Npc19zZWNvbmRhcnlsYXltYW50ZXJtOwoKc2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfZGlzZWFzZXN5bXB0b207CgpzZWxlY3QgKgpmcm9tIGRpYWdub3Npc19zeW1wdG9tYXR0cmlidXRlczsKCnNlbGVjdCAqCmZyb20gZGlhZ25vc2lzX2dlbmRlcmF0dHJpYnV0ZXM7CgpzZWxlY3QgY291bnQoKikKZnJvbSBrYl9lbnRpdHk7CgpzZWxlY3QgY291bnQoKikKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXA7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2FuYXRvbXlfbGV2ZWxfY2x1bW4vYW5hdG9teV9sZXZlbF9jb2x1bW4vZ2M=</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;Anatomy Level 1&quot;</last-search>
+      <last-search>anatomy_level_clumn</last-search>
       <last-offset />
-      <last-pattern>&quot;Anatomy Level 1&quot;</last-pattern>
-      <last-replace>anatomy_level</last-replace>
-      <last-substitute>&quot;Anatomy Level 1&quot;</last-substitute>
+      <last-pattern>anatomy_level_clumn</last-pattern>
+      <last-replace>anatomy_level_column</last-replace>
+      <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ROUT</entry>
-        <entry>relationship</entry>
-        <entry>304</entry>
-        <entry>To Entity ID</entry>
         <entry>1U</entry>
         <entry encoding="base64">XDxhZGRfbmV3X211dHVhbGx5X2V4Y2x1ZGVzX3JlbGF0aW9uc2hpcHNcPg==</entry>
         <entry>relationship_type</entry>
@@ -396,10 +393,12 @@ from django_session</text>
         <entry>anatomy</entry>
         <entry>Anatomy Level 1</entry>
         <entry>&quot;Anatomy Level 1&quot;</entry>
+        <entry>anat</entry>
+        <entry>merge</entry>
+        <entry>anatomy_level</entry>
+        <entry>anatomy_level_clumn</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4lcy9EaXNlYXNlL2Rpc2Vhc2VfcmVjL2dj</entry>
-        <entry encoding="base64">JzwsJz4vcy9EaXNlYXNlL2Rpc2Vhc2VfcmVjL2M=</entry>
         <entry encoding="base64">JzwsJz4lcy9EaXNlYXNlL2Rpc2Vhc2VfcmVjL2M=</entry>
         <entry encoding="base64">JzwsJz5zL0Rpc2Vhc2UvZGlzZWFzZV9yZWMvZ2M=</entry>
         <entry>%s/304/305/gc</entry>
@@ -418,6 +417,8 @@ from django_session</text>
         <entry encoding="base64">JzwsJz5zL0FuYXRvbXkgTGV2ZWwgMS9hbmF0b215X2xldmVsL2dj</entry>
         <entry encoding="base64">JzwsJz5zLyJBbmF0b215IExldmVsIDEiL2FuYXRvbXlfbGV2ZWwvZ2M=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2FuYXRvbXlfbGV2ZWwvYW5hdG9teV9sZXZlbF9jbHVtbi9nYw==</entry>
+        <entry encoding="base64">JzwsJz5zL2FuYXRvbXlfbGV2ZWxfY2x1bW4vYW5hdG9teV9sZXZlbF9jb2x1bW4vZ2M=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
