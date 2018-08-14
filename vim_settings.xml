@@ -212,12 +212,11 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1534213468873">
-        <mark key="'" line="790" column="0" />
-        <mark key="[" line="811" column="39" />
-        <mark key="]" line="811" column="37" />
-        <mark key="." line="811" column="37" />
-        <mark key="^" line="811" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1534214396444">
+        <mark key="[" line="805" column="0" />
+        <mark key="]" line="805" column="4" />
+        <mark key="." line="790" column="31" />
+        <mark key="^" line="805" column="4" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env/lib/python3.4/site-packages/django/contrib/auth/middleware.py" timestamp="1534212045456" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534210270541">
