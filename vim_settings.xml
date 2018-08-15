@@ -1,11 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="M" line="1012" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" protocol="file" />
-    </globalmarks>
+    <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1534292024139">
+      <file name="/Python Console" timestamp="1534324075660">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1533706113866">
@@ -24,13 +22,14 @@
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534211314760">
-        <mark key="'" line="202" column="0" />
-        <mark key="[" line="204" column="16" />
-        <mark key="]" line="204" column="20" />
-        <mark key="." line="204" column="20" />
-        <mark key="^" line="204" column="20" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534324050734">
+        <mark key="'" line="481" column="0" />
+        <mark key="[" line="487" column="82" />
+        <mark key="]" line="487" column="103" />
+        <mark key="." line="487" column="103" />
+        <mark key="^" line="487" column="103" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/logs/medius_chatserver.log" timestamp="1534322511849" />
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,12 +57,12 @@
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1534218276144">
-        <mark key="'" line="254" column="0" />
-        <mark key="[" line="304" column="12" />
-        <mark key="]" line="304" column="12" />
-        <mark key="^" line="304" column="12" />
-        <mark key="." line="304" column="12" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1534324140171">
+        <mark key="'" line="218" column="8" />
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="311" column="29" />
+        <mark key="^" line="311" column="29" />
+        <mark key="." line="311" column="29" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1534137094898">
         <mark key="'" line="634" column="42" />
@@ -119,7 +118,13 @@
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1534287081910" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1534323822598">
+        <mark key="'" line="906" column="43" />
+        <mark key="[" line="1141" column="26" />
+        <mark key="]" line="1141" column="26" />
+        <mark key="^" line="1141" column="24" />
+        <mark key="." line="1141" column="26" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1534113606046">
         <mark key="'" line="20" column="9" />
         <mark key="[" line="0" column="0" />
@@ -127,8 +132,9 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1534320637833">
-        <mark key="'" line="919" column="7" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1534323006030">
+        <mark key="'" line="272" column="78" />
+        <mark key="[" line="1264" column="28" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/models.py" timestamp="1533864963527">
         <mark key="'" line="1" column="44" />
@@ -181,52 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="60" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0008_auto_20180727_0323.py" />
-      <jump line="9" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0008_auto_20180727_0323.py" />
-      <jump line="312" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="527" column="52" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="135" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="132" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="26" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="593" column="76" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="97" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="173" column="72" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="259" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="103" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="105" column="125" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="109" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="254" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="269" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="278" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="284" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="274" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="279" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="90" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
-      <jump line="24" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180812_2238.py" />
-      <jump line="291" column="73" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="187" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="190" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="200" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="204" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="219" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="33" column="54" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180812_2238.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="850" column="101" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="627" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="869" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="873" column="65" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="844" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="845" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="847" column="69" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="848" column="48" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="849" column="61" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="630" column="42" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="632" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="629" column="15" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="628" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="669" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="125" column="46" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="721" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
@@ -281,19 +241,65 @@
       <jump line="921" column="15" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="96" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="919" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="481" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
+      <jump line="149" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="39" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="222" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="239" column="87" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="311" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="219" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="235" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="306" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="218" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="272" column="78" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="35" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="869" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="959" column="67" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="977" column="34" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1031" column="35" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1083" column="64" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="844" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="862" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="957" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1081" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1112" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1134" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="908" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="912" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="913" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="960" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="975" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="978" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1029" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1030" column="43" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1032" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1036" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1037" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1085" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1107" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1109" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1133" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1136" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1140" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1141" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="849" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="864" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="867" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="905" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="906" column="43" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%</text>
+        <text encoding="base64">RVJST1I6IA==</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text encoding="base64">RVJST1I6IA==</text>
       </register>
       <register name="/" type="4">
-        <text>disease_differentials</text>
+        <text>error\c</text>
       </register>
       <register name="0" type="4">
-        <text>tenant1</text>
+        <text>&quot;ERROR: Disease scoring returns empty result!&quot;</text>
       </register>
       <register name="1" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
@@ -331,20 +337,16 @@ from django_session</text>
       </register>
     </registers>
     <search>
-      <last-search>disease_differentials</last-search>
+      <last-search>error\c</last-search>
       <last-offset />
-      <last-pattern>disease_differentials</last-pattern>
+      <last-pattern>error\c</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBVFRSSUJVVEVfS0VZX1NZU1RFTV9BTkFUT01ZXD4=</entry>
-        <entry>ANA</entry>
-        <entry>ANATONY</entry>
-        <entry>ANAT</entry>
         <entry encoding="base64">XDxlbnRpdHlfbmFtZVw+</entry>
         <entry encoding="base64">XDxzeXN0ZW1fYW5hdG9teVw+</entry>
         <entry>Anatomy Level 1</entry>
@@ -361,6 +363,10 @@ from django_session</text>
         <entry>util</entry>
         <entry>middleware</entry>
         <entry>disease_differentials</entry>
+        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
+        <entry>kb_sym</entry>
+        <entry>except</entry>
+        <entry>error\c</entry>
       </history-search>
       <history-cmd>
         <entry>%s//add_new_relationships/gc</entry>
@@ -369,7 +375,6 @@ from django_session</text>
         <entry encoding="base64">bWFwISA8Qy1GPiA8RXNjPmdVaXdgXWE=</entry>
         <entry encoding="base64">bWFwIDxzcGFjZT4gdml3</entry>
         <entry encoding="base64">dW5tYXAgPHNwYWNlPiB2aXc=</entry>
-        <entry>wq</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz5zLzEwLzExL2dj</entry>
         <entry>%s//ATTRIBUTE_KEY_SYSTEM_ANATOMY_LEVEL_1/gc</entry>
@@ -382,6 +387,7 @@ from django_session</text>
         <entry>set noic</entry>
         <entry>set scs</entry>
         <entry>anatomy\c</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
