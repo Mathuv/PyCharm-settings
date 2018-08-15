@@ -143,11 +143,12 @@
         <mark key="^" line="272" column="29" />
         <mark key="." line="272" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1534218066758">
-        <mark key="[" line="819" column="7" />
-        <mark key="]" line="819" column="35" />
-        <mark key="." line="819" column="35" />
-        <mark key="^" line="819" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1534291329197">
+        <mark key="'" line="817" column="21" />
+        <mark key="[" line="811" column="40" />
+        <mark key="]" line="811" column="39" />
+        <mark key="." line="811" column="39" />
+        <mark key="^" line="811" column="39" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -177,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="120" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="119" column="125" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="118" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
@@ -277,13 +277,14 @@
       <jump line="184" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="202" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="790" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="817" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>middleware</text>
