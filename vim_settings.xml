@@ -120,13 +120,6 @@
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1534725797058">
-        <mark key="'" line="1078" column="27" />
-        <mark key="[" line="1086" column="43" />
-        <mark key="]" line="1086" column="57" />
-        <mark key="^" line="1086" column="57" />
-        <mark key="." line="1086" column="57" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1534113606046">
         <mark key="'" line="20" column="9" />
         <mark key="[" line="0" column="0" />
