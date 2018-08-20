@@ -56,12 +56,12 @@
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1534324140171">
-        <mark key="'" line="218" column="8" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="311" column="29" />
-        <mark key="^" line="311" column="29" />
-        <mark key="." line="311" column="29" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1534743978150">
+        <mark key="'" line="303" column="19" />
+        <mark key="[" line="302" column="30" />
+        <mark key="]" line="303" column="58" />
+        <mark key="^" line="303" column="58" />
+        <mark key="." line="303" column="58" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1534137094898">
         <mark key="'" line="634" column="42" />
@@ -189,14 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1105" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1133" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1134" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1140" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="787" column="46" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="959" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="25" column="58" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="836" column="35" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1086" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="26" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1078" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
@@ -289,58 +281,66 @@
       <jump line="4" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="181" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="241" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="39" column="34" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="222" column="59" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="218" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="220" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="233" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="235" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="302" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="303" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DEBUG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgICAgIHByaW50KHN0cihlKSkKICAgICAgICAgICAgIyBpbXBvcnQgc3lzCiAgICAgICAgICAgICMgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihzdHIoZSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text>except</text>
       </register>
       <register name="0" type="4">
         <text>Exception is disease scoring:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IFN5bXB0b20gU2VsZWN0IHJldHVybnMgZW1wdHkgcmVzdWx0ISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgICAgIHByaW50KHN0cihlKSkKICAgICAgICAgICAgIyBpbXBvcnQgc3lzCiAgICAgICAgICAgICMgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihzdHIoZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IFN5bXB0b20gU2VsZWN0IHJldHVybnMgZW1wdHkgcmVzdWx0ISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJEaWFnbm9zaXMgc3ltcHRvbSBkb2Vzbid0IGV4aXN0IGZvciB0b3AgZW50aXR5IHJldHVybmVkLiIpCiAgICAgICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IERpc2Vhc2Ugc2NvcmluZyByZXR1cm5zIGVtcHR5IHJlc3VsdCEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQogICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGV4KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IFN5bXB0b20gU2VsZWN0IHJldHVybnMgZW1wdHkgcmVzdWx0ISIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZmFpbGVkX3Jlc3VsdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IFN5bXB0b20gU2VsZWN0IHJldHVybnMgZW1wdHkgcmVzdWx0ISIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24oIkV4Y2VwdGlvbiBpbiBoYW5kbGluZyBkaXNlYXNlIHNjb3Jpbmc6ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IERpc2Vhc2Ugc2NvcmluZyByZXR1cm5zIGVtcHR5IHJlc3VsdCEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaGFuZGxlIGV4Y2VwdGlvbiBvZiBkaXNlYXNlIHNjb3JpbmcgcmV0dXJuaWduIGVtcHR5IGxpc3Qgb3Igbm90aGluZwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGV4KSkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZmFpbGVkX3Jlc3VsdHMoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyB3ZSBoYXZlIG5vIG9iamVjdCEgIGRvIHNvbWV0aGluZwogICAgICAgICAgICAgICAgICAgICAgICAjIHByaW50KCdFUlJPUjogRGlzZWFzZSBvYmplY3QgaXMgbm90IGZvdW5kIGZvciBlbnRpdHlfaWQ6IHt9Jy5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgICAgICMgICAgIHJlYy5nZXQoJ2Rpc2Vhc2VfaWQnKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24oIkV4Y2VwdGlvbiBpbiBoYW5kbGluZyBkaXNlYXNlIHNjb3Jpbmc6ICIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search>except</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern>except</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -363,11 +363,11 @@
         <entry>exception</entry>
         <entry>kb_symptom</entry>
         <entry>kb_disease_s</entry>
-        <entry>except</entry>
         <entry>print</entry>
         <entry>mail</entry>
         <entry>EMAIL</entry>
         <entry>return</entry>
+        <entry>except</entry>
       </history-search>
       <history-cmd>
         <entry>%s//HELP_TEXTT/gc</entry>
