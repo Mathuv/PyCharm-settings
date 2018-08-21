@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1534749763707">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/utils/adapter.py" timestamp="1534814864430">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="89" />
+        <mark key="^" line="8" column="89" />
+        <mark key="." line="8" column="89" />
+      </file>
+      <file name="/Python Console" timestamp="1534814897861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1533706113866">
@@ -15,20 +21,19 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0008_auto_20180727_0323.py" timestamp="1533853847134">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="13" column="8" />
+      <file name="/a.dummy" timestamp="1534814829745">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534750568179">
-        <mark key="a" line="513" column="9" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534814891218">
+        <mark key="a" line="514" column="9" />
         <mark key="'" line="391" column="22" />
-        <mark key="[" line="552" column="16" />
-        <mark key="]" line="552" column="26" />
-        <mark key="." line="552" column="16" />
-        <mark key="^" line="551" column="1" />
+        <mark key="[" line="512" column="22" />
+        <mark key="]" line="512" column="58" />
+        <mark key="." line="512" column="58" />
+        <mark key="^" line="512" column="58" />
       </file>
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
@@ -57,11 +62,12 @@
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1534743978150">
-        <mark key="'" line="220" column="19" />
-        <mark key="]" line="220" column="58" />
-        <mark key="^" line="220" column="58" />
-        <mark key="." line="220" column="58" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1534812921924">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="220" column="60" />
+        <mark key="]" line="220" column="61" />
+        <mark key="^" line="220" column="61" />
+        <mark key="." line="220" column="61" />
       </file>
       <file name="/Django Console" timestamp="1534746426854">
         <mark key="[" line="0" column="6" />
@@ -89,14 +95,10 @@
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0007_auto_20180723_0154.py" timestamp="1534113617106">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="20" column="8" />
-      </file>
       <file name="/dummy.sql" timestamp="1533863189893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533688021436">
+      <file name="/Dummy.txt" timestamp="1534814987988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
@@ -120,15 +122,21 @@
       <file name="/kb_entitytype [Postgres_Dev_Local]" timestamp="1533706126524">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/views.py" timestamp="1534814188824">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+      </file>
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1534740119150">
-        <mark key="'" line="905" column="0" />
-        <mark key="[" line="1021" column="0" />
-        <mark key="]" line="1021" column="0" />
-        <mark key="^" line="962" column="28" />
-        <mark key="." line="1021" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1534812956275">
+        <mark key="'" line="1089" column="30" />
+        <mark key="[" line="848" column="60" />
+        <mark key="]" line="848" column="61" />
+        <mark key="^" line="848" column="61" />
+        <mark key="." line="848" column="61" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1534113606046">
         <mark key="'" line="20" column="9" />
@@ -137,12 +145,12 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1534750144801">
-        <mark key="'" line="1505" column="8" />
-        <mark key="[" line="1422" column="4" />
-        <mark key="]" line="1422" column="5" />
-        <mark key="^" line="1422" column="5" />
-        <mark key="." line="1422" column="5" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1534813683773">
+        <mark key="'" line="1074" column="23" />
+        <mark key="[" line="1327" column="4" />
+        <mark key="]" line="1327" column="4" />
+        <mark key="^" line="1327" column="4" />
+        <mark key="." line="1327" column="4" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/models.py" timestamp="1533864963527">
         <mark key="'" line="1" column="44" />
@@ -195,30 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="547" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="557" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="561" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="571" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="608" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="617" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="623" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="627" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="632" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="662" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="668" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="691" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="696" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="699" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="701" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="709" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="812" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="817" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="833" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="872" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="897" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="901" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="905" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="913" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="940" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="966" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -295,58 +279,82 @@
       <jump line="384" column="34" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="390" column="3" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="391" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
+      <jump line="25" column="74" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="845" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="228" column="15" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="244" column="54" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="237" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="235" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="303" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="220" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="856" column="67" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="13" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
+      <jump line="1072" column="87" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1114" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1115" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="848" column="61" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="862" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="901" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="950" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="953" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="965" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1017" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1066" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1069" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1089" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1074" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin@quro.com</text>
+        <text>mediuschatserver.utils.CustomAdminEmailHandler</text>
       </register>
       <register name="-" type="4">
-        <text>admin@quro.com</text>
+        <text>mediuschatserver.utils.CustomAdminEmailHandler</text>
       </register>
       <register name="/" type="4">
-        <text>.ai</text>
+        <text>kb_symptom</text>
       </register>
-      <register name="0" type="4">
-        <text>hi@quro.ai</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsYXNzJzogJ2RqYW5nby51dGlscy5sb2cuQWRtaW5FbWFpbEhhbmRsZXInLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgICAgIHByaW50KHN0cihlKSkKICAgICAgICAgICAgIyBpbXBvcnQgc3lzCiAgICAgICAgICAgICMgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihzdHIoZSkpCg==</text>
+        <text encoding="base64">ZGVmIEFkbWluRW1haWxIYW5kbGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJEaWFnbm9zaXMgc3ltcHRvbSBkb2Vzbid0IGV4aXN0IGZvciB0b3AgZW50aXR5IHJldHVybmVkLiIpCiAgICAgICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgICAgIHByaW50KHN0cihlKSkKICAgICAgICAgICAgIyBpbXBvcnQgc3lzCiAgICAgICAgICAgICMgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihzdHIoZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQogICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJEaWFnbm9zaXMgc3ltcHRvbSBkb2Vzbid0IGV4aXN0IGZvciB0b3AgZW50aXR5IHJldHVybmVkLiIpCiAgICAgICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IFN5bXB0b20gU2VsZWN0IHJldHVybnMgZW1wdHkgcmVzdWx0ISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQogICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IFN5bXB0b20gU2VsZWN0IHJldHVybnMgZW1wdHkgcmVzdWx0ISIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IERpc2Vhc2Ugc2NvcmluZyByZXR1cm5zIGVtcHR5IHJlc3VsdCEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IFN5bXB0b20gU2VsZWN0IHJldHVybnMgZW1wdHkgcmVzdWx0ISIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGV4KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiRVJST1I6IERpc2Vhc2Ugc2NvcmluZyByZXR1cm5zIGVtcHR5IHJlc3VsdCEiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZmFpbGVkX3Jlc3VsdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGV4KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24oIkV4Y2VwdGlvbiBpbiBoYW5kbGluZyBkaXNlYXNlIHNjb3Jpbmc6ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZmFpbGVkX3Jlc3VsdHMoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.ai</last-search>
+      <last-search>kb_symptom</last-search>
       <last-offset />
-      <last-pattern>.ai</last-pattern>
+      <last-pattern>kb_symptom</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -354,8 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Anatomy</entry>
-        <entry>DEBUG</entry>
         <entry>util</entry>
         <entry>middleware</entry>
         <entry>disease_differentials</entry>
@@ -365,7 +371,6 @@
         <entry>failed</entry>
         <entry>ranking_ana</entry>
         <entry>exception</entry>
-        <entry>kb_symptom</entry>
         <entry>kb_disease_s</entry>
         <entry>mail</entry>
         <entry>EMAIL</entry>
@@ -374,6 +379,9 @@
         <entry>print</entry>
         <entry>email\c</entry>
         <entry>.ai</entry>
+        <entry>.exceptipn</entry>
+        <entry>.exception</entry>
+        <entry>kb_symptom</entry>
       </history-search>
       <history-cmd>
         <entry>%s//HELP_TEXTT/gc</entry>
@@ -394,8 +402,8 @@
         <entry>q</entry>
         <entry>q!</entry>
         <entry>e)</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

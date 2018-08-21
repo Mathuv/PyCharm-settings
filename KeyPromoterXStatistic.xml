@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare">
         <Item>
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
@@ -398,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Django Debug Server'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -406,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>588</Count>
+          <Count>589</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -414,7 +422,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '0009_auto_20180812_2...'">
@@ -534,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Django Debug Server'</Description>
-          <Count>34</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'symtom_select_test'">
@@ -598,7 +606,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>261</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -614,7 +622,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>158</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
