@@ -182,11 +182,11 @@
         <mark key="." line="284" column="12" />
         <mark key="^" line="284" column="12" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534288654144">
-        <mark key="[" line="14" column="45" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534825140949">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="33" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180812_2238.py" timestamp="1534114100902">
         <mark key="'" line="33" column="54" />
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mediuschatserver.utils.CustomAdminEmailHandler</text>
+        <text>set_db_</text>
       </register>
       <register name="-" type="4">
-        <text>mediuschatserver.utils.CustomAdminEmailHandler</text>
+        <text>set_db_</text>
       </register>
       <register name="/" type="4">
         <text>kb_sym</text>
