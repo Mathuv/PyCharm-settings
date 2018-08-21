@@ -9,7 +9,7 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="8" column="89" />
       </file>
-      <file name="/Python Console" timestamp="1534814897861">
+      <file name="/Python Console" timestamp="1534821904878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1533706113866">
@@ -27,13 +27,13 @@
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534816081281">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534821814955">
         <mark key="a" line="514" column="9" />
         <mark key="'" line="25" column="16" />
-        <mark key="[" line="512" column="22" />
-        <mark key="]" line="512" column="58" />
-        <mark key="." line="512" column="58" />
-        <mark key="^" line="512" column="58" />
+        <mark key="[" line="512" column="61" />
+        <mark key="]" line="514" column="35" />
+        <mark key="." line="514" column="35" />
+        <mark key="^" line="514" column="35" />
       </file>
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
@@ -145,12 +145,9 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1534813683773">
-        <mark key="'" line="1074" column="23" />
-        <mark key="[" line="1327" column="4" />
-        <mark key="]" line="1327" column="4" />
-        <mark key="^" line="1327" column="4" />
-        <mark key="." line="1327" column="4" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1534821899212">
+        <mark key="'" line="1505" column="0" />
+        <mark key="[" line="1328" column="25" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/models.py" timestamp="1533864963527">
         <mark key="'" line="1" column="44" />
@@ -203,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1239" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1244" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1247" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1249" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1253" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -221,7 +216,6 @@
       <jump line="1473" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1500" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1502" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1504" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1505" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="513" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="382" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
@@ -303,6 +297,9 @@
       <jump line="445" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="451" column="28" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="25" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
+      <jump line="1321" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1471" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1504" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -312,7 +309,7 @@
         <text>mediuschatserver.utils.CustomAdminEmailHandler</text>
       </register>
       <register name="/" type="4">
-        <text>environ</text>
+        <text>kb_sym</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2NsYXNzJzogJ2RqYW5nby51dGlscy5sb2cuQWRtaW5FbWFpbEhhbmRsZXInLAo=</text>
@@ -352,9 +349,9 @@
       </register>
     </registers>
     <search>
-      <last-search>environ</last-search>
+      <last-search>kb_sym</last-search>
       <last-offset />
-      <last-pattern>environ</last-pattern>
+      <last-pattern>kb_sym</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -365,7 +362,6 @@
         <entry>middleware</entry>
         <entry>disease_differentials</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
-        <entry>kb_sym</entry>
         <entry>error\c</entry>
         <entry>failed</entry>
         <entry>ranking_ana</entry>
@@ -373,7 +369,6 @@
         <entry>kb_disease_s</entry>
         <entry>mail</entry>
         <entry>EMAIL</entry>
-        <entry>return</entry>
         <entry>except</entry>
         <entry>print</entry>
         <entry>email\c</entry>
@@ -382,6 +377,8 @@
         <entry>.exception</entry>
         <entry>kb_symptom</entry>
         <entry>environ</entry>
+        <entry>return</entry>
+        <entry>kb_sym</entry>
       </history-search>
       <history-cmd>
         <entry>%s//HELP_TEXTT/gc</entry>
