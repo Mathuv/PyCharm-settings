@@ -75,12 +75,12 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1534838143729">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1534840376645">
         <mark key="'" line="246" column="7" />
-        <mark key="[" line="296" column="40" />
-        <mark key="]" line="297" column="40" />
-        <mark key="." line="297" column="40" />
-        <mark key="^" line="297" column="40" />
+        <mark key="[" line="299" column="20" />
+        <mark key="]" line="299" column="26" />
+        <mark key="." line="299" column="26" />
+        <mark key="^" line="299" column="26" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180812_2238.py" timestamp="1534114100902">
         <mark key="'" line="33" column="54" />
