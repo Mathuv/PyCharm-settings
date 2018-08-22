@@ -15,7 +15,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1534821904878">
+      <file name="/Python Console" timestamp="1534917427458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
@@ -39,12 +39,12 @@
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534836621505">
-        <mark key="'" line="572" column="0" />
-        <mark key="[" line="569" column="37" />
-        <mark key="]" line="572" column="0" />
-        <mark key="." line="572" column="0" />
-        <mark key="^" line="572" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534916547465">
+        <mark key="'" line="589" column="0" />
+        <mark key="[" line="539" column="10" />
+        <mark key="]" line="544" column="9" />
+        <mark key="." line="544" column="9" />
+        <mark key="^" line="544" column="9" />
       </file>
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
@@ -72,8 +72,8 @@
         <mark key="^" line="220" column="61" />
         <mark key="." line="220" column="61" />
       </file>
-      <file name="/Django Console" timestamp="1534746426854">
-        <mark key="[" line="0" column="6" />
+      <file name="/Django Console" timestamp="1534917690002">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -308,10 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>po</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>po</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>DATABASE</text>
