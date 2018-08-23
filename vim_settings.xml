@@ -15,8 +15,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1534984184785" />
-      <file name="/Python Console" timestamp="1534983793818">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1534984967790" />
+      <file name="/Python Console" timestamp="1534985745543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
@@ -76,6 +76,7 @@
         <mark key="^" line="220" column="61" />
         <mark key="." line="220" column="61" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/django_allauth-0.34.0.dist-info/RECORD" timestamp="1534985628510" />
       <file name="/Django Console" timestamp="1534917690002">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -123,7 +124,7 @@
         <mark key="." line="22" column="49" />
         <mark key="^" line="22" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1534984031755">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1534985493298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533774401888">
