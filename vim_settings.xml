@@ -28,20 +28,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/django_allauth-0.34.0.dist-info/RECORD" timestamp="1534985628510" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1534137094898">
-        <mark key="'" line="634" column="42" />
-        <mark key="[" line="898" column="51" />
-        <mark key="]" line="898" column="88" />
-        <mark key="." line="898" column="88" />
-        <mark key="^" line="898" column="88" />
-      </file>
-      <file name="$USER_HOME$/Devel/Mathu/Django/hnews/hnews/posts/models.py" timestamp="1533692312591">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-      </file>
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,13 +53,6 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1534812956275">
-        <mark key="'" line="1089" column="30" />
-        <mark key="[" line="848" column="60" />
-        <mark key="]" line="848" column="61" />
-        <mark key="^" line="848" column="61" />
-        <mark key="." line="848" column="61" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1533188668109">
         <mark key="[" line="272" column="28" />
         <mark key="]" line="272" column="29" />
@@ -89,20 +68,6 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1534894054891">
-        <mark key="'" line="246" column="7" />
-        <mark key="[" line="299" column="20" />
-        <mark key="]" line="299" column="26" />
-        <mark key="." line="299" column="26" />
-        <mark key="^" line="299" column="26" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180812_2238.py" timestamp="1534114100902">
-        <mark key="'" line="33" column="54" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="33" column="54" />
-        <mark key="." line="33" column="54" />
-        <mark key="^" line="33" column="54" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/utils/adapter.py" timestamp="1534814864430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="89" />
@@ -116,7 +81,7 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1534996594858" />
-      <file name="/Python Console" timestamp="1534989002689">
+      <file name="/Python Console" timestamp="1534997920244">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534118379742">
@@ -139,8 +104,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534916547465">
-        <mark key="'" line="589" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1534997481443">
+        <mark key="'" line="210" column="11" />
         <mark key="[" line="539" column="10" />
         <mark key="]" line="544" column="9" />
         <mark key="." line="544" column="9" />
@@ -155,13 +120,6 @@
       </file>
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1534812921924">
-        <mark key="'" line="13" column="37" />
-        <mark key="[" line="220" column="60" />
-        <mark key="]" line="220" column="61" />
-        <mark key="^" line="220" column="61" />
-        <mark key="." line="220" column="61" />
       </file>
       <file name="/Django Console" timestamp="1534917690002">
         <mark key="[" line="0" column="0" />
@@ -194,29 +152,8 @@
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0006_entityrelationship_status.py" timestamp="1534113606046">
-        <mark key="'" line="20" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/models.py" timestamp="1534833775141">
-        <mark key="'" line="1" column="44" />
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-      </file>
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1534291329197">
-        <mark key="'" line="817" column="21" />
-        <mark key="[" line="811" column="40" />
-        <mark key="]" line="811" column="39" />
-        <mark key="." line="811" column="39" />
-        <mark key="^" line="811" column="39" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534825140949">
         <mark key="[" line="21" column="12" />
@@ -232,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1431" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1432" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1445" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1446" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1447" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -332,6 +267,8 @@
       <jump line="572" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="246" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="40" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
+      <jump line="535" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
+      <jump line="210" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -341,7 +278,7 @@
         <text>DROP CONSTRAINT &quot;account_emailconfirm_email_address_id_5b7f8c58_fk_account_e&quot;;</text>
       </register>
       <register name="/" type="4">
-        <text>DATABASE</text>
+        <text>ROUTER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5wb3N0Z3Jlc3FsJywK</text>
@@ -381,9 +318,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DATABASE</last-search>
+      <last-search>ROUTER</last-search>
       <last-offset />
-      <last-pattern>DATABASE</last-pattern>
+      <last-pattern>ROUTER</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry>error\c</entry>
         <entry>failed</entry>
         <entry>ranking_ana</entry>
         <entry>exception</entry>
@@ -411,6 +347,7 @@
         <entry>redis</entry>
         <entry>CACHES</entry>
         <entry>DATABASE</entry>
+        <entry>ROUTER</entry>
       </history-search>
       <history-cmd>
         <entry>%s//HELP_TEXTT/gc</entry>
