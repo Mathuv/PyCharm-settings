@@ -81,8 +81,12 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1535445481321">
-        <mark key="'" line="59" column="17" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1535446760630">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="373" column="0" />
+        <mark key="]" line="373" column="0" />
+        <mark key="." line="373" column="0" />
+        <mark key="^" line="370" column="35" />
       </file>
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
@@ -164,12 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="862" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="901" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="950" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="953" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="965" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
-      <jump line="1017" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1066" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1069" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1089" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
@@ -264,10 +262,16 @@
       <jump line="71" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="66" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="62" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
+      <jump line="373" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="1569" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NEW SHEET</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NEW SHEET</text>
@@ -279,37 +283,37 @@
         <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5wb3N0Z3Jlc3FsJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgJ2RiX211bHRpdGVuYW50JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFN0aWxsIHVzZSB0aGUgREIgbmFtZSBvZiBzZXR0aW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvd1snU3ltcHRvbV9JRCddID0gc3ltcHRvbV9pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBVcGRhdGUgdGhlIGV4Y2VsIHJlYWQgZGF0YSB3aXRoIG5ldyBzeW1wdG9tIElECiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHNlbGYubmV3ZGF0YS5kaWN0W2ldWydTeW1wdG9tX0lEJ10gPSBzeW1wdG9tX2lkCgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIGluZmFudCBhdHRyaWJ1dGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIFN5bXB0b20gYXR0cmlidXRlcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBpbmZhbnQgPSByb3cuZ2V0KCdJbmZhbnQnKSBpZiByb3cuZ2V0KCdJbmZhbnQnKSBlbHNlIE5vbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgaWYgaW5mYW50OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi51cGRhdGVfc3ltcHRvbV9hdHRyaWJ1dGVzKHN5bXB0b21faWQsIGVudGl0eV9pZCwgcm93KQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIGdlbmRlciBhdHRyaWJ1dGVzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYWxlX2ZlbWFsZSA9IHJvdy5nZXQoJ0ZlbWFsZSBNYWxlJykuc3RyaXAoKSBpZiByb3cuZ2V0KCdGZW1hbGUgTWFsZScpIGVsc2UgTm9uZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbWFsZV9mZW1hbGU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi51cGRhdGVfZ2VuZGVyX2F0dHJpYnV0ZXMoc3ltcHRvbV9pZCwgbWFsZV9mZW1hbGUpCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBBZGQgc2Vjb25kYXJ5IGxheW1hbiB0ZXJtcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgcm93LmdldCgnU2Vjb25kYXJ5IExheW1hbiBUZXJtcycpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlY29uZGFyeV9sYXltYW5fdGVybXMgPSByb3cuZ2V0KCdTZWNvbmRhcnkgTGF5bWFuIFRlcm1zJykuc3RyaXAoKS5zcGxpdCgiLCIpIGlmIHJvdy5nZXQoJ1NlY29uZGFyeSBMYXltYW4gVGVybXMnKSBlbHNlIE5vbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnVwZGF0ZV9zZWNvbmRhcnlfbGF5bWFuX3Rlcm1zKHN5bXB0b21faWQsIHNlY29uZGFyeV9sYXltYW5fdGVybXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW5hbnRfbmFtZSA9IG1hdGNoLmdyb3VwVnMoKQo=</text>
+        <text encoding="base64">ICAgICMgJ2RiX211bHRpdGVuYW50JywK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYl9tdWx0aXRlbmFudC5tYXBwZXIgaW1wb3J0IFRlbmFudE1hcHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICAjIFN0aWxsIHVzZSB0aGUgREIgbmFtZSBvZiBzZXR0aW5ncwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVGVuYW50TWFwcGVyCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW5hbnRfbmFtZSA9IG1hdGNoLmdyb3VwVnMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIEFkbWluRW1haWxIYW5kbGVyCg==</text>
+        <text encoding="base64">ZnJvbSBkYl9tdWx0aXRlbmFudC5tYXBwZXIgaW1wb3J0IFRlbmFudE1hcHBlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgICAgIHByaW50KHN0cihlKSkKICAgICAgICAgICAgIyBpbXBvcnQgc3lzCiAgICAgICAgICAgICMgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihzdHIoZSkpCg==</text>
+        <text encoding="base64">Y2xhc3MgVGVuYW50TWFwcGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJEaWFnbm9zaXMgc3ltcHRvbSBkb2Vzbid0IGV4aXN0IGZvciB0b3AgZW50aXR5IHJldHVybmVkLiIpCiAgICAgICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
+        <text encoding="base64">ZGVmIEFkbWluRW1haWxIYW5kbGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQogICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgICAgIHByaW50KHN0cihlKSkKICAgICAgICAgICAgIyBpbXBvcnQgc3lzCiAgICAgICAgICAgICMgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihzdHIoZSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -363,8 +367,8 @@
         <entry>q</entry>
         <entry>q!</entry>
         <entry>e)</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
