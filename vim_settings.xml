@@ -59,12 +59,12 @@
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1534982061002">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1535440021943">
         <mark key="'" line="595" column="76" />
-        <mark key="[" line="591" column="48" />
-        <mark key="]" line="592" column="78" />
-        <mark key="^" line="592" column="78" />
-        <mark key="." line="592" column="78" />
+        <mark key="[" line="162" column="69" />
+        <mark key="]" line="162" column="102" />
+        <mark key="^" line="162" column="102" />
+        <mark key="." line="162" column="102" />
       </file>
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
@@ -80,6 +80,9 @@
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1535440128241">
+        <mark key="'" line="59" column="17" />
       </file>
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
@@ -158,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1446" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1447" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1458" column="54" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="1473" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -258,16 +260,17 @@
       <jump line="535" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="210" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="640" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="59" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DROP CONSTRAINT &quot;account_emailconfirm_email_address_id_5b7f8c58_fk_account_e&quot;;</text>
+        <text>NEW SHEET</text>
       </register>
       <register name="-" type="4">
-        <text>DROP CONSTRAINT &quot;account_emailconfirm_email_address_id_5b7f8c58_fk_account_e&quot;;</text>
+        <text>NEW SHEET</text>
       </register>
       <register name="/" type="4">
-        <text>ROUTER</text>
+        <text>FINAL SYMPTOMS FOR QURO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5wb3N0Z3Jlc3FsJywK</text>
@@ -307,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ROUTER</last-search>
+      <last-search>FINAL SYMPTOMS FOR QURO</last-search>
       <last-offset />
-      <last-pattern>ROUTER</last-pattern>
+      <last-pattern>FINAL SYMPTOMS FOR QURO</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -317,7 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>failed</entry>
         <entry>ranking_ana</entry>
         <entry>exception</entry>
         <entry>kb_disease_s</entry>
@@ -337,6 +339,7 @@
         <entry>CACHES</entry>
         <entry>DATABASE</entry>
         <entry>ROUTER</entry>
+        <entry>FINAL SYMPTOMS FOR QURO</entry>
       </history-search>
       <history-cmd>
         <entry>%s//HELP_TEXTT/gc</entry>
