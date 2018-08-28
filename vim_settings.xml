@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1535440128241">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1535445481321">
         <mark key="'" line="59" column="17" />
       </file>
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
