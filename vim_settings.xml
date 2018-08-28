@@ -53,6 +53,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535449413783">
+        <mark key="[" line="526" column="12" />
+        <mark key="]" line="526" column="15" />
+        <mark key="^" line="526" column="15" />
+        <mark key="." line="526" column="15" />
+      </file>
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -313,7 +319,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgICAgIHByaW50KHN0cihlKSkKICAgICAgICAgICAgIyBpbXBvcnQgc3lzCiAgICAgICAgICAgICMgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihzdHIoZSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -367,8 +373,8 @@
         <entry>q</entry>
         <entry>q!</entry>
         <entry>e)</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
