@@ -53,6 +53,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535519693903">
+        <mark key="[" line="199" column="39" />
+        <mark key="]" line="199" column="42" />
+        <mark key="." line="199" column="42" />
+        <mark key="^" line="199" column="42" />
+      </file>
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -270,11 +276,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>my_schema</text>
       </register>
       <register name="-" type="4">
-        <text>NEW SHEET</text>
+        <text>my_schema</text>
       </register>
       <register name="/" type="4">
         <text>FINAL SYMPTOMS FOR QURO</text>
