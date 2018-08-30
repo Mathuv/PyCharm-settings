@@ -9,13 +9,13 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="8" column="89" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" timestamp="1535599468876">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" timestamp="1535613564902">
         <mark key="a" line="5" column="30" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1535599210673">
+      <file name="/Python Console" timestamp="1535615151933">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
@@ -32,7 +32,8 @@
         <mark key="]" line="55" column="161" />
         <mark key="." line="55" column="161" />
       </file>
-      <file name="/a.dummy" timestamp="1535010498362">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0022_export_all_disease_symptom_relationship.py" timestamp="1535616105587" />
+      <file name="/a.dummy" timestamp="1535615973993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/models.py" timestamp="1534897508221">
@@ -53,8 +54,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535524474201">
-        <mark key="'" line="566" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535616343263">
+        <mark key="'" line="569" column="0" />
+        <mark key="[" line="187" column="32" />
+        <mark key="]" line="187" column="48" />
+        <mark key="^" line="187" column="31" />
+        <mark key="." line="187" column="31" />
       </file>
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
@@ -145,12 +150,12 @@
         <mark key="^" line="272" column="29" />
         <mark key="." line="272" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1535604907836">
-        <mark key="'" line="825" column="27" />
-        <mark key="[" line="837" column="36" />
-        <mark key="]" line="841" column="29" />
-        <mark key="^" line="841" column="29" />
-        <mark key="." line="841" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1535613148358">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="842" column="0" />
+        <mark key="]" line="843" column="0" />
+        <mark key="." line="843" column="0" />
+        <mark key="^" line="843" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" timestamp="1534996437038">
         <mark key="[" line="0" column="0" />
@@ -179,14 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="122" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="153" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="154" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="186" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="187" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="188" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="189" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="190" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="191" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="216" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
@@ -279,51 +276,59 @@
       <jump line="596" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="538" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="825" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="842" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="829" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="16" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="27" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="837" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="831" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="843" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Acute Sinusitis</text>
+        <text>POSTGRES_USERNAME</text>
       </register>
       <register name="-" type="4">
-        <text>Acute Sinusitis</text>
+        <text>POSTGRES_USERNAME</text>
       </register>
       <register name="/" type="4">
         <text>FINAL SYMPTOMS FOR QURO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5wb3N0Z3Jlc3FsJywK</text>
+      <register name="0" type="4">
+        <text>POSTGRES_USERNAME</text>
       </register>
-      <register name="1" type="4">
-        <text>select *
-from diagnosis_disease
-where disease_name ilike '%acute%'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvd1snU3ltcHRvbV9JRCddID0gc3ltcHRvbV9pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBVcGRhdGUgdGhlIGV4Y2VsIHJlYWQgZGF0YSB3aXRoIG5ldyBzeW1wdG9tIElECiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHNlbGYubmV3ZGF0YS5kaWN0W2ldWydTeW1wdG9tX0lEJ10gPSBzeW1wdG9tX2lkCgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIGluZmFudCBhdHRyaWJ1dGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIFN5bXB0b20gYXR0cmlidXRlcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBpbmZhbnQgPSByb3cuZ2V0KCdJbmZhbnQnKSBpZiByb3cuZ2V0KCdJbmZhbnQnKSBlbHNlIE5vbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgaWYgaW5mYW50OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi51cGRhdGVfc3ltcHRvbV9hdHRyaWJ1dGVzKHN5bXB0b21faWQsIGVudGl0eV9pZCwgcm93KQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIGdlbmRlciBhdHRyaWJ1dGVzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYWxlX2ZlbWFsZSA9IHJvdy5nZXQoJ0ZlbWFsZSBNYWxlJykuc3RyaXAoKSBpZiByb3cuZ2V0KCdGZW1hbGUgTWFsZScpIGVsc2UgTm9uZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbWFsZV9mZW1hbGU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi51cGRhdGVfZ2VuZGVyX2F0dHJpYnV0ZXMoc3ltcHRvbV9pZCwgbWFsZV9mZW1hbGUpCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBBZGQgc2Vjb25kYXJ5IGxheW1hbiB0ZXJtcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgcm93LmdldCgnU2Vjb25kYXJ5IExheW1hbiBUZXJtcycpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlY29uZGFyeV9sYXltYW5fdGVybXMgPSByb3cuZ2V0KCdTZWNvbmRhcnkgTGF5bWFuIFRlcm1zJykuc3RyaXAoKS5zcGxpdCgiLCIpIGlmIHJvdy5nZXQoJ1NlY29uZGFyeSBMYXltYW4gVGVybXMnKSBlbHNlIE5vbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnVwZGF0ZV9zZWNvbmRhcnlfbGF5bWFuX3Rlcm1zKHN5bXB0b21faWQsIHNlY29uZGFyeV9sYXltYW5fdGVybXMpCg==</text>
+      <register name="3" type="4">
+        <text>select *
+from diagnosis_disease
+where disease_name ilike '%acute%'</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgJ2RiX211bHRpdGVuYW50JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFN0aWxsIHVzZSB0aGUgREIgbmFtZSBvZiBzZXR0aW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvd1snU3ltcHRvbV9JRCddID0gc3ltcHRvbV9pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBVcGRhdGUgdGhlIGV4Y2VsIHJlYWQgZGF0YSB3aXRoIG5ldyBzeW1wdG9tIElECiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHNlbGYubmV3ZGF0YS5kaWN0W2ldWydTeW1wdG9tX0lEJ10gPSBzeW1wdG9tX2lkCgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIGluZmFudCBhdHRyaWJ1dGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIFN5bXB0b20gYXR0cmlidXRlcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBpbmZhbnQgPSByb3cuZ2V0KCdJbmZhbnQnKSBpZiByb3cuZ2V0KCdJbmZhbnQnKSBlbHNlIE5vbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgaWYgaW5mYW50OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi51cGRhdGVfc3ltcHRvbV9hdHRyaWJ1dGVzKHN5bXB0b21faWQsIGVudGl0eV9pZCwgcm93KQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVXBkYXRlIGdlbmRlciBhdHRyaWJ1dGVzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYWxlX2ZlbWFsZSA9IHJvdy5nZXQoJ0ZlbWFsZSBNYWxlJykuc3RyaXAoKSBpZiByb3cuZ2V0KCdGZW1hbGUgTWFsZScpIGVsc2UgTm9uZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbWFsZV9mZW1hbGU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi51cGRhdGVfZ2VuZGVyX2F0dHJpYnV0ZXMoc3ltcHRvbV9pZCwgbWFsZV9mZW1hbGUpCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBBZGQgc2Vjb25kYXJ5IGxheW1hbiB0ZXJtcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgcm93LmdldCgnU2Vjb25kYXJ5IExheW1hbiBUZXJtcycpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlY29uZGFyeV9sYXltYW5fdGVybXMgPSByb3cuZ2V0KCdTZWNvbmRhcnkgTGF5bWFuIFRlcm1zJykuc3RyaXAoKS5zcGxpdCgiLCIpIGlmIHJvdy5nZXQoJ1NlY29uZGFyeSBMYXltYW4gVGVybXMnKSBlbHNlIE5vbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnVwZGF0ZV9zZWNvbmRhcnlfbGF5bWFuX3Rlcm1zKHN5bXB0b21faWQsIHNlY29uZGFyeV9sYXltYW5fdGVybXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW5hbnRfbmFtZSA9IG1hdGNoLmdyb3VwVnMoKQo=</text>
+        <text encoding="base64">ICAgICMgJ2RiX211bHRpdGVuYW50JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkYl9tdWx0aXRlbmFudC5tYXBwZXIgaW1wb3J0IFRlbmFudE1hcHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICAjIFN0aWxsIHVzZSB0aGUgREIgbmFtZSBvZiBzZXR0aW5ncwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVGVuYW50TWFwcGVyCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW5hbnRfbmFtZSA9IG1hdGNoLmdyb3VwVnMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIEFkbWluRW1haWxIYW5kbGVyCg==</text>
+        <text encoding="base64">ZnJvbSBkYl9tdWx0aXRlbmFudC5tYXBwZXIgaW1wb3J0IFRlbmFudE1hcHBlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
