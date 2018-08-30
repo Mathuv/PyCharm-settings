@@ -145,12 +145,12 @@
         <mark key="^" line="272" column="29" />
         <mark key="." line="272" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1535601708616">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1535604907836">
         <mark key="'" line="825" column="27" />
-        <mark key="[" line="829" column="26" />
-        <mark key="]" line="829" column="37" />
-        <mark key="^" line="829" column="37" />
-        <mark key="." line="829" column="37" />
+        <mark key="[" line="837" column="36" />
+        <mark key="]" line="841" column="29" />
+        <mark key="^" line="841" column="29" />
+        <mark key="." line="841" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" timestamp="1534996437038">
         <mark key="[" line="0" column="0" />
