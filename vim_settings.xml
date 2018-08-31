@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/search/views.py" timestamp="1535669906484">
-        <mark key="[" line="134" column="17" />
-        <mark key="]" line="134" column="50" />
-        <mark key="." line="134" column="50" />
-        <mark key="^" line="134" column="50" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/search/views.py" timestamp="1535677881875">
+        <mark key="[" line="135" column="19" />
+        <mark key="]" line="135" column="50" />
+        <mark key="." line="135" column="50" />
+        <mark key="^" line="135" column="50" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
@@ -29,6 +29,12 @@
       </file>
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/urls.py" timestamp="1535678794876">
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="86" column="24" />
+        <mark key="^" line="86" column="24" />
+        <mark key="." line="86" column="24" />
       </file>
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
@@ -95,7 +101,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1535675119360">
+      <file name="/Python Console" timestamp="1535678655956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535599479807">
@@ -119,12 +125,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535675114547">
-        <mark key="'" line="376" column="9" />
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="27" />
-        <mark key="^" line="38" column="27" />
-        <mark key="." line="38" column="27" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535678507444">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="106" column="54" />
+        <mark key="^" line="106" column="54" />
+        <mark key="." line="106" column="54" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1535440021943">
         <mark key="'" line="595" column="76" />
@@ -293,13 +298,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>trim_search(search_results_serialized_distinct, self.gender, int(self.age) if self.age else None)</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>trim_search(search_results_serialized_distinct, self.gender, int(self.age) if self.age else None)</text>
       </register>
       <register name="/" type="4">
-        <text>ALLOW</text>
+        <text>INTER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQgPSB0cmltX3NlYXJjaChzZWFyY2hfcmVzdWx0c19zZXJpYWxpemVkX2Rpc3RpbmN0LCBzZWxmLmdlbmRlciwgaW50KHNlbGYuYWdlKSBpZiBzZWxmLmFnZSBlbHNlIE5vbmUpCg==</text>
@@ -341,9 +346,9 @@ where disease_name ilike '%acute%'</text>
       </register>
     </registers>
     <search>
-      <last-search>ALLOW</last-search>
+      <last-search>INTER</last-search>
       <last-offset />
-      <last-pattern>ALLOW</last-pattern>
+      <last-pattern>INTER</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -351,7 +356,6 @@ where disease_name ilike '%acute%'</text>
     </search>
     <history>
       <history-search>
-        <entry>kb_disease_s</entry>
         <entry>mail</entry>
         <entry>EMAIL</entry>
         <entry>except</entry>
@@ -371,6 +375,7 @@ where disease_name ilike '%acute%'</text>
         <entry>FINAL SYMPTOMS FOR QURO</entry>
         <entry>STATIC</entry>
         <entry>ALLOW</entry>
+        <entry>INTER</entry>
       </history-search>
       <history-cmd>
         <entry>%s//HELP_TEXTT/gc</entry>
