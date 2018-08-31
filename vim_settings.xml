@@ -71,7 +71,7 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1535692867026" />
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1535694740965" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1533188668109">
         <mark key="[" line="272" column="28" />
         <mark key="]" line="272" column="29" />
@@ -94,6 +94,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/mysql/base.py" timestamp="1535694265891" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1535443459054">
         <mark key="'" line="62" column="0" />
       </file>
@@ -103,15 +104,15 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="8" column="89" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" timestamp="1535693292707">
-        <mark key="a" line="9" column="30" />
-        <mark key="'" line="19" column="33" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="32" column="91" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" timestamp="1535694589719">
+        <mark key="a" line="10" column="30" />
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1535681805856">
+      <file name="/Python Console" timestamp="1535694470633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535682437334">
@@ -307,17 +308,17 @@
       <jump line="16" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.base import DatabaseWrapper</text>
       </register>
       <register name="-" type="4">
-        <text>trim_search(search_results_serialized_distinct, self.gender, int(self.age) if self.age else None)</text>
+        <text>.base import DatabaseWrapper</text>
       </register>
       <register name="/" type="4">
         <text>INTER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB0cmltX3NlYXJjaChzZWFyY2hfcmVzdWx0c19zZXJpYWxpemVkX2Rpc3RpbmN0LCBzZWxmLmdlbmRlciwgaW50KHNlbGYuYWdlKSBpZiBzZWxmLmFnZSBlbHNlIE5vbmUpCg==</text>
+        <text encoding="base64">ZnJvbSBkYl9tdWx0aXRlbmFudC5kYi5iYWNrZW5kcy5wb3N0Z3Jlc3FsLmJhc2UgaW1wb3J0IERhdGFiYXNlV3JhcHBlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
