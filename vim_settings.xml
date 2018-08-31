@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/search/views.py" timestamp="1535677881875">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/search/views.py" timestamp="1535682694820">
         <mark key="[" line="135" column="19" />
         <mark key="]" line="135" column="50" />
         <mark key="." line="135" column="50" />
@@ -101,10 +101,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1535678655956">
+      <file name="/Python Console" timestamp="1535681805856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1535599479807">
+      <file name="/fragment.py" timestamp="1535682437334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="40" />
