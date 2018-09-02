@@ -46,7 +46,6 @@
         <mark key="." line="373" column="0" />
         <mark key="^" line="370" column="35" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/middleware.py" timestamp="1535691065783" />
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,7 +70,6 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1535706312214" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1533188668109">
         <mark key="[" line="272" column="28" />
         <mark key="]" line="272" column="29" />
@@ -90,11 +88,9 @@
         <mark key="^" line="360" column="33" />
         <mark key="." line="360" column="33" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1535601077903" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/mysql/base.py" timestamp="1535694265891" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1535443459054">
         <mark key="'" line="62" column="0" />
       </file>
@@ -112,7 +108,7 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1535694470633">
+      <file name="/Python Console" timestamp="1535928379773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535682437334">
@@ -126,7 +122,6 @@
         <mark key="]" line="55" column="161" />
         <mark key="." line="55" column="161" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0022_export_all_disease_symptom_relationship.py" timestamp="1535616105587" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/models.py" timestamp="1534897508221">
         <mark key="[" line="178" column="64" />
         <mark key="]" line="178" column="89" />
