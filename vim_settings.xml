@@ -71,7 +71,7 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1535694740965" />
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1535706312214" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1533188668109">
         <mark key="[" line="272" column="28" />
         <mark key="]" line="272" column="29" />
@@ -136,7 +136,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535693023451">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535705711682">
+        <mark key="'" line="192" column="57" />
         <mark key="[" line="225" column="1" />
         <mark key="]" line="106" column="54" />
         <mark key="^" line="106" column="54" />
@@ -206,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="244" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="245" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="400" column="15" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
@@ -306,6 +306,7 @@
       <jump line="313" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="375" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="16" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" />
+      <jump line="192" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -315,7 +316,7 @@
         <text>.base import DatabaseWrapper</text>
       </register>
       <register name="/" type="4">
-        <text>INTER</text>
+        <text>search\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkYl9tdWx0aXRlbmFudC5kYi5iYWNrZW5kcy5wb3N0Z3Jlc3FsLmJhc2UgaW1wb3J0IERhdGFiYXNlV3JhcHBlcgo=</text>
@@ -357,9 +358,9 @@ where disease_name ilike '%acute%'</text>
       </register>
     </registers>
     <search>
-      <last-search>INTER</last-search>
+      <last-search>search\c</last-search>
       <last-offset />
-      <last-pattern>INTER</last-pattern>
+      <last-pattern>search\c</last-pattern>
       <last-replace>anatomy_level_column</last-replace>
       <last-substitute>anatomy_level_clumn</last-substitute>
       <last-dir>1</last-dir>
@@ -367,9 +368,6 @@ where disease_name ilike '%acute%'</text>
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
-        <entry>EMAIL</entry>
-        <entry>except</entry>
         <entry>print</entry>
         <entry>email\c</entry>
         <entry>.ai</entry>
@@ -387,6 +385,9 @@ where disease_name ilike '%acute%'</text>
         <entry>STATIC</entry>
         <entry>ALLOW</entry>
         <entry>INTER</entry>
+        <entry>installed\c</entry>
+        <entry>search</entry>
+        <entry>search\c</entry>
       </history-search>
       <history-cmd>
         <entry>%s//HELP_TEXTT/gc</entry>
