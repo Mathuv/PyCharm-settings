@@ -53,6 +53,13 @@
         <mark key="." line="373" column="0" />
         <mark key="^" line="370" column="35" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" timestamp="1536047313673">
+        <mark key="'" line="187" column="8" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+      </file>
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -122,7 +129,7 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1536042360241">
+      <file name="/Python Console" timestamp="1536047371537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536040567756">
@@ -157,12 +164,12 @@
         <mark key="]" line="3" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1535440021943">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
-        <mark key="[" line="162" column="69" />
-        <mark key="]" line="162" column="102" />
-        <mark key="^" line="162" column="102" />
-        <mark key="." line="162" column="102" />
+        <mark key="[" line="149" column="69" />
+        <mark key="]" line="149" column="93" />
+        <mark key="^" line="149" column="93" />
+        <mark key="." line="149" column="93" />
       </file>
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
@@ -204,6 +211,13 @@
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1536046537191">
+        <mark key="'" line="1320" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="79" column="20" />
+        <mark key="^" line="79" column="20" />
+        <mark key="." line="79" column="20" />
+      </file>
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
@@ -228,49 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="640" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
-      <jump line="59" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
-      <jump line="273" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="270" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="265" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="260" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="256" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="251" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="245" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="241" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="236" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="232" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="188" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="196" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="208" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="218" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="230" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="219" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="213" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="209" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="205" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="201" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="197" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="189" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="185" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="182" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="178" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="170" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="166" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="161" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="157" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="153" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="149" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="142" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="138" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="135" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="131" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="127" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="123" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="118" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="115" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="111" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
-      <jump line="104" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="100" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="88" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="83" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
@@ -328,16 +299,59 @@
       <jump line="29" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" />
       <jump line="54" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" />
       <jump line="175" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" />
+      <jump line="79" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="114" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="138" column="198" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="158" column="185" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="173" column="59" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="174" column="41" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="175" column="65" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="176" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="177" column="69" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="178" column="67" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="179" column="75" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="180" column="53" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="181" column="70" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="182" column="48" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="183" column="51" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="186" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="187" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="201" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="244" column="45" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="275" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="282" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="302" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="332" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="338" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="348" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="355" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="370" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="373" column="54" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1338" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1349" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1360" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1371" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1384" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1395" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1405" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1453" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="1320" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="21" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
+      <jump line="159" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
+      <jump line="187" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NEW MUTUALLY EXCLUSIVE RELATIONSHIPS</text>
       </register>
       <register name="-" type="4">
-        <text>sql_symptom_attributes</text>
+        <text>NEW MUTUALLY EXCLUSIVE RELATIONSHIPS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYl9jb25uXD4=</text>
+        <text>conn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWdlbmRlcl9wcmV2YWxlbmNlID0gcHNxbC5yZWFkX3NxbChzcWxfZ2VuZGVyX2F0dHJpYnV0ZXMsIGNvbm5lY3Rpb24pCglzeW1wdG9tX2FnZV9wcmV2YWxlbmNlID0gcHNxbC5yZWFkX3NxbChzcWxfc3ltcHRvbV9hdHRyaWJ1dGVzLCBjb25uZWN0aW9uKQo=</text>
@@ -377,19 +391,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYl9jb25uXD4=</last-search>
+      <last-search>conn</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYl9jb25uXD4=</last-pattern>
-      <last-replace>anatomy_level_column</last-replace>
-      <last-substitute>anatomy_level_clumn</last-substitute>
+      <last-pattern>conn</last-pattern>
+      <last-replace>connection</last-replace>
+      <last-substitute>conn</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kb_symptom</entry>
-        <entry>environ</entry>
-        <entry>return</entry>
         <entry>kb_sym</entry>
         <entry>redis</entry>
         <entry>CACHES</entry>
@@ -407,9 +418,11 @@
         <entry encoding="base64">XDxzeW1wdG9tc1w+</entry>
         <entry>trim</entry>
         <entry encoding="base64">XDxkYl9jb25uXD4=</entry>
+        <entry>con</entry>
+        <entry>s</entry>
+        <entry>conn</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//HELP_TEXTT/gc</entry>
         <entry encoding="base64">bWFwISA8Qy1GPiA8RXNjPmdVaXdgXWE=</entry>
         <entry encoding="base64">bWFwIDxzcGFjZT4gdml3</entry>
         <entry encoding="base64">dW5tYXAgPHNwYWNlPiB2aXc=</entry>
@@ -428,6 +441,7 @@
         <entry>q!</entry>
         <entry>e)</entry>
         <entry>wq</entry>
+        <entry>s/conn/connection/c</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
