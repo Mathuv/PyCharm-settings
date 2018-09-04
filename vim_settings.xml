@@ -129,7 +129,7 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1536100065199">
+      <file name="/Python Console" timestamp="1536103667546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536040567756">
@@ -152,12 +152,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1535938476577">
-        <mark key="'" line="201" column="14" />
-        <mark key="[" line="192" column="28" />
-        <mark key="]" line="192" column="41" />
-        <mark key="^" line="192" column="41" />
-        <mark key="." line="192" column="41" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1536103745677">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="195" column="44" />
+        <mark key="]" line="195" column="43" />
+        <mark key="^" line="195" column="43" />
+        <mark key="." line="195" column="43" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/settings.py" timestamp="1535935661185">
         <mark key="[" line="0" column="0" />
@@ -211,13 +211,6 @@
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1536046537191">
-        <mark key="'" line="1320" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="79" column="20" />
-        <mark key="^" line="79" column="20" />
-        <mark key="." line="79" column="20" />
-      </file>
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
@@ -242,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="83" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="75" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
       <jump line="71" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" />
@@ -342,16 +334,17 @@
       <jump line="180" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="65" column="101" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="187" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NEW MUTUALLY EXCLUSIVE RELATIONSHIPS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>NEW MUTUALLY EXCLUSIVE RELATIONSHIPS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>conn</text>
+        <text>DATA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWdlbmRlcl9wcmV2YWxlbmNlID0gcHNxbC5yZWFkX3NxbChzcWxfZ2VuZGVyX2F0dHJpYnV0ZXMsIGNvbm5lY3Rpb24pCglzeW1wdG9tX2FnZV9wcmV2YWxlbmNlID0gcHNxbC5yZWFkX3NxbChzcWxfc3ltcHRvbV9hdHRyaWJ1dGVzLCBjb25uZWN0aW9uKQo=</text>
@@ -391,9 +384,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conn</last-search>
+      <last-search>DATA</last-search>
       <last-offset />
-      <last-pattern>conn</last-pattern>
+      <last-pattern>DATA</last-pattern>
       <last-replace>connection</last-replace>
       <last-substitute>conn</last-substitute>
       <last-dir>1</last-dir>
@@ -401,7 +394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kb_sym</entry>
         <entry>redis</entry>
         <entry>CACHES</entry>
         <entry>DATABASE</entry>
@@ -421,6 +413,7 @@
         <entry>con</entry>
         <entry>s</entry>
         <entry>conn</entry>
+        <entry>DATA</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwISA8Qy1GPiA8RXNjPmdVaXdgXWE=</entry>
