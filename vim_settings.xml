@@ -152,12 +152,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1536106883527">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1536109814833">
         <mark key="'" line="38" column="18" />
-        <mark key="[" line="195" column="44" />
-        <mark key="]" line="195" column="43" />
-        <mark key="^" line="195" column="43" />
-        <mark key="." line="195" column="43" />
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="40" column="6" />
+        <mark key="^" line="40" column="6" />
+        <mark key="." line="40" column="6" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/settings.py" timestamp="1535935661185">
         <mark key="[" line="0" column="0" />
@@ -213,6 +213,12 @@
       </file>
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" timestamp="1536109762290">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1535613148358">
         <mark key="'" line="0" column="0" />
@@ -338,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>ngrok</text>
