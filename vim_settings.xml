@@ -37,7 +37,7 @@
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/urls.py" timestamp="1535678794876">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/urls.py" timestamp="1536534827520">
         <mark key="[" line="91" column="23" />
         <mark key="]" line="91" column="24" />
         <mark key="^" line="91" column="24" />
@@ -53,6 +53,7 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536534694116" />
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/middleware.py" timestamp="1536128891593">
         <mark key="[" line="52" column="37" />
         <mark key="]" line="52" column="36" />
