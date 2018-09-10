@@ -106,12 +106,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536560922897">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536563674189">
         <mark key="'" line="666" column="22" />
-        <mark key="[" line="688" column="0" />
-        <mark key="]" line="688" column="0" />
-        <mark key="^" line="706" column="45" />
-        <mark key="." line="688" column="0" />
+        <mark key="[" line="737" column="35" />
+        <mark key="]" line="737" column="39" />
+        <mark key="^" line="737" column="39" />
+        <mark key="." line="737" column="39" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -142,7 +142,7 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1536560880870">
+      <file name="/Python Console" timestamp="1536563718166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536560353549">
@@ -359,10 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>message.reply_channel</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>message.reply_channel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</text>
