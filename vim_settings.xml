@@ -60,7 +60,12 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536534694116" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536546222531">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/middleware.py" timestamp="1536128891593">
         <mark key="[" line="52" column="37" />
         <mark key="]" line="52" column="36" />
@@ -101,12 +106,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536544901693">
-        <mark key="'" line="155" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536545482661">
+        <mark key="'" line="138" column="4" />
         <mark key="[" line="1" column="78" />
-        <mark key="]" line="273" column="29" />
-        <mark key="^" line="273" column="29" />
-        <mark key="." line="273" column="29" />
+        <mark key="]" line="138" column="10" />
+        <mark key="^" line="138" column="10" />
+        <mark key="." line="138" column="10" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -137,7 +142,7 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1536541581113">
+      <file name="/Python Console" timestamp="1536546257307">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536195014856">
@@ -250,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="16" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" />
       <jump line="192" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="101" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
@@ -346,10 +350,11 @@
       <jump line="112" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="130" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="134" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="143" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="149" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="154" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
+      <jump line="139" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
+      <jump line="138" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,7 +364,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mapper</text>
+        <text encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWdlbmRlcl9wcmV2YWxlbmNlID0gcHNxbC5yZWFkX3NxbChzcWxfZ2VuZGVyX2F0dHJpYnV0ZXMsIGNvbm5lY3Rpb24pCglzeW1wdG9tX2FnZV9wcmV2YWxlbmNlID0gcHNxbC5yZWFkX3NxbChzcWxfc3ltcHRvbV9hdHRyaWJ1dGVzLCBjb25uZWN0aW9uKQo=</text>
@@ -399,9 +404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mapper</last-search>
+      <last-search encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>mapper</last-pattern>
+      <last-pattern encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</last-pattern>
       <last-replace>connection</last-replace>
       <last-substitute>conn</last-substitute>
       <last-dir>1</last-dir>
@@ -409,7 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DATABASE</entry>
         <entry>ROUTER</entry>
         <entry>FINAL SYMPTOMS FOR QURO</entry>
         <entry>STATIC</entry>
@@ -429,6 +433,7 @@
         <entry>DATA</entry>
         <entry>ngrok</entry>
         <entry>mapper</entry>
+        <entry encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwISA8Qy1GPiA8RXNjPmdVaXdgXWE=</entry>
