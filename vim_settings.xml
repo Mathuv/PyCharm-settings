@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/search/views.py" timestamp="1536039781427">
-        <mark key="[" line="135" column="19" />
-        <mark key="]" line="135" column="50" />
-        <mark key="." line="135" column="50" />
-        <mark key="^" line="135" column="50" />
+        <mark key="[" line="136" column="19" />
+        <mark key="]" line="136" column="50" />
+        <mark key="." line="136" column="50" />
+        <mark key="^" line="136" column="50" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
@@ -60,11 +60,11 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536556739434">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="32" column="31" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536560776908">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="17" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="31" column="17" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/middleware.py" timestamp="1536128891593">
         <mark key="[" line="52" column="37" />
@@ -106,12 +106,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536556676813">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536560922897">
         <mark key="'" line="666" column="22" />
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="666" column="22" />
-        <mark key="^" line="666" column="22" />
-        <mark key="." line="666" column="22" />
+        <mark key="[" line="688" column="0" />
+        <mark key="]" line="688" column="0" />
+        <mark key="^" line="706" column="45" />
+        <mark key="." line="688" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -142,10 +142,10 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1536555850568">
+      <file name="/Python Console" timestamp="1536560880870">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1536195014856">
+      <file name="/fragment.py" timestamp="1536560353549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="40" />
@@ -228,11 +228,12 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" timestamp="1536539345647">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" timestamp="1536560868378">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="13" column="60" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+        <mark key="^" line="13" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" timestamp="1535613148358">
         <mark key="'" line="0" column="0" />
@@ -255,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="101" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="143" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="145" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
@@ -355,28 +355,29 @@
       <jump line="139" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="138" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="666" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ChatConsumer</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>ChatConsumer</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyB3ZWJzb2NrZXRfcm91dGluZyA9IFsKIyAgICAgcm91dGVfY2xhc3MoQ2hhdENvbnN1bWVyLCBwYXRoPXIiXi8kIiksCiMgXQo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoImNoYXQucm91dGluZy53ZWJzb2NrZXRfcm91dGluZyIsIHBhdGg9ciJeL2NoYXQiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJ3c19yZWNlaXZlIikKCiAgICAgICAgIyBzZXNzaW9uID0gY2hhbm5lbF9zZXNzaW9uKCkKICAgICAgICAjIHBheWxvYWQgPSBqc29uLmxvYWRzKG1lc3NhZ2VbJ3RleHQnXSkKICAgICAgICAjIHBheWxvYWRbJ3RleHQnXSA9IG1lc3NhZ2UuY29udGVudFsndGV4dCddCiAgICAgICAgIyBpZiBtZXNzYWdlLmNoYW5uZWxfc2Vzc2lvbi5nZXQoJ2VtYWlsJyk6CiAgICAgICAgIyAgICAgbWVzc2FnZS51c2VyID0gVXNlci5vYmplY3RzLmdldCgKICAgICAgICAjICAgICAgICAgZW1haWw9bWVzc2FnZS5jaGFubmVsX3Nlc3Npb25bJ2VtYWlsJ10KICAgICAgICAjICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fcGFuZGFzLmlvIGltcG9ydCByZWFkX2ZyYW1lCmZyb20gZGlhZ25vc2lzLm1vZGVscyBpbXBvcnQgR2VuZGVyQXR0cmlidXRlcywgU3ltcHRvbUF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ29fcGFuZGFzLmlvIGltcG9ydCByZWFkX2ZyYW1lCmZyb20gZGlhZ25vc2lzLm1vZGVscyBpbXBvcnQgR2VuZGVyQXR0cmlidXRlcywgU3ltcHRvbUF0dHJpYnV0ZXMK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
@@ -388,16 +389,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXFzX2dlbmRlcl9hdHRyaWJ1dGVzID0gR2VuZGVyQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpCglxc19zeW1wdG9tX2F0dHJpYnV0ZXMgPSBTeW1wdG9tQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpCgoJcV9nZW5kZXJfYXR0cmlidXRlcyA9IHN0cihHZW5kZXJBdHRyaWJ1dGVzLm9iamVjdHMuYWxsKCkucXVlcnkpCglxX3N5bXB0b21fYXR0cmlidXRlcyA9IHN0cihTeW1wdG9tQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpLnF1ZXJ5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXFzX2dlbmRlcl9hdHRyaWJ1dGVzID0gR2VuZGVyQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpCglxc19zeW1wdG9tX2F0dHJpYnV0ZXMgPSBTeW1wdG9tQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpCgoJcV9nZW5kZXJfYXR0cmlidXRlcyA9IHN0cihHZW5kZXJBdHRyaWJ1dGVzLm9iamVjdHMuYWxsKCkucXVlcnkpCglxX3N5bXB0b21fYXR0cmlidXRlcyA9IHN0cihTeW1wdG9tQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpLnF1ZXJ5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSMgZ2VuZGVyX3ByZXZhbGVuY2UgPSBwc3FsLnJlYWRfc3FsKHFfZ2VuZGVyX2F0dHJpYnV0ZXMsIGNvbm5lY3Rpb24pCgkjIHN5bXB0b21fYWdlX3ByZXZhbGVuY2UgPSBwc3FsLnJlYWRfc3FsKHFfc3ltcHRvbV9hdHRyaWJ1dGVzLCBjb25uZWN0aW9uKQoKCSMgZ2VuZGVyX3ByZXZhbGVuY2UgPSByZWFkX2ZyYW1lKHFzX2dlbmRlcl9hdHRyaWJ1dGVzKQoJIyBzeW1wdG9tX2FnZV9wcmV2YWxlbmNlID0gcmVhZF9mcmFtZShxc19zeW1wdG9tX2F0dHJpYnV0ZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSMgZ2VuZGVyX3ByZXZhbGVuY2UgPSBwc3FsLnJlYWRfc3FsKHFfZ2VuZGVyX2F0dHJpYnV0ZXMsIGNvbm5lY3Rpb24pCgkjIHN5bXB0b21fYWdlX3ByZXZhbGVuY2UgPSBwc3FsLnJlYWRfc3FsKHFfc3ltcHRvbV9hdHRyaWJ1dGVzLCBjb25uZWN0aW9uKQoKCSMgZ2VuZGVyX3ByZXZhbGVuY2UgPSByZWFkX2ZyYW1lKHFzX2dlbmRlcl9hdHRyaWJ1dGVzKQoJIyBzeW1wdG9tX2FnZV9wcmV2YWxlbmNlID0gcmVhZF9mcmFtZShxc19zeW1wdG9tX2F0dHJpYnV0ZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
