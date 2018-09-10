@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/search/views.py" timestamp="1536039781427">
-        <mark key="[" line="136" column="19" />
-        <mark key="]" line="136" column="50" />
-        <mark key="." line="136" column="50" />
-        <mark key="^" line="136" column="50" />
+        <mark key="[" line="135" column="19" />
+        <mark key="]" line="135" column="50" />
+        <mark key="." line="135" column="50" />
+        <mark key="^" line="135" column="50" />
       </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
