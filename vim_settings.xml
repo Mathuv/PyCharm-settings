@@ -60,11 +60,11 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536546222531">
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="27" column="10" />
-        <mark key="^" line="27" column="10" />
-        <mark key="." line="27" column="10" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536556739434">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/middleware.py" timestamp="1536128891593">
         <mark key="[" line="52" column="37" />
@@ -106,12 +106,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536545482661">
-        <mark key="'" line="138" column="4" />
-        <mark key="[" line="1" column="78" />
-        <mark key="]" line="138" column="10" />
-        <mark key="^" line="138" column="10" />
-        <mark key="." line="138" column="10" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536556676813">
+        <mark key="'" line="666" column="22" />
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="666" column="22" />
+        <mark key="^" line="666" column="22" />
+        <mark key="." line="666" column="22" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -142,7 +142,7 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1536553844395">
+      <file name="/Python Console" timestamp="1536555850568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536195014856">
@@ -255,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" />
       <jump line="192" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="101" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="143" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
@@ -355,19 +354,20 @@
       <jump line="154" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="139" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="138" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
+      <jump line="666" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>ChatConsumer</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ChatConsumer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWdlbmRlcl9wcmV2YWxlbmNlID0gcHNxbC5yZWFkX3NxbChzcWxfZ2VuZGVyX2F0dHJpYnV0ZXMsIGNvbm5lY3Rpb24pCglzeW1wdG9tX2FnZV9wcmV2YWxlbmNlID0gcHNxbC5yZWFkX3NxbChzcWxfc3ltcHRvbV9hdHRyaWJ1dGVzLCBjb25uZWN0aW9uKQo=</text>
+        <text encoding="base64">IyB3ZWJzb2NrZXRfcm91dGluZyA9IFsKIyAgICAgcm91dGVfY2xhc3MoQ2hhdENvbnN1bWVyLCBwYXRoPXIiXi8kIiksCiMgXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
