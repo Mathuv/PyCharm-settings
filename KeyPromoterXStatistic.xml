@@ -438,7 +438,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>799</Count>
+          <Count>801</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -574,7 +574,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'medius_chatserver'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'medius_chatserver_dev'">

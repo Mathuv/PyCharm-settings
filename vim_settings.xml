@@ -119,24 +119,20 @@
         <mark key="^" line="360" column="33" />
         <mark key="." line="360" column="33" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/asgi.py" timestamp="1536712409288" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/utils/adapter.py" timestamp="1534814864430">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="89" />
-        <mark key="^" line="8" column="89" />
-        <mark key="." line="8" column="89" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1535443459054">
+        <mark key="'" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/mapper.py" timestamp="1535935722550">
-        <mark key="a" line="10" column="30" />
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="64" column="23" />
-        <mark key="." line="34" column="26" />
-        <mark key="^" line="34" column="26" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/utils/adapter.py" timestamp="1536712973090">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="9" column="89" />
+        <mark key="." line="8" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1536568063095">
+      <file name="/Python Console" timestamp="1536713389309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536560353549">
@@ -144,11 +140,6 @@
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1534996660044">
-        <mark key="[" line="55" column="161" />
-        <mark key="]" line="55" column="161" />
-        <mark key="." line="55" column="161" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/models.py" timestamp="1534897508221">
         <mark key="[" line="178" column="64" />
@@ -165,11 +156,6 @@
         <mark key="]" line="40" column="6" />
         <mark key="^" line="40" column="6" />
         <mark key="." line="40" column="6" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/settings.py" timestamp="1535935661185">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
@@ -230,6 +216,9 @@
         <mark key="." line="843" column="0" />
         <mark key="^" line="843" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/settings.py" timestamp="1536712253583">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534825140949">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="33" />
@@ -244,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="143" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="145" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="153" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
@@ -344,16 +332,17 @@
       <jump line="138" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="666" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="12" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>message.reply_channel</text>
+        <text>os.environ.get(&quot;URL_FRONT&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>message.reply_channel</text>
+        <text>os.environ.get(&quot;URL_FRONT&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</text>
+        <text>URL_FRONT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGluY2x1ZGUoImNoYXQucm91dGluZy53ZWJzb2NrZXRfcm91dGluZyIsIHBhdGg9ciJeL2NoYXQiKSwK</text>
@@ -393,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</last-search>
+      <last-search>URL_FRONT</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</last-pattern>
+      <last-pattern>URL_FRONT</last-pattern>
       <last-replace>connection</last-replace>
       <last-substitute>conn</last-substitute>
       <last-dir>1</last-dir>
@@ -403,7 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ROUTER</entry>
         <entry>FINAL SYMPTOMS FOR QURO</entry>
         <entry>STATIC</entry>
         <entry>ALLOW</entry>
@@ -423,6 +411,7 @@
         <entry>ngrok</entry>
         <entry>mapper</entry>
         <entry encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</entry>
+        <entry>URL_FRONT</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwISA8Qy1GPiA8RXNjPmdVaXdgXWE=</entry>
