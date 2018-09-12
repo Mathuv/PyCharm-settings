@@ -121,19 +121,16 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1535443459054">
-        <mark key="'" line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/utils/adapter.py" timestamp="1536712973090">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1536738163218">
+      <file name="/Python Console" timestamp="1536739153840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1536560353549">
+      <file name="/fragment.py" timestamp="1536738963133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="40" />
@@ -148,8 +145,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1536128792492">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1536739147743">
         <mark key="'" line="27" column="51" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="16" />
+        <mark key="^" line="212" column="9" />
+        <mark key="." line="212" column="16" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
@@ -204,7 +205,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" timestamp="1536560868378" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/settings.py" timestamp="1536712253583">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/settings.py" timestamp="1536739124322">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534825140949">
