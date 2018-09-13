@@ -105,6 +105,7 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/sessions.py" timestamp="1536812708249" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536804448735">
         <mark key="[" line="672" column="26" />
         <mark key="]" line="672" column="7" />
@@ -126,6 +127,9 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/asgi.py" timestamp="1536712409288" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1535443459054">
+        <mark key="'" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/utils/adapter.py" timestamp="1536712973090">
         <mark key="[" line="1" column="36" />
@@ -180,7 +184,7 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/worker.py" timestamp="1536811462897" />
+      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/worker.py" timestamp="1536812329119" />
       <file name="/dummy.sql" timestamp="1534838893580">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,6 +231,9 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="21" column="33" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/channel.py" timestamp="1536812298384">
+        <mark key="'" line="53" column="63" />
+      </file>
       <file name="/utils_dynamictable [Postgres_Dev_Local]" timestamp="1533706354498">
         <mark key="[" line="0" column="0" />
       </file>
@@ -235,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="145" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="153" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="200" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
@@ -335,6 +341,7 @@
       <jump line="666" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="12" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/settings.py" />
+      <jump line="53" column="63" filename="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/channel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -344,7 +351,7 @@
         <text>session_engin</text>
       </register>
       <register name="/" type="4">
-        <text>URL_FRONT</text>
+        <text encoding="base64">XDxleHBpcmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiQkFDS0VORCI6ICJhc2dpX3JlZGlzLlJlZGlzQ2hhbm5lbExheWVyIiwK</text>
@@ -384,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>URL_FRONT</last-search>
+      <last-search encoding="base64">XDxleHBpcmVcPg==</last-search>
       <last-offset />
-      <last-pattern>URL_FRONT</last-pattern>
+      <last-pattern encoding="base64">XDxleHBpcmVcPg==</last-pattern>
       <last-replace>connection</last-replace>
       <last-substitute>conn</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FINAL SYMPTOMS FOR QURO</entry>
         <entry>STATIC</entry>
         <entry>ALLOW</entry>
         <entry>INTER</entry>
@@ -414,6 +420,7 @@
         <entry>mapper</entry>
         <entry encoding="base64">XDxtc2dfY29uc3VtZXJcPg==</entry>
         <entry>URL_FRONT</entry>
+        <entry encoding="base64">XDxleHBpcmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwISA8Qy1GPiA8RXNjPmdVaXdgXWE=</entry>
