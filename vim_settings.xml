@@ -13,12 +13,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/asgiref/base_layer.py" timestamp="1536741943497" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/channel_backend/__init__.py" timestamp="1536742446142">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
       <file name="/a.dummy" timestamp="1535615973993">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,12 +27,6 @@
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_initial.py" timestamp="1534987977889">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/asgi_redis/__init__.py" timestamp="1536742439591" />
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
@@ -46,6 +34,7 @@
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/django/contrib/sessions/backends/db.py" timestamp="1536818233938" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/urls.py" timestamp="1536534827520">
         <mark key="[" line="96" column="23" />
         <mark key="]" line="96" column="24" />
@@ -86,12 +75,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/asgi_redis/core.py" timestamp="1536742092663" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180809_2220.py" timestamp="1533863188660">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="22" column="49" />
-        <mark key="." line="22" column="49" />
-        <mark key="^" line="22" column="49" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1534996634534">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,6 +89,7 @@
         <mark key="]" line="34" column="61" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/sessions.py" timestamp="1536816692663" />
+      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/django/contrib/sessions/backends/db.py" timestamp="1536818398588" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536804448735">
         <mark key="[" line="672" column="26" />
         <mark key="]" line="672" column="7" />
@@ -119,12 +103,6 @@
         <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/django/contrib/sessions/middleware.py" timestamp="1536813944677" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" timestamp="1534996437038">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="360" column="33" />
-        <mark key="^" line="360" column="33" />
-        <mark key="." line="360" column="33" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/asgi.py" timestamp="1536712409288" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -138,20 +116,14 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1536813687579">
+      <file name="/Python Console" timestamp="1536818430928">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1536799500625">
+      <file name="/fragment.py" timestamp="1536818426614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/models.py" timestamp="1534897508221">
-        <mark key="[" line="178" column="64" />
-        <mark key="]" line="178" column="89" />
-        <mark key="^" line="178" column="89" />
-        <mark key="." line="178" column="89" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
@@ -172,12 +144,6 @@
       </file>
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1534917690002">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
@@ -206,6 +172,9 @@
       <file name="/django_session [Quro_DEV_RDS]" timestamp="1536816886759">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backends/channel_session/db.py" timestamp="1536818216523">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1536728242185">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="18" column="26" />
@@ -216,12 +185,6 @@
       <file name="/kb_entitytype [Postgres_Dev_Local]" timestamp="1533706126524">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/views.py" timestamp="1535601015662">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="45" />
-        <mark key="^" line="1" column="45" />
-        <mark key="." line="1" column="45" />
-      </file>
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -229,12 +192,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" timestamp="1536560868378" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534825140949">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="33" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="21" column="33" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/channel.py" timestamp="1536812298384">
         <mark key="'" line="53" column="63" />
       </file>
