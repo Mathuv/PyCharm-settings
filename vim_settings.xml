@@ -54,6 +54,7 @@
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/django/contrib/postgres/signals.py" timestamp="1536799290379" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" timestamp="1536099872708">
         <mark key="'" line="187" column="8" />
         <mark key="[" line="19" column="35" />
@@ -98,15 +99,15 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1536730848640">
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1536799432303">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536742651020">
-        <mark key="[" line="697" column="17" />
-        <mark key="]" line="701" column="50" />
-        <mark key="^" line="701" column="50" />
-        <mark key="." line="701" column="50" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536799909046">
+        <mark key="[" line="642" column="20" />
+        <mark key="]" line="643" column="25" />
+        <mark key="^" line="643" column="25" />
+        <mark key="." line="643" column="25" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -130,14 +131,14 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1536795364331">
+      <file name="/Python Console" timestamp="1536798617117">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1536796066633">
+      <file name="/fragment.py" timestamp="1536799500625">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/models.py" timestamp="1534897508221">
         <mark key="[" line="178" column="64" />
@@ -334,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>session_engin</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>session_engin</text>
       </register>
       <register name="/" type="4">
         <text>URL_FRONT</text>
