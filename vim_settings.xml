@@ -22,7 +22,7 @@
       <file name="/a.dummy" timestamp="1535615973993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/channels/auth.py" timestamp="1536804287645" />
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/channels/auth.py" timestamp="1536804818813" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backend/base.py" timestamp="1536568021173">
         <mark key="'" line="7" column="19" />
         <mark key="[" line="11" column="47" />
@@ -81,6 +81,7 @@
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
         <mark key="[" line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/channels/sessions.py" timestamp="1536804828829" />
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
       </file>
