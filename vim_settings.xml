@@ -105,7 +105,7 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/sessions.py" timestamp="1536812708249" />
+      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/sessions.py" timestamp="1536813898538" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536804448735">
         <mark key="[" line="672" column="26" />
         <mark key="]" line="672" column="7" />
@@ -118,6 +118,7 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/django/contrib/sessions/middleware.py" timestamp="1536813944677" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" timestamp="1534996437038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="360" column="33" />
@@ -137,7 +138,7 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1536811516642">
+      <file name="/Python Console" timestamp="1536813687579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536799500625">
