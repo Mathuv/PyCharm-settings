@@ -13,6 +13,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/asgiref/base_layer.py" timestamp="1536741943497" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/channel_backend/__init__.py" timestamp="1536742446142">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="/a.dummy" timestamp="1535615973993">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,6 +33,12 @@
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_initial.py" timestamp="1534987977889">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/asgi_redis/__init__.py" timestamp="1536742439591" />
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
@@ -34,7 +46,7 @@
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/django/contrib/sessions/backends/db.py" timestamp="1536818233938" />
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/django/contrib/sessions/backends/db.py" timestamp="1536826455028" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/urls.py" timestamp="1536534827520">
         <mark key="[" line="96" column="23" />
         <mark key="]" line="96" column="24" />
@@ -70,11 +82,18 @@
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
         <mark key="[" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/channels/sessions.py" timestamp="1536817226409" />
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/channels/sessions.py" timestamp="1536827336791" />
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/asgi_redis/core.py" timestamp="1536742092663" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backends/channel/core.py" timestamp="1536823932185" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180809_2220.py" timestamp="1533863188660">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+        <mark key="^" line="22" column="49" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1534996634534">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,11 +109,11 @@
       </file>
       <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/sessions.py" timestamp="1536820398816" />
       <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/django/contrib/sessions/backends/db.py" timestamp="1536820321700" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536804448735">
-        <mark key="[" line="672" column="26" />
-        <mark key="]" line="672" column="7" />
-        <mark key="^" line="672" column="7" />
-        <mark key="." line="672" column="7" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536824046036">
+        <mark key="[" line="702" column="58" />
+        <mark key="]" line="702" column="29" />
+        <mark key="^" line="702" column="29" />
+        <mark key="." line="702" column="29" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -103,37 +122,48 @@
         <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/django/contrib/sessions/middleware.py" timestamp="1536820776420" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" timestamp="1534996437038">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="360" column="33" />
+        <mark key="^" line="360" column="33" />
+        <mark key="." line="360" column="33" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/django/contrib/sessions/backends/base.py" timestamp="1536827047926" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/asgi.py" timestamp="1536712409288" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/433cd341-3b0a-42ce-8fee-85ae97c40122/console.sql" timestamp="1535443459054">
-        <mark key="'" line="62" column="0" />
-      </file>
+      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/django/contrib/sessions/backends/base.py" timestamp="1536821676207" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/utils/adapter.py" timestamp="1536712973090">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1536820404376">
+      <file name="/Python Console" timestamp="1536826645418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1536818426614">
+      <file name="/fragment.py" timestamp="1536827329096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/models.py" timestamp="1534897508221">
+        <mark key="[" line="178" column="64" />
+        <mark key="]" line="178" column="89" />
+        <mark key="^" line="178" column="89" />
+        <mark key="." line="178" column="89" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1536817215748">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1536822472988">
         <mark key="'" line="176" column="0" />
-        <mark key="[" line="185" column="1" />
-        <mark key="]" line="179" column="20" />
-        <mark key="^" line="180" column="18" />
-        <mark key="." line="179" column="20" />
+        <mark key="[" line="179" column="42" />
+        <mark key="]" line="176" column="17" />
+        <mark key="^" line="176" column="17" />
+        <mark key="." line="176" column="17" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
@@ -144,6 +174,12 @@
       </file>
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1536825394715">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
@@ -172,8 +208,11 @@
       <file name="/django_session [Quro_DEV_RDS]" timestamp="1536816886759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backends/channel_session/db.py" timestamp="1536818216523">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backends/channel_session/db.py" timestamp="1536826483042">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1536728242185">
         <mark key="'" line="4" column="0" />
@@ -185,6 +224,12 @@
       <file name="/kb_entitytype [Postgres_Dev_Local]" timestamp="1533706126524">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/views.py" timestamp="1535601015662">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+      </file>
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,8 +237,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" timestamp="1536560868378" />
-      <file name="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/channel.py" timestamp="1536812298384">
-        <mark key="'" line="53" column="63" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534825140949">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="33" />
       </file>
       <file name="/utils_dynamictable [Postgres_Dev_Local]" timestamp="1533706354498">
         <mark key="[" line="0" column="0" />
@@ -306,10 +354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>session_engin</text>
+        <text>ba</text>
       </register>
       <register name="-" type="4">
-        <text>session_engin</text>
+        <text>ba</text>
       </register>
       <register name="/" type="4">
         <text>CHANNEL</text>
@@ -318,22 +366,22 @@
         <text encoding="base64">ICAgICAgICAiQkFDS0VORCI6ICJhc2dpX3JlZGlzLlJlZGlzQ2hhbm5lbExheWVyIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhc2dpX3JlZGlzIGltcG9ydCBSZWRpc0NoYW5uZWxMYXllcgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJ3c19yZWNlaXZlIikKCiAgICAgICAgIyBzZXNzaW9uID0gY2hhbm5lbF9zZXNzaW9uKCkKICAgICAgICAjIHBheWxvYWQgPSBqc29uLmxvYWRzKG1lc3NhZ2VbJ3RleHQnXSkKICAgICAgICAjIHBheWxvYWRbJ3RleHQnXSA9IG1lc3NhZ2UuY29udGVudFsndGV4dCddCiAgICAgICAgIyBpZiBtZXNzYWdlLmNoYW5uZWxfc2Vzc2lvbi5nZXQoJ2VtYWlsJyk6CiAgICAgICAgIyAgICAgbWVzc2FnZS51c2VyID0gVXNlci5vYmplY3RzLmdldCgKICAgICAgICAjICAgICAgICAgZW1haWw9bWVzc2FnZS5jaGFubmVsX3Nlc3Npb25bJ2VtYWlsJ10KICAgICAgICAjICAgICApCg==</text>
+        <text encoding="base64">ZnJvbSBhc2dpX3JlZGlzIGltcG9ydCBSZWRpc0NoYW5uZWxMYXllcgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJ3c19yZWNlaXZlIikKCiAgICAgICAgIyBzZXNzaW9uID0gY2hhbm5lbF9zZXNzaW9uKCkKICAgICAgICAjIHBheWxvYWQgPSBqc29uLmxvYWRzKG1lc3NhZ2VbJ3RleHQnXSkKICAgICAgICAjIHBheWxvYWRbJ3RleHQnXSA9IG1lc3NhZ2UuY29udGVudFsndGV4dCddCiAgICAgICAgIyBpZiBtZXNzYWdlLmNoYW5uZWxfc2Vzc2lvbi5nZXQoJ2VtYWlsJyk6CiAgICAgICAgIyAgICAgbWVzc2FnZS51c2VyID0gVXNlci5vYmplY3RzLmdldCgKICAgICAgICAjICAgICAgICAgZW1haWw9bWVzc2FnZS5jaGFubmVsX3Nlc3Npb25bJ2VtYWlsJ10KICAgICAgICAjICAgICApCg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fcGFuZGFzLmlvIGltcG9ydCByZWFkX2ZyYW1lCmZyb20gZGlhZ25vc2lzLm1vZGVscyBpbXBvcnQgR2VuZGVyQXR0cmlidXRlcywgU3ltcHRvbUF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ29fcGFuZGFzLmlvIGltcG9ydCByZWFkX2ZyYW1lCmZyb20gZGlhZ25vc2lzLm1vZGVscyBpbXBvcnQgR2VuZGVyQXR0cmlidXRlcywgU3ltcHRvbUF0dHJpYnV0ZXMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -342,10 +390,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXFzX2dlbmRlcl9hdHRyaWJ1dGVzID0gR2VuZGVyQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpCglxc19zeW1wdG9tX2F0dHJpYnV0ZXMgPSBTeW1wdG9tQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpCgoJcV9nZW5kZXJfYXR0cmlidXRlcyA9IHN0cihHZW5kZXJBdHRyaWJ1dGVzLm9iamVjdHMuYWxsKCkucXVlcnkpCglxX3N5bXB0b21fYXR0cmlidXRlcyA9IHN0cihTeW1wdG9tQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpLnF1ZXJ5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXFzX2dlbmRlcl9hdHRyaWJ1dGVzID0gR2VuZGVyQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpCglxc19zeW1wdG9tX2F0dHJpYnV0ZXMgPSBTeW1wdG9tQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpCgoJcV9nZW5kZXJfYXR0cmlidXRlcyA9IHN0cihHZW5kZXJBdHRyaWJ1dGVzLm9iamVjdHMuYWxsKCkucXVlcnkpCglxX3N5bXB0b21fYXR0cmlidXRlcyA9IHN0cihTeW1wdG9tQXR0cmlidXRlcy5vYmplY3RzLmFsbCgpLnF1ZXJ5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
