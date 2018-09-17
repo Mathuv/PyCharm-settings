@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>36</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet'">
@@ -454,7 +454,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1089</Count>
+          <Count>1091</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -601,6 +601,14 @@
           <Count>40</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'medius_chatserver_36'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'medius_chatserver_36'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'medius_chatserver_dev'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -670,7 +678,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>314</Count>
+          <Count>317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
