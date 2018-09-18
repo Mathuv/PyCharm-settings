@@ -51,12 +51,12 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/routing.py" timestamp="1537170548573">
-        <mark key="'" line="21" column="16" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="14" />
-        <mark key="^" line="17" column="39" />
-        <mark key="." line="17" column="14" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/routing.py" timestamp="1537313035580">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="45" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/middleware.py" timestamp="1536729332860">
         <mark key="[" line="52" column="37" />
@@ -92,11 +92,11 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537236764335">
-        <mark key="[" line="759" column="11" />
-        <mark key="]" line="759" column="32" />
-        <mark key="^" line="759" column="32" />
-        <mark key="." line="759" column="32" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537314125078">
+        <mark key="[" line="766" column="0" />
+        <mark key="]" line="764" column="25" />
+        <mark key="^" line="764" column="25" />
+        <mark key="." line="764" column="25" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -130,7 +130,7 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1537235310868">
+      <file name="/Python Console" timestamp="1537313786415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536827329096">
@@ -151,7 +151,7 @@
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1537165581115">
+      <file name="/Django Console" timestamp="1537313504072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -166,10 +166,10 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1537243423717">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1537313594907">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="13" column="11" />
       </file>
       <file name="/dummy.sql" timestamp="1536816887303">
@@ -340,10 +340,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>EMAIL</text>
