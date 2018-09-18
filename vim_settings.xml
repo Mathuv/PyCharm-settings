@@ -106,12 +106,11 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537229928814">
-        <mark key="'" line="706" column="32" />
-        <mark key="[" line="677" column="56" />
-        <mark key="]" line="677" column="60" />
-        <mark key="^" line="677" column="60" />
-        <mark key="." line="677" column="60" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537236764335">
+        <mark key="[" line="759" column="11" />
+        <mark key="]" line="759" column="32" />
+        <mark key="^" line="759" column="32" />
+        <mark key="." line="759" column="32" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536824046036">
         <mark key="[" line="702" column="58" />
@@ -137,6 +136,10 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver_36-Q_Y5oxx9/lib/python3.6/site-packages/channels/generic/websocket.py" timestamp="1537236558008">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="108" column="10" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
@@ -146,7 +149,7 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1537171805429">
+      <file name="/Python Console" timestamp="1537235310868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536827329096">
@@ -196,6 +199,7 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1537234502965" />
       <file name="/dummy.sql" timestamp="1536816887303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -268,23 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="332" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="338" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="348" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="355" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="370" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="373" column="54" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1338" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1349" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1360" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1371" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1384" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1395" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1405" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1453" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="1320" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="21" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="152" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="159" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="173" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
@@ -365,35 +352,48 @@
       <jump line="1" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="663" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="14" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="657" column="45" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="781" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="706" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="657" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="720" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="656" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="658" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="669" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="673" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="682" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="687" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="689" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="698" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="704" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="707" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="714" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="716" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="717" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="719" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="734" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="738" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kKAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJjbG9zZSI6IFRydWUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgKQ==</text>
+        <text>scope.channel_session.get</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>scope.channel_session.get</text>
       </register>
       <register name="/" type="4">
         <text>message.content</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiQkFDS0VORCI6ICJhc2dpX3JlZGlzLlJlZGlzQ2hhbm5lbExheWVyIiwK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYWxsZWQgd2hlbiBhIFdlYlNvY2tldCBjb25uZWN0aW9uIGlzIGNsb3NlZC4KICAgICAgICAiIiIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kKAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJjbG9zZSI6IFRydWUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBQZXJmb3JtIHRoaW5ncyBvbiBjb25uZWN0aW9uIGNsb3NlCiAgICAgICAgIiIiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2VuZCgKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXh0IjogIkF1dGhlbnRpY2F0aW9uIGVycm9yIiwKICAgICAgICAgICAgICAgICAgICAgICAgImNsb3NlIjogVHJ1ZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBQZXJmb3JtIHRoaW5ncyBvbiBjb25uZWN0aW9uIGNsb3NlCiAgICAgICAgIiIiCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>self.send(
-                    {
-                        &quot;accept&quot;: True
-                    }
-                )</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgT3B0aW9uYWxseSBwcm92aWRlIHlvdXIgb3duIGN1c3RvbSBqc29uIGVuY29kZXIgYW5kIGRlY29kZXIKICAgICMgQGNsYXNzbWV0aG9kCiAgICAjIGRlZiBkZWNvZGVfanNvbihjbHMsIHRleHQpOgogICAgIyAgICAgcmV0dXJuIG15X2N1c3RvbV9qc29uX2RlY29kZXIodGV4dCkKICAgICMKICAgICMgQGNsYXNzbWV0aG9kCiAgICAjIGRlZiBlbmNvZGVfanNvbihjbHMsIGNvbnRlbnQpOgogICAgIyAgICAgcmV0dXJuIG15X2N1c3RvbV9qc29uX2VuY29kZXIoY29udGVudCkK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
@@ -402,19 +402,19 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFBhcnNlIHRoZSBxdWVyeSBzdHJpbmcKICAgICAgICBwYXJhbXMgPSBwYXJzZV9xcyhzZWxmLnNjb3BlWyJxdWVyeV9zdHJpbmciXSkKCiAgICAgICAgaWYgYiJ0b2tlbiIgaW4gcGFyYW1zOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAjIFNldCB0aGUgdXNlcm5hbWUgaW4gdGhlIHNlc3Npb24KICAgICAgICAgICAgICAgIHRva2VuID0gcGFyYW1zW2IidG9rZW4iXVswXS5kZWNvZGUoInV0ZjgiKQogICAgICAgICAgICAgICAgZGF0YSA9IHsndG9rZW4nOiB0b2tlbn0KICAgICAgICAgICAgICAgIHNlcmlhbGl6ZXIgPSBWZXJpZnlKU09OV2ViVG9rZW5TZXJpYWxpemVyKGRhdGE9ZGF0YSkKICAgICAgICAgICAgICAgIHNlcmlhbGl6ZXIuaXNfdmFsaWQoKQogICAgICAgICAgICAgICAgdmFsaWRfZGF0YSA9IHNlcmlhbGl6ZXIudmFsaWRhdGVkX2RhdGEKICAgICAgICAgICAgICAgICMgdmFsaWRfZGF0YSA9IFZlcmlmeUpTT05XZWJUb2tlblNlcmlhbGl6ZXIoKS52YWxpZGF0ZWRfZGF0YShkYXRhKQogICAgICAgICAgICAgICAgc2VsZi5zZW5kKAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImFjY2VwdCI6IFRydWUKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICApCgogICAgICAgICAgICAgICAgIyAjIHNldCB0aGUgdGVuYW50IHNjaGVtYSB0bwogICAgICAgICAgICAgICAgIyB0aHJlYWRsb2NhbCA9IGNvbm5lY3Rpb24uZ2V0X3RocmVhZGxvY2FsKCkKICAgICAgICAgICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikKCiAgICAgICAgICAgICAgICBzY29wZS51c2VyID0gdmFsaWRfZGF0YVsndXNlciddCiAgICAgICAgICAgICAgICBzY29wZS5jaGFubmVsX3Nlc3Npb25bJ2VtYWlsJ10gPSBtZXNzYWdlLnVzZXIuZW1haWwKICAgICAgICAgICAgICAgIHNjb3BlLmNoYW5uZWxfc2Vzc2lvblsndG9rZW4nXSA9IHRva2VuCiAgICAgICAgICAgICAgICBzY29wZS5jaGFubmVsX3Nlc3Npb25bJ3VzZXJfaWQnXSA9IG1lc3NhZ2UudXNlci5pZAogICAgICAgICAgICAgICAgIyBwcmludCgid3NfY29ubmVjdCIpCiAgICAgICAgICAgIGV4Y2VwdCAoS2V5RXJyb3IsIEludmFsaWRUb2tlbkVycm9yLCBWYWxpZGF0aW9uRXJyb3IsKToKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCd3ZWJzb2NrZXRfY29ubmVjdF9jaGFubmVsX2Nsb3NlZCcpCiAgICAgICAgICAgICAgICBzZWxmLnNlbmQoCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAidGV4dCI6ICJBdXRoZW50aWNhdGlvbiBlcnJvciIsCiAgICAgICAgICAgICAgICAgICAgICAgICJjbG9zZSI6IFRydWUKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBDbG9zZSB0aGUgY29ubmVjdGlvbi4KICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3dlYnNvY2tldF9jb25uZWN0X2NoYW5uZWxfY2xvc2VkJykKICAgICAgICAgICAgc2VsZi5zZW5kKAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJjbG9zZSI6IFRydWUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBjb25uZWN0KHNlbGYsIG1lc3NhZ2UsICoqa3dhcmdzKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lc3NhZ2UucmVwbHlfY2hhbm5lbC5zZW5kKHsiYWNjZXB0IjogVHJ1ZX0pCg==</text>
+        <text encoding="base64">ICAgICMgU2V0IHRvIFRydWUgdG8gYXV0b21hdGljYWxseSBwb3J0IHVzZXJzIGZyb20gSFRUUCBjb29raWVzCiAgICAjICh5b3UgZG9uJ3QgbmVlZCBjaGFubmVsX3Nlc3Npb25fdXNlciwgdGhpcyBpbXBsaWVzIGl0KQogICAgIyBodHRwX3VzZXIgPSBUcnVlCiAgICAjIGNoYW5uZWxfc2Vzc2lvbiA9IFRydWUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Q09SU19PUklHSU5fV0hJVEVMSVNUPSgK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kKAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJjbG9zZSI6IFRydWUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgKQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">QUxMT1dFRF9IT1NUUz1bCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2VuZCgKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXh0IjogIkF1dGhlbnRpY2F0aW9uIGVycm9yIiwKICAgICAgICAgICAgICAgICAgICAgICAgImNsb3NlIjogVHJ1ZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICk=</text>
       </register>
       <register name=":" type="4">
         <text>%s/message.content/scope/gc</text>
