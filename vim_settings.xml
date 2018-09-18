@@ -98,12 +98,6 @@
         <mark key="^" line="759" column="32" />
         <mark key="." line="759" column="32" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1536824046036">
-        <mark key="[" line="702" column="58" />
-        <mark key="]" line="702" column="29" />
-        <mark key="^" line="702" column="29" />
-        <mark key="." line="702" column="29" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="31" />
@@ -153,13 +147,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1537243259263">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="179" column="42" />
-        <mark key="]" line="176" column="17" />
-        <mark key="^" line="176" column="17" />
-        <mark key="." line="176" column="17" />
       </file>
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
