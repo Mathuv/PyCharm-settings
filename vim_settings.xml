@@ -51,12 +51,12 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/routing.py" timestamp="1537313035580">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/routing.py" timestamp="1537325024072">
         <mark key="'" line="22" column="16" />
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="18" column="45" />
-        <mark key="^" line="18" column="45" />
-        <mark key="." line="18" column="45" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/middleware.py" timestamp="1536729332860">
         <mark key="[" line="52" column="37" />
@@ -92,12 +92,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537314901533">
-        <mark key="'" line="643" column="0" />
-        <mark key="[" line="136" column="17" />
-        <mark key="]" line="136" column="17" />
-        <mark key="^" line="155" column="19" />
-        <mark key="." line="136" column="17" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537324304732">
+        <mark key="'" line="484" column="26" />
+        <mark key="[" line="484" column="26" />
+        <mark key="]" line="484" column="50" />
+        <mark key="." line="484" column="50" />
+        <mark key="^" line="484" column="50" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -131,10 +131,10 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1537313786415">
+      <file name="/Python Console" timestamp="1537323169548">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1536827329096">
+      <file name="/fragment.py" timestamp="1537323974511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -238,89 +238,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="37" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="38" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="27" column="51" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="37" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="134" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="139" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="138" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="666" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/routing.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/develop/mediuschatserver/settings.py" />
-      <jump line="53" column="63" filename="$USER_HOME$/.virtualenvs/develop-Q24x50Z5/lib/python3.4/site-packages/channels/channel.py" />
-      <jump line="179" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="176" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
-      <jump line="652" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="2" column="78" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="21" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/routing.py" />
-      <jump line="62" column="10" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="155" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="177" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="188" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="196" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="205" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="215" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="227" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="1" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="663" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="14" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="781" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="706" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="657" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="720" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="656" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="658" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="669" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="673" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="682" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="687" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="689" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="698" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="704" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="707" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="714" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="716" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
@@ -338,58 +257,139 @@
       <jump line="328" column="14" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="637" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="645" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="706" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="704" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="234" column="31" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="238" column="79" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="239" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="240" column="79" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="250" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="251" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="254" column="28" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="257" column="41" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="268" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="270" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="271" column="71" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="272" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="273" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="274" column="40" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="275" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="280" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="285" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="286" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="298" column="48" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="315" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="341" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="350" column="62" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="358" column="62" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="366" column="62" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="397" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="400" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="402" column="45" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="403" column="62" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="409" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="410" column="59" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="413" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="424" column="14" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="427" column="14" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="428" column="49" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="429" column="14" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="430" column="51" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="434" column="14" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="441" column="10" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="450" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="452" column="59" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="456" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="457" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="458" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="459" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="460" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="463" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="464" column="10" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="465" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="468" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="469" column="33" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="471" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="477" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="478" column="62" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="481" column="35" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="484" column="26" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>concumer</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>concumer</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>EMAIL</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">RU1BSUxfSE9TVD1lbWFpbC1zbXRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tCkVNQUlMX0hPU1RfVVNFUj1BS0lBSVFBTEhHS001TFJDRlI0UQpFTUFJTF9QT1JUPTU4NwpFTUFJTF9IT1NUX1BBU1NXT1JEPUFvckZJbVg0b3JxdGhobkNFWDhta0ZiZGVWZEI3TWkxVjRqMnhmdDZ5cEdoCkVNQUlMX1VTRV9UTFM9VHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBAY2hhbm5lbF9zZXNzaW9uX3VzZXJfZnJvbV9odHRwCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJtc2dfY29uc3VtZXIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGNoYW5uZWxfc2Vzc2lvbl91c2VyCg==</text>
+        <text encoding="base64">Y2xhc3MgQ2hhdENvbnN1bWVySnNvbihKc29uV2Vic29ja2V0Q29uc3VtZXIpOgoKICAgIGRlZiBjb25uZWN0KHNlbGYpOgogICAgICAgICIiIgogICAgICAgIFBlcmZvcm0gdGhpbmdzIG9uIGNvbm5lY3Rpb24gc3RhcnQKICAgICAgICAiIiIKICAgICAgICAjIHBhc3MKICAgICAgICAjIHNlbGYuc2VuZCh7ImFjY2VwdCI6IFRydWV9KQoKICAgICAgICAjIGxvZ2dlci5pbmZvKCd3ZWJzb2NrZXRfY29ubmVjdC4gbWVzc2FnZSA9IHt9Jy5mb3JtYXQobWVzc2FnZSkpCgogICAgICAgICMgUGFyc2UgdGhlIHF1ZXJ5IHN0cmluZwogICAgICAgIHBhcmFtcyA9IHBhcnNlX3FzKHNlbGYuc2NvcGVbInF1ZXJ5X3N0cmluZyJdKQoKICAgICAgICBpZiBiInRva2VuIiBpbiBwYXJhbXM6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICMgU2V0IHRoZSB1c2VybmFtZSBpbiB0aGUgc2Vzc2lvbgogICAgICAgICAgICAgICAgdG9rZW4gPSBwYXJhbXNbYiJ0b2tlbiJdWzBdLmRlY29kZSgidXRmOCIpCiAgICAgICAgICAgICAgICBkYXRhID0geyd0b2tlbic6IHRva2VufQogICAgICAgICAgICAgICAgc2VyaWFsaXplciA9IFZlcmlmeUpTT05XZWJUb2tlblNlcmlhbGl6ZXIoZGF0YT1kYXRhKQogICAgICAgICAgICAgICAgc2VyaWFsaXplci5pc192YWxpZCgpCiAgICAgICAgICAgICAgICB2YWxpZF9kYXRhID0gc2VyaWFsaXplci52YWxpZGF0ZWRfZGF0YQogICAgICAgICAgICAgICAgIyB2YWxpZF9kYXRhID0gVmVyaWZ5SlNPTldlYlRva2VuU2VyaWFsaXplcigpLnZhbGlkYXRlZF9kYXRhKGRhdGEpCiAgICAgICAgICAgICAgICBzZWxmLmFjY2VwdCgpCgogICAgICAgICAgICAgICAgIyAjIHNldCB0aGUgdGVuYW50IHNjaGVtYSB0bwogICAgICAgICAgICAgICAgIyB0aHJlYWRsb2NhbCA9IGNvbm5lY3Rpb24uZ2V0X3RocmVhZGxvY2FsKCkKICAgICAgICAgICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikKCiAgICAgICAgICAgICAgICBzZWxmLnNjb3BlWyd1c2VyJ10gPSB2YWxpZF9kYXRhWyd1c2VyJ10KICAgICAgICAgICAgICAgICMgc2VsZi5zY29wZS5jaGFubmVsX3Nlc3Npb25bJ2VtYWlsJ10gPSBzZWxmLnNjb3BlLnVzZXIuZW1haWwKICAgICAgICAgICAgICAgICMgc2VsZi5zY29wZS5jaGFubmVsX3Nlc3Npb25bJ3Rva2VuJ10gPSB0b2tlbgogICAgICAgICAgICAgICAgIyBzZWxmLnNjb3BlLmNoYW5uZWxfc2Vzc2lvblsndXNlcl9pZCddID0gc2VsZi5zY29wZS51c2VyLmlkCiAgICAgICAgICAgICAgICAjIHByaW50KCJ3c19jb25uZWN0IikKICAgICAgICAgICAgZXhjZXB0IChLZXlFcnJvciwgSW52YWxpZFRva2VuRXJyb3IsIFZhbGlkYXRpb25FcnJvciwpOgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3dlYnNvY2tldF9jb25uZWN0X2NoYW5uZWxfY2xvc2VkJykKICAgICAgICAgICAgICAgIHNlbGYuY2xvc2UoKQoKICAgICAgICBlbHNlOgogICAgICAgICAgICAjIENsb3NlIHRoZSBjb25uZWN0aW9uLgogICAgICAgICAgICBsb2dnZXIuaW5mbygnd2Vic29ja2V0X2Nvbm5lY3RfY2hhbm5lbF9jbG9zZWQnKQogICAgICAgICAgICBzZWxmLmNsb3NlKCkKCiAgICBkZWYgcmVjZWl2ZV9qc29uKHNlbGYsIGNvbnRlbnQsICoqa3dhcmdzKToKICAgICAgICAiIiIKICAgICAgICBDYWxsZWQgd2hlbiBhIG1lc3NhZ2UgaXMgcmVjZWl2ZWQgd2l0aCBkZWNvZGVkIEpTT04gY29udGVudAogICAgICAgICIiIgogICAgICAgICMgU2ltcGxlIGVjaG8KICAgICAgICAjIHNlbGYuc2VuZChjb250ZW50KQoKICAgICAgICBwYXlsb2FkID0ge30KICAgICAgICBsb2dnZXIuaW5mbygnd2Vic29ja2V0X3JlY2VpdmUuIG1lc3NhZ2UgPSB7fScuZm9ybWF0KGNvbnRlbnQpKQoKICAgICAgICAjIGlmIHNlbGYuc2NvcGUuZ2V0KCJ1c2VyIikuIicoJ3VzZXJfaWQnKToKICAgICAgICAjICAgICBzY29wZS51c2VyID0gVXNlci5vYmplY3RzLmdldCgKICAgICAgICAjICAgICAgICAgaWQ9c2NvcGUuY2hhbm5lbF9zZXNzaW9uWyd1c2VyX2lkJ10KICAgICAgICAjICAgICApCgogICAgICAgICMgcGF5bG9hZFsndGV4dCddID0gc2VsZi5zY29wZVsndGV4dCddCiAgICAgICAgIyBwYXlsb2FkWydyZXBseV9jaGFubmVsJ10gPSBzZWxmLnNjb3BlWydyZXBseV9jaGFubmVsJ10KCiAgICAgICAgaGFuZGxlX2NvbnZlcnNhdGlvbl9zdGF0ZXMoc2VsZiwgY29udGVudCkKCiAgICAgICAgc2VsZi5zZW5kX2pzb24oY29udGVudCkKICAgICAgICAjIENoYW5uZWwoImNoYXQtbWVzc2FnZXMiKS5zZW5kKHBheWxvYWQpCgogICAgZGVmIGRpc2Nvbm5lY3Qoc2VsZiwgbWVzc2FnZSwgKiprd2FyZ3MpOgogICAgICAgICIiIgogICAgICAgIENhbGxlZCB3aGVuIGEgV2ViU29ja2V0IGNvbm5lY3Rpb24gaXMgY2xvc2VkLgogICAgICAgICIiIgogICAgICAgIHBhc3MKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU1BSUxfVVNFX1RMUz1UcnVlCg==</text>
+        <text encoding="base64">ZGVmIGhhbmRsZV9jb252ZXJzYXRpb25fc3RhdGVzKGNvbnN1bWVyOkNoYXRDb25zdW1lciwgbWVzc2FnZTpkaWN0KToK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU1BSUxfSE9TVF9QQVNTV09SRD1Bb3JGSW1YNG9ycXRoaG5DRVg4bWtGYmRlVmRCN01pMVY0ajJ4ZnQ2eXBHaAo=</text>
+        <text encoding="base64">IyBAY2hhbm5lbF9zZXNzaW9uX3VzZXJfZnJvbV9odHRwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RU1BSUxfUE9SVD01ODcK</text>
+        <text encoding="base64">QGNoYW5uZWxfc2Vzc2lvbl91c2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU1BSUxfSE9TVF9VU0VSPUFLSUFJUUFMSEdLTTVMUkNGUjRRCg==</text>
+        <text encoding="base64">RU1BSUxfVVNFX1RMUz1UcnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU1BSUxfSE9TVD1lbWFpbC1zbXRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tCg==</text>
+        <text encoding="base64">RU1BSUxfSE9TVF9QQVNTV09SRD1Bb3JGSW1YNG9ycXRoaG5DRVg4bWtGYmRlVmRCN01pMVY0ajJ4ZnQ2eXBHaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBQZXJmb3JtIHRoaW5ncyBvbiBjb25uZWN0aW9uIGNsb3NlCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">RU1BSUxfUE9SVD01ODcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBQZXJmb3JtIHRoaW5ncyBvbiBjb25uZWN0aW9uIGNsb3NlCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">RU1BSUxfSE9TVF9VU0VSPUFLSUFJUUFMSEdLTTVMUkNGUjRRCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>EMAIL</last-search>
+      <last-search>message</last-search>
       <last-offset />
-      <last-pattern>EMAIL</last-pattern>
+      <last-pattern>message</last-pattern>
       <last-replace>scope</last-replace>
       <last-substitute>message.content</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>installed\c</entry>
         <entry>search</entry>
         <entry>search\c</entry>
         <entry>backend</entry>
@@ -417,9 +416,9 @@
         <entry>CHANNEL</entry>
         <entry>message.content</entry>
         <entry>EMAIL</entry>
+        <entry>message</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bWFwIDxzcGFjZT4gdml3</entry>
         <entry encoding="base64">dW5tYXAgPHNwYWNlPiB2aXc=</entry>
         <entry encoding="base64">JzwsJz5zLzEwLzExL2dj</entry>
         <entry>%s//ATTRIBUTE_KEY_SYSTEM_ANATOMY_LEVEL_1/gc</entry>
@@ -438,6 +437,7 @@
         <entry>s/conn/connection/c</entry>
         <entry>wq</entry>
         <entry>%s/message.content/scope/gc</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
