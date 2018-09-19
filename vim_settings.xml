@@ -21,6 +21,13 @@
       <file name="/a.dummy" timestamp="1535615973993">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backend/base.py" timestamp="1536568021173">
+        <mark key="'" line="7" column="19" />
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="38" column="104" />
+        <mark key="." line="38" column="104" />
+        <mark key="^" line="38" column="104" />
+      </file>
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,6 +51,13 @@
       </file>
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" timestamp="1536099872708">
+        <mark key="'" line="187" column="8" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536560776908">
         <mark key="[" line="31" column="17" />
@@ -131,7 +145,7 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1537343747271">
+      <file name="/Python Console" timestamp="1537352011120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1537328243503">
@@ -149,6 +163,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
+        <mark key="'" line="595" column="76" />
+        <mark key="[" line="149" column="69" />
+        <mark key="]" line="149" column="93" />
+        <mark key="^" line="149" column="93" />
+        <mark key="." line="149" column="93" />
+      </file>
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,8 +182,9 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1537313594907">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1537344498066">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="20" column="19" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="13" column="11" />
@@ -185,6 +207,12 @@
       <file name="/Dummy.txt" timestamp="1536816845004">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/develop/mediuschatserver/settings.py" timestamp="1537351913871">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="/code.py" timestamp="1536888562037">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,6 +224,13 @@
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1536728242185">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="/kb_entitytype [Postgres_Dev_Local]" timestamp="1533706126524">
         <mark key="[" line="0" column="0" />
@@ -212,11 +247,11 @@
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/mediuschatserver/settings.py" timestamp="1537171803565">
-        <mark key="[" line="161" column="20" />
-        <mark key="]" line="161" column="56" />
-        <mark key="." line="161" column="56" />
-        <mark key="^" line="161" column="56" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/mediuschatserver/settings.py" timestamp="1537351871447">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="20" />
+        <mark key="^" line="37" column="6" />
+        <mark key="." line="37" column="6" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/middlewares.py" timestamp="1534825140949">
         <mark key="[" line="21" column="12" />
@@ -232,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="716" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="717" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="719" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="734" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="738" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
@@ -332,19 +365,21 @@
       <jump line="296" column="42" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="411" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="455" column="34" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/develop/mediuschatserver/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgPSBjb250ZW50Cg==</text>
+        <text encoding="base64">ICAgICdxdXJvLmF1Lm5ncm9rLmlvJywKICAgICd0MS5hdS5uZ3Jvay5pbycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVzc2FnZS5jb250ZW50Wyd0ZXh0J10g</text>
+        <text>quro</text>
       </register>
       <register name="/" type="4">
-        <text>content</text>
+        <text>ALLO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU1BSUxfSE9TVD1lbWFpbC1zbXRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tCkVNQUlMX0hPU1RfVVNFUj1BS0lBSVFBTEhHS001TFJDRlI0UQpFTUFJTF9QT1JUPTU4NwpFTUFJTF9IT1NUX1BBU1NXT1JEPUFvckZJbVg0b3JxdGhobkNFWDhta0ZiZGVWZEI3TWkxVjRqMnhmdDZ5cEdoCkVNQUlMX1VTRV9UTFM9VHJ1ZQo=</text>
+        <text encoding="base64">ICAgICdxdXJvLmF1Lm5ncm9rLmlvJywKICAgICd0MS5hdS5uZ3Jvay5pbycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnRlbnQgPSBjb250ZW50Cg==</text>
@@ -383,9 +418,9 @@
       </register>
     </registers>
     <search>
-      <last-search>content</last-search>
+      <last-search>ALLO</last-search>
       <last-offset />
-      <last-pattern>content</last-pattern>
+      <last-pattern>ALLO</last-pattern>
       <last-replace>scope</last-replace>
       <last-substitute>message.content</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>search\c</entry>
         <entry>backend</entry>
         <entry>INSTALLED</entry>
         <entry encoding="base64">XDxzeW1wdG9tc1w+</entry>
@@ -413,6 +447,7 @@
         <entry>EMAIL</entry>
         <entry>message</entry>
         <entry>content</entry>
+        <entry>ALLO</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dW5tYXAgPHNwYWNlPiB2aXc=</entry>
