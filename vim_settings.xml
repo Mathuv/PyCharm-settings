@@ -112,12 +112,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537359879672">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="129" column="7" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537484575123">
+        <mark key="'" line="310" column="41" />
+        <mark key="[" line="310" column="42" />
+        <mark key="]" line="310" column="41" />
+        <mark key="." line="310" column="41" />
+        <mark key="^" line="310" column="41" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -283,8 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="286" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="298" column="48" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="315" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="341" column="66" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
@@ -383,16 +381,18 @@
       <jump line="481" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="589" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="609" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
+      <jump line="170" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
+      <jump line="310" column="41" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:ChatConsumerJson</text>
+        <text>content</text>
       </register>
       <register name="-" type="4">
-        <text>:ChatConsumerJson</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
-        <text>send_reply</text>
+        <text encoding="base64">XDxoYW5kbGVfcHJvZmlsZV9zdGF0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyID0gc2VsZi5zY29wZVsndXNlciddCg==</text>
@@ -434,9 +434,9 @@
       </register>
     </registers>
     <search>
-      <last-search>send_reply</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVfcHJvZmlsZV9zdGF0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>send_reply</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVfcHJvZmlsZV9zdGF0ZXNcPg==</last-pattern>
       <last-replace>websocket_consumer</last-replace>
       <last-substitute>websocket_message</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +456,6 @@
         <entry>content</entry>
         <entry>ALLO</entry>
         <entry>'user'</entry>
-        <entry encoding="base64">XDxoYW5kbGVfcHJvZmlsZV9zdGF0ZXNcPg==</entry>
         <entry>reply</entry>
         <entry>reply_</entry>
         <entry encoding="base64">XDx3ZWJzb2NrZXRfbWVzc2FnZVw+</entry>
@@ -464,6 +463,7 @@
         <entry>websocket_consumer</entry>
         <entry>receive</entry>
         <entry>send_reply</entry>
+        <entry encoding="base64">XDxoYW5kbGVfcHJvZmlsZV9zdGF0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEwLzExL2dj</entry>
