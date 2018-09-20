@@ -151,7 +151,7 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1537359893669">
+      <file name="/Python Console" timestamp="1537480321327">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1537328243503">
@@ -182,6 +182,9 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
       </file>
+      <file name="/Django Console" timestamp="1537478811414">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/django_session [Postgres_Dev_Local]" timestamp="1536816811240">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,12 +213,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" timestamp="1537359846381">
-        <mark key="'" line="609" column="13" />
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="88" column="21" />
-        <mark key="." line="88" column="21" />
-        <mark key="^" line="88" column="21" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" timestamp="1537480314002">
+        <mark key="'" line="610" column="13" />
+        <mark key="[" line="89" column="22" />
+        <mark key="]" line="89" column="21" />
+        <mark key="." line="89" column="21" />
+        <mark key="^" line="89" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1536816845004">
         <mark key="[" line="0" column="0" />
@@ -382,8 +385,8 @@
       <jump line="609" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAudXRpbHMgaW1wb3J0IHNlbmRfYm90X3JlcGx5X21lc3NhZ2UK</text>
+      <register name="&quot;" type="4">
+        <text>:ChatConsumerJson</text>
       </register>
       <register name="-" type="4">
         <text>:ChatConsumerJson</text>
