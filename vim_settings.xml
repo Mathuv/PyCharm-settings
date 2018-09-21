@@ -227,12 +227,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" timestamp="1537507768889">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" timestamp="1537511085096">
         <mark key="'" line="590" column="13" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="69" column="21" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="69" column="22" />
+        <mark key="]" line="69" column="23" />
+        <mark key="^" line="69" column="23" />
+        <mark key="." line="69" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1536816845004">
         <mark key="[" line="0" column="0" />
