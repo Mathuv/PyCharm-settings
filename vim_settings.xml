@@ -309,11 +309,11 @@
       <file name="/auth_user [Postgres_Dev_Local]" timestamp="1534838893405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537914009043">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537915326208">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -438,13 +438,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIDIwMTgwMjIzIE1hdGh1OiBDaGFuZ2VzIHRvIHVzZXIgaWQgYmFzZWQgY2hhbm5lbCBpZGVudGlmaWNhdGlvbiB0byB3b3JrIHdpdGggbGF6eSB1c2VyIGNvbnZlcnNpb24KICAgICAgICAjIGlmIG1lc3NhZ2UuY2hhbm5lbF9zZXNzaW9uLmdldCgnZW1haWwnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBlbWFpbD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsnZW1haWwnXQogICAgICAgICMgICAgICkKCiAgICAgICAgIyBpZiBtZXNzYWdlLmNoYW5uZWxfc2Vzc2lvbi5nZXQoJ3VzZXJfaWQnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBpZD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsndXNlcl9pZCddCiAgICAgICAgIyAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIDIwMTgwMjIzIE1hdGh1OiBDaGFuZ2VzIHRvIHVzZXIgaWQgYmFzZWQgY2hhbm5lbCBpZGVudGlmaWNhdGlvbiB0byB3b3JrIHdpdGggbGF6eSB1c2VyIGNvbnZlcnNpb24KICAgICAgICAjIGlmIG1lc3NhZ2UuY2hhbm5lbF9zZXNzaW9uLmdldCgnZW1haWwnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBlbWFpbD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsnZW1haWwnXQogICAgICAgICMgICAgICkKCiAgICAgICAgIyBpZiBtZXNzYWdlLmNoYW5uZWxfc2Vzc2lvbi5nZXQoJ3VzZXJfaWQnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBpZD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsndXNlcl9pZCddCiAgICAgICAgIyAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -453,13 +453,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoIndzX2Nvbm5lY3QiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5zY29wZS5jaGFubmVsX3Nlc3Npb25bJ3VzZXJfaWQnXSA9IHNlbGYuc2NvcGUudXNlci5pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoIndzX2Nvbm5lY3QiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5zY29wZS5jaGFubmVsX3Nlc3Npb25bJ3Rva2VuJ10gPSB0b2tlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5zY29wZS5jaGFubmVsX3Nlc3Npb25bJ3VzZXJfaWQnXSA9IHNlbGYuc2NvcGUudXNlci5pZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
