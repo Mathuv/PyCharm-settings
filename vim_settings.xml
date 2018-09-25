@@ -102,6 +102,12 @@
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/inventory.ansible" timestamp="1537911513187">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180809_2220.py" timestamp="1533863188660">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="22" column="49" />
@@ -164,6 +170,9 @@
         <mark key="]" line="1" column="36" />
         <mark key="^" line="8" column="89" />
         <mark key="." line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1537507880510">
         <mark key="[" line="0" column="0" />
@@ -299,6 +308,12 @@
       </file>
       <file name="/auth_user [Postgres_Dev_Local]" timestamp="1534838893405">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537911661454">
+        <mark key="[" line="14" column="63" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
     </filemarks>
     <jumps>
