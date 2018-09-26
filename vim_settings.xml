@@ -309,11 +309,11 @@
       <file name="/auth_user [Postgres_Dev_Local]" timestamp="1534838893405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537926578592">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="62" />
-        <mark key="." line="23" column="62" />
-        <mark key="^" line="23" column="62" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537929104983">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -420,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://mathum@bitbucket.org/medius_dev/medius_chatserver.git</text>
+        <text encoding="base64">IDMuNg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://mathum@bitbucket.org/medius_dev/medius_chatserver.git</text>
+        <text encoding="base64">IDMuNg==</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
@@ -432,19 +432,19 @@
         <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aXJ0dWFsZW52X2NvbW1hbmQ6IC1tIHZlbnYK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IyB2YXJzOgojICAgICAgaG9zdDogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IyB2YXJzOgojICAgICAgaG9zdDogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -453,16 +453,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIDIwMTgwMjIzIE1hdGh1OiBDaGFuZ2VzIHRvIHVzZXIgaWQgYmFzZWQgY2hhbm5lbCBpZGVudGlmaWNhdGlvbiB0byB3b3JrIHdpdGggbGF6eSB1c2VyIGNvbnZlcnNpb24KICAgICAgICAjIGlmIG1lc3NhZ2UuY2hhbm5lbF9zZXNzaW9uLmdldCgnZW1haWwnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBlbWFpbD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsnZW1haWwnXQogICAgICAgICMgICAgICkKCiAgICAgICAgIyBpZiBtZXNzYWdlLmNoYW5uZWxfc2Vzc2lvbi5nZXQoJ3VzZXJfaWQnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBpZD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsndXNlcl9pZCddCiAgICAgICAgIyAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIDIwMTgwMjIzIE1hdGh1OiBDaGFuZ2VzIHRvIHVzZXIgaWQgYmFzZWQgY2hhbm5lbCBpZGVudGlmaWNhdGlvbiB0byB3b3JrIHdpdGggbGF6eSB1c2VyIGNvbnZlcnNpb24KICAgICAgICAjIGlmIG1lc3NhZ2UuY2hhbm5lbF9zZXNzaW9uLmdldCgnZW1haWwnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBlbWFpbD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsnZW1haWwnXQogICAgICAgICMgICAgICkKCiAgICAgICAgIyBpZiBtZXNzYWdlLmNoYW5uZWxfc2Vzc2lvbi5nZXQoJ3VzZXJfaWQnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBpZD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsndXNlcl9pZCddCiAgICAgICAgIyAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -516,8 +516,8 @@
         <entry>%s/message.content/scope/gc</entry>
         <entry>%s/websocket_message/websocket_consumer/gc</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
