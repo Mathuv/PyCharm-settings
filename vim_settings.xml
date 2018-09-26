@@ -219,11 +219,11 @@
       <file name="/auth_user [Postgres_Dev_Local]" timestamp="1534838893405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537948777852">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538002429353">
         <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/dev.txt" timestamp="1537937866446">
         <mark key="[" line="5" column="9" />
@@ -336,10 +336,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nginx,git,</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>nginx,git,</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
@@ -348,34 +348,34 @@
         <text encoding="base64">ICAgICAgYXB0OiAicGtnPW5naW54LGdpdCx7eyBweXRob25fdmVyc2lvbiB9fSx7eyBweXRob25fdmVyc2lvbiB9fS12ZW52LHt7IHB5dGhvbl92ZXJzaW9uIH19LWRldiBzdGF0ZT1wcmVzZW50Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3VuaWNvcm49PTE5LjcuMQo=</text>
+        <text encoding="base64">ICAgICAgYXB0OiAicGtnPWxpYnB5dGhvbjMuNixsaWJweXRob24zLjYtZGV2LHtsaWJweXRob24zLjYtc3RkbGliLHsgcHl0aG9uX3ZlcnNpb24gfX0se3sgcHl0aG9uX3ZlcnNpb24gfX0tdmVudix7eyBweXRob25fdmVyc2lvbiB9fS1kZXYscHl0aG9uMy42LW1pbmltYWwsIHN0YXRlPXByZXNlbnQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGphbmdvLWV4dGVuc2lvbnM9PTEuOS42Cg==</text>
+        <text encoding="base64">Z3VuaWNvcm49PTE5LjcuMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnB5dGhvbj09MC4xNgo=</text>
+        <text encoding="base64">ZGphbmdvLWV4dGVuc2lvbnM9PTEuOS42Cg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXJsbGliMz09MS4yMgo=</text>
+        <text encoding="base64">YnB5dGhvbj09MC4xNgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWVzdHM9PTIuMTguNAo=</text>
+        <text encoding="base64">dXJsbGliMz09MS4yMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHl0aG9uLWRhdGV1dGlsPT0yLjYuMQo=</text>
+        <text encoding="base64">cmVxdWVzdHM9PTIuMTguNAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHltb25nbz09Mi44Cg==</text>
+        <text encoding="base64">cHl0aG9uLWRhdGV1dGlsPT0yLjYuMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHN5Y29wZzI9PTIuNy4zLjEK</text>
+        <text encoding="base64">cHltb25nbz09Mi44Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFuZGFzPT0wLjIwLjMK</text>
+        <text encoding="base64">cHN5Y29wZzI9PTIuNy4zLjEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
