@@ -44,6 +44,12 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/common.txt" timestamp="1537934581219">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+      </file>
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,6 +139,11 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/prod.txt" timestamp="1537934852523">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1537508421315">
         <mark key="'" line="660" column="0" />
         <mark key="[" line="260" column="0" />
@@ -145,6 +156,7 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/Pipfile" timestamp="1537934435267" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" timestamp="1534996437038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="360" column="33" />
@@ -201,6 +213,11 @@
       </file>
       <file name="/a.sql" timestamp="1533709891168">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements.txt" timestamp="1537934705663">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="23" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
@@ -269,6 +286,12 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/test.txt" timestamp="1537934847893">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1536728242185">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="18" column="26" />
@@ -315,9 +338,14 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/dev.txt" timestamp="1537934805757">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="139" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="136" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="28" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
@@ -417,52 +445,53 @@
       <jump line="4" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/utils.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/routing.py" />
       <jump line="12" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/diagnosis/models.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDMuNg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z3VuaWNvcm49PTE5LjcuMQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDMuNg==</text>
+        <text>7.1</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">Z3VuaWNvcm49PTE5LjkuMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aXJ0dWFsZW52X2NvbW1hbmQ6IC1tIHZlbnYK</text>
+        <text encoding="base64">Z3VuaWNvcm49PTE5LjcuMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGphbmdvLWV4dGVuc2lvbnM9PTEuOS42Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnB5dGhvbj09MC4xNgo=</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IyB2YXJzOgojICAgICAgaG9zdDogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXJsbGliMz09MS4yMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdHM9PTIuMTguNAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHl0aG9uLWRhdGV1dGlsPT0yLjYuMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHltb25nbz09Mi44Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIDIwMTgwMjIzIE1hdGh1OiBDaGFuZ2VzIHRvIHVzZXIgaWQgYmFzZWQgY2hhbm5lbCBpZGVudGlmaWNhdGlvbiB0byB3b3JrIHdpdGggbGF6eSB1c2VyIGNvbnZlcnNpb24KICAgICAgICAjIGlmIG1lc3NhZ2UuY2hhbm5lbF9zZXNzaW9uLmdldCgnZW1haWwnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBlbWFpbD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsnZW1haWwnXQogICAgICAgICMgICAgICkKCiAgICAgICAgIyBpZiBtZXNzYWdlLmNoYW5uZWxfc2Vzc2lvbi5nZXQoJ3VzZXJfaWQnKToKICAgICAgICAjICAgICBtZXNzYWdlLnVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KAogICAgICAgICMgICAgICAgICBpZD1tZXNzYWdlLmNoYW5uZWxfc2Vzc2lvblsndXNlcl9pZCddCiAgICAgICAgIyAgICAgKQo=</text>
+        <text encoding="base64">cHN5Y29wZzI9PTIuNy4zLjEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFuZGFzPT0wLjIwLjMK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -516,8 +545,8 @@
         <entry>%s/message.content/scope/gc</entry>
         <entry>%s/websocket_message/websocket_consumer/gc</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
