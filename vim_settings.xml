@@ -222,7 +222,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="/Django Console" timestamp="1537506619585">
+      <file name="/Django Console" timestamp="1537938092810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/django_session [Postgres_Dev_Local]" timestamp="1536816811240">
@@ -338,11 +338,11 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/dev.txt" timestamp="1537934805757">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/dev.txt" timestamp="1537937866446">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -448,11 +448,11 @@
       <jump line="77" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z3VuaWNvcm49PTE5LjcuMQo=</text>
+      <register name="&quot;" type="4">
+        <text>0.5.4</text>
       </register>
       <register name="-" type="4">
-        <text>7.1</text>
+        <text>0.5.4</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
