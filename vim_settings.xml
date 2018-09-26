@@ -309,11 +309,11 @@
       <file name="/auth_user [Postgres_Dev_Local]" timestamp="1534838893405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537920618996">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="38" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537921449004">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="19" column="103" />
+        <mark key="." line="19" column="103" />
+        <mark key="^" line="19" column="103" />
       </file>
     </filemarks>
     <jumps>
@@ -419,11 +419,11 @@
       <jump line="12" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/diagnosis/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>asfdfdsf</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIyAjIHNldCB0aGUgdGVuYW50IHNjaGVtYSB0bw==</text>
+        <text>asfdfdsf</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
