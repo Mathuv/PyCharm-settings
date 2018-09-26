@@ -309,11 +309,11 @@
       <file name="/auth_user [Postgres_Dev_Local]" timestamp="1534838893405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537924583841">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1537926578592">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+        <mark key="^" line="23" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -420,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>https://mathum@bitbucket.org/medius_dev/medius_chatserver.git</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>https://mathum@bitbucket.org/medius_dev/medius_chatserver.git</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
