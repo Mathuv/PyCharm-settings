@@ -38,10 +38,6 @@
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/models.py" timestamp="1537507760965">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="32" />
-      </file>
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,10 +83,6 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1536816918320">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="61" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/prod.txt" timestamp="1537934852523">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="16" />
@@ -114,10 +106,6 @@
         <mark key="]" line="13" column="11" />
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver_36-Q_Y5oxx9/lib/python3.6/site-packages/channels/generic/websocket.py" timestamp="1537236558008">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="108" column="10" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -151,6 +139,13 @@
         <mark key="'" line="77" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="23" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/git_hooks/post-commit" timestamp="1538018132462">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
@@ -244,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="136" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="28" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="236" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
@@ -344,6 +338,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/routing.py" />
       <jump line="12" column="22" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/diagnosis/models.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements.txt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/git_hooks/post-commit" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
