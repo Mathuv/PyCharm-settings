@@ -161,12 +161,12 @@
       <file name="/auth_user [Postgres_Dev_Local]" timestamp="1534838893405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538020331349">
-        <mark key="'" line="32" column="90" />
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="29" />
-        <mark key="^" line="32" column="29" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538022085867">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="36" column="26" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/dev.txt" timestamp="1537937866446">
         <mark key="[" line="5" column="9" />
@@ -176,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
-      <jump line="236" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="292" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="479" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="587" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
@@ -276,13 +274,15 @@
       <jump line="77" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements.txt" />
       <jump line="8" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/git_hooks/post-commit" />
       <jump line="32" column="90" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" />
+      <jump line="35" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/home/www</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2hkaXI9Int7IGhvbWUgfX0iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/home/www</text>
+        <text>/home/www/</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
@@ -291,34 +291,34 @@
         <text>{{ home }}/.pyenv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmVjb21lX3VzZXI6IHd3dwo=</text>
+        <text encoding="base64">ICAgICAgY2hkaXI9Int7IGhvbWUgfX0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKICAgICAgICAgICAgICAgICAgZnJvbSBkaWFnbm9zaXNfYXNzZXNzbWVudHN5bXB0b20KICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkaWFnbm9zaXNfc3ltcHRvbQogICAgICAgICAgICAgICAgICBvbiBkaWFnbm9zaXNfc3ltcHRvbS5zeW1wdG9tX2lkID0gZGlhZ25vc2lzX2Fzc2Vzc21lbnRzeW1wdG9tLnN5bXB0b21faWQKICAgICAgICAgICAgICAgICAgd2hlcmUgYXNzZXNzbWVudF9pZCBpbiAoMTg1OSApIDsK</text>
+        <text encoding="base64">ICAgICAgYmVjb21lX3VzZXI6IHd3dwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXB0OiAicGtnPWxpYnB5dGhvbjMuNixsaWJweXRob24zLjYtZGV2LHtsaWJweXRob24zLjYtc3RkbGliLHsgcHl0aG9uX3ZlcnNpb24gfX0se3sgcHl0aG9uX3ZlcnNpb24gfX0tdmVudix7eyBweXRob25fdmVyc2lvbiB9fS1kZXYscHl0aG9uMy42LW1pbmltYWwsIHN0YXRlPXByZXNlbnQiCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKICAgICAgICAgICAgICAgICAgZnJvbSBkaWFnbm9zaXNfYXNzZXNzbWVudHN5bXB0b20KICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkaWFnbm9zaXNfc3ltcHRvbQogICAgICAgICAgICAgICAgICBvbiBkaWFnbm9zaXNfc3ltcHRvbS5zeW1wdG9tX2lkID0gZGlhZ25vc2lzX2Fzc2Vzc21lbnRzeW1wdG9tLnN5bXB0b21faWQKICAgICAgICAgICAgICAgICAgd2hlcmUgYXNzZXNzbWVudF9pZCBpbiAoMTg1OSApIDsK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3VuaWNvcm49PTE5LjcuMQo=</text>
+        <text encoding="base64">ICAgICAgYXB0OiAicGtnPWxpYnB5dGhvbjMuNixsaWJweXRob24zLjYtZGV2LHtsaWJweXRob24zLjYtc3RkbGliLHsgcHl0aG9uX3ZlcnNpb24gfX0se3sgcHl0aG9uX3ZlcnNpb24gfX0tdmVudix7eyBweXRob25fdmVyc2lvbiB9fS1kZXYscHl0aG9uMy42LW1pbmltYWwsIHN0YXRlPXByZXNlbnQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGphbmdvLWV4dGVuc2lvbnM9PTEuOS42Cg==</text>
+        <text encoding="base64">Z3VuaWNvcm49PTE5LjcuMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YnB5dGhvbj09MC4xNgo=</text>
+        <text encoding="base64">ZGphbmdvLWV4dGVuc2lvbnM9PTEuOS42Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXJsbGliMz09MS4yMgo=</text>
+        <text encoding="base64">YnB5dGhvbj09MC4xNgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWVzdHM9PTIuMTguNAo=</text>
+        <text encoding="base64">dXJsbGliMz09MS4yMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHl0aG9uLWRhdGV1dGlsPT0yLjYuMQo=</text>
+        <text encoding="base64">cmVxdWVzdHM9PTIuMTguNAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
