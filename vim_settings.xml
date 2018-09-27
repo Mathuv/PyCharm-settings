@@ -173,11 +173,6 @@
       <file name="/a.sql" timestamp="1538020563493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements.txt" timestamp="1537934705663">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="23" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/git_hooks/post-commit" timestamp="1538018132462">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="0" column="0" />
@@ -215,6 +210,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" timestamp="1538030262717">
+        <mark key="'" line="590" column="13" />
+        <mark key="[" line="69" column="22" />
+        <mark key="]" line="69" column="23" />
+        <mark key="^" line="69" column="23" />
+        <mark key="." line="69" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1538006195018">
         <mark key="[" line="0" column="0" />
