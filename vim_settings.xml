@@ -280,12 +280,12 @@
       <file name="/auth_user [Postgres_Dev_Local]" timestamp="1534838893405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538033916603">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538035607240">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+        <mark key="^" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/dev.txt" timestamp="1537937866446">
         <mark key="[" line="5" column="9" />
@@ -398,16 +398,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ubuntu</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>ubuntu</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
       </register>
-      <register name="0" type="4">
-        <text>{{ home }}/.pyenv</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2hlbGw6ICJ7eyBob21lIH19Ly5weWVudi9iaW4vcHllbnYgaW5pdCAtICYmIHt7IGhvbWUgfX0vLnB5ZW52L2Jpbi9weWVudiBpbnN0YWxsIHt7IHB5ZW52X3B5X3ZlcnNpb24gfX0gY2hkaXI9e3sgaG9tZSB9fSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY2hkaXI9Int7IGhvbWUgfX0iCg==</text>
