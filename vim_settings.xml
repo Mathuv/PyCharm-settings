@@ -164,11 +164,11 @@
       <file name="/mediuschatserver.public.auth_user_user_permissions [Quro_PROD]" timestamp="1538020453565">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8888600f-dff1-4567-a654-dd9463302e98/console.sql" timestamp="1538097545092">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="94" />
-        <mark key="^" line="12" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8888600f-dff1-4567-a654-dd9463302e98/console.sql" timestamp="1538107413458">
+        <mark key="[" line="31" column="65" />
+        <mark key="]" line="33" column="57" />
+        <mark key="." line="33" column="57" />
+        <mark key="^" line="33" column="57" />
       </file>
       <file name="/a.sql" timestamp="1538020563493">
         <mark key="[" line="0" column="0" />
@@ -404,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>.id</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>.id</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
