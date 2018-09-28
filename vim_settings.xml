@@ -218,7 +218,7 @@
         <mark key="^" line="69" column="23" />
         <mark key="." line="69" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538006195018">
+      <file name="/Dummy.txt" timestamp="1538100231227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1536888562037">
@@ -226,6 +226,12 @@
       </file>
       <file name="/mediuschatserver.public.chat_chatmessage [Quro_PROD]" timestamp="1538020432838">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/573ff5a6-1467-4cb5-bc7b-2f0bb46bb7f8/console.sql" timestamp="1538100298184">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+        <mark key="." line="3" column="52" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/settings.py" timestamp="1537507558645">
         <mark key="[" line="1" column="0" />
