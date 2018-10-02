@@ -142,7 +142,6 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/Pipfile" timestamp="1537934435267" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" timestamp="1534996437038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="360" column="33" />
@@ -253,13 +252,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" timestamp="1538030262717">
-        <mark key="'" line="590" column="13" />
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="69" column="23" />
-        <mark key="^" line="69" column="23" />
-        <mark key="." line="69" column="23" />
-      </file>
       <file name="/Dummy.txt" timestamp="1538100231227">
         <mark key="[" line="0" column="0" />
       </file>
@@ -347,12 +339,6 @@
         <mark key="]" line="35" column="8" />
         <mark key="." line="35" column="8" />
         <mark key="^" line="35" column="10" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/dev.txt" timestamp="1537937866446">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
       </file>
     </filemarks>
     <jumps>
