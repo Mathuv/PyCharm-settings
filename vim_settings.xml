@@ -105,6 +105,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/diagnosis/tests.py" timestamp="1538450550813">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="59" />
+        <mark key="." line="20" column="59" />
+        <mark key="^" line="20" column="59" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/migrations/0009_auto_20180809_2220.py" timestamp="1533863188660">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="22" column="49" />
@@ -445,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9Cg==</text>
+        <text encoding="base64">ZnJvbSBkaWFnbm9zaXMuZGlzZWFzZV9zY29yaW5nLmtiX2Rpc2Vhc2Vfc2NvcmluZyBpbXBvcnQgZGlzZWFzZV9zY29yaW5nIGFzIGRpc2Vhc2Vfc2NvcmluZ19rYgo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -453,8 +459,8 @@
       <register name="/" type="4">
         <text>settings</text>
       </register>
-      <register name="0" type="4">
-        <text>timestamp BETWEEN '2018-07-30'::TIMESTAMP AND '2018-08-05'::TIMESTAMP</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBkaWFnbm9zaXMuZGlzZWFzZV9zY29yaW5nLmtiX2Rpc2Vhc2Vfc2NvcmluZyBpbXBvcnQgZGlzZWFzZV9zY29yaW5nIGFzIGRpc2Vhc2Vfc2NvcmluZ19rYgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QUxMT1dFRF9IT1NUUyA9Cg==</text>
