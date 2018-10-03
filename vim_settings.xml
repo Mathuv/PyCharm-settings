@@ -42,8 +42,18 @@
         <mark key="^" line="96" column="24" />
         <mark key="." line="96" column="24" />
       </file>
+      <file name="/models.py" timestamp="1537507760965">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="32" />
+      </file>
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/dev.txt" timestamp="1538551992930">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1538020487717" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536560776908">
@@ -104,10 +114,18 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.4/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1536816918320">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="61" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/requirements/prod.txt" timestamp="1537934852523">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1538551543941">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1538548648995">
         <mark key="'" line="745" column="0" />
@@ -120,6 +138,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1538551644274">
+        <mark key="'" line="53" column="23" />
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="47" column="59" />
+        <mark key="." line="47" column="59" />
+        <mark key="^" line="47" column="59" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/customers/settings.py" timestamp="1535935652305">
         <mark key="[" line="0" column="0" />
@@ -143,6 +168,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver_36-Q_Y5oxx9/lib/python3.6/site-packages/channels/generic/websocket.py" timestamp="1537236558008">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="108" column="10" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -317,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="481" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="589" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="609" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="170" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
@@ -417,53 +445,54 @@
       <jump line="1195" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="1216" column="40" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
       <jump line="439" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
+      <jump line="53" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>websocket_connect_channel_closed</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>websocket_connect_channel_closed</text>
       </register>
       <register name="/" type="4">
         <text>DATABASES</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoIm1lZGl1c19jaGF0c2VydmVyIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIyClBPU1RHUkVTX1VTRVJOQU1FPW1lZGl1c2hlYWx0aAo=</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIKUE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
+        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIyClBPU1RHUkVTX1VTRVJOQU1FPW1lZGl1c2hlYWx0aAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9Cg==</text>
+        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIKUE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2hhbm5lbF9sYXllciA9IGdldF9jaGFubmVsX2xheWVyKCkK</text>
+        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Y2hhbm5lbF9sYXllciA9IGdldF9jaGFubmVsX2xheWVyKCkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBjaGFubmVscy5hc2dpIGltcG9ydCBnZXRfY2hhbm5lbF9sYXllcgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>&quot;&quot;&quot;
 ASGI entrypoint file for default channel layer.
 Points to the channel layer configured as &quot;default&quot; so you can point
 ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their channel layer.
 &quot;&quot;&quot;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKICAgICAgICAgICAgICAgICAgZnJvbSBkaWFnbm9zaXNfYXNzZXNzbWVudHN5bXB0b20KICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkaWFnbm9zaXNfc3ltcHRvbQogICAgICAgICAgICAgICAgICBvbiBkaWFnbm9zaXNfc3ltcHRvbS5zeW1wdG9tX2lkID0gZGlhZ25vc2lzX2Fzc2Vzc21lbnRzeW1wdG9tLnN5bXB0b21faWQKICAgICAgICAgICAgICAgICAgd2hlcmUgYXNzZXNzbWVudF9pZCBpbiAoMTg1OCkgOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2hkaXI9Int7IGhvbWUgfX0iCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKICAgICAgICAgICAgICAgICAgZnJvbSBkaWFnbm9zaXNfYXNzZXNzbWVudHN5bXB0b20KICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkaWFnbm9zaXNfc3ltcHRvbQogICAgICAgICAgICAgICAgICBvbiBkaWFnbm9zaXNfc3ltcHRvbS5zeW1wdG9tX2lkID0gZGlhZ25vc2lzX2Fzc2Vzc21lbnRzeW1wdG9tLnN5bXB0b21faWQKICAgICAgICAgICAgICAgICAgd2hlcmUgYXNzZXNzbWVudF9pZCBpbiAoMTg1OCkgOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
