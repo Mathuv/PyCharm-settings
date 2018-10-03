@@ -137,12 +137,12 @@
       <file name="/mediuschatserver.public.auth_user [Quro_PROD]" timestamp="1538020457925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1538546776559">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1538550359698">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -156,10 +156,10 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1538548097820">
+      <file name="/Python Console" timestamp="1538550405798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1537328243503">
+      <file name="/fragment.py" timestamp="1538549816082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -212,12 +212,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/common.txt" timestamp="1537940321135" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538547962677">
-        <mark key="'" line="24" column="18" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="/dummy.sql" timestamp="1538020462427">
         <mark key="[" line="0" column="0" />
@@ -420,16 +420,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logger = logging.getLogger(__name__)</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>logger = logging.getLogger(__name__)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>DATABASES</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UE9TVEdSRVNfUEFTU1dPUkQ9RVRlZGh0Znc4MjNTa3dUdQo=</text>
+        <text encoding="base64">UE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIyClBPU1RHUkVTX1VTRVJOQU1FPW1lZGl1c2hlYWx0aAo=</text>
