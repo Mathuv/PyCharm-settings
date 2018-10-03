@@ -72,6 +72,12 @@
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements.txt" timestamp="1538553507145">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/inventory.ansible" timestamp="1537911513187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
@@ -256,7 +262,6 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/Pipfile" timestamp="1538552676735" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/573ff5a6-1467-4cb5-bc7b-2f0bb46bb7f8/console.sql" timestamp="1538100298184">
         <mark key="[" line="3" column="52" />
         <mark key="]" line="3" column="52" />
@@ -424,8 +429,8 @@
       <jump line="53" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>websocket_connect_channel_closed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGphbmdvLWRiLW11bHRpdGVuYW50PT0wLjMuMgo=</text>
       </register>
       <register name="-" type="4">
         <text>websocket_connect_channel_closed</text>
@@ -434,7 +439,7 @@
         <text>DATABASES</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoIm1lZGl1c19jaGF0c2VydmVyIikK</text>
+        <text encoding="base64">ZGphbmdvLWRiLW11bHRpdGVuYW50PT0wLjMuMgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
