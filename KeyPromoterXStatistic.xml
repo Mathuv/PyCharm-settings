@@ -633,6 +633,14 @@
           <Count>43</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'medius_chatserver_34'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'medius_chatserver_34'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'medius_chatserver_36'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
