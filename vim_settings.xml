@@ -36,6 +36,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1538020487717" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/.env" timestamp="1538627965649">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
       </file>
@@ -464,11 +470,11 @@
       <jump line="947" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>mediuschatserver2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEV4Y2VwdGlvbg==</text>
+        <text>mediuschatserver2</text>
       </register>
       <register name="/" type="4">
         <text>except</text>
@@ -565,8 +571,8 @@ ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their ch
         <entry>%s/websocket_message/websocket_consumer/gc</entry>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>Q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
