@@ -6,8 +6,22 @@
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/utils.py" timestamp="1537506955950">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1535615973993">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backend/base.py" timestamp="1536568021173">
+        <mark key="'" line="7" column="19" />
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="38" column="104" />
+        <mark key="." line="38" column="104" />
+        <mark key="^" line="38" column="104" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_initial.py" timestamp="1534987977889">
         <mark key="[" line="0" column="3" />
@@ -141,6 +155,13 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1536728242185">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/views.py" timestamp="1535601015662">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="45" />
@@ -184,6 +205,13 @@
         <mark key="^" line="96" column="24" />
         <mark key="." line="96" column="24" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" timestamp="1536099872708">
+        <mark key="'" line="187" column="8" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/routing.py" timestamp="1536560776908">
         <mark key="[" line="31" column="17" />
         <mark key="]" line="31" column="17" />
@@ -218,6 +246,13 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1538620306826">
+        <mark key="'" line="1018" column="12" />
+        <mark key="[" line="955" column="34" />
+        <mark key="]" line="956" column="26" />
+        <mark key="^" line="956" column="26" />
+        <mark key="." line="956" column="26" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1538551644274">
         <mark key="'" line="53" column="23" />
         <mark key="[" line="47" column="34" />
@@ -246,6 +281,13 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
+        <mark key="'" line="595" column="76" />
+        <mark key="[" line="149" column="69" />
+        <mark key="]" line="149" column="93" />
+        <mark key="^" line="149" column="93" />
+        <mark key="." line="149" column="93" />
       </file>
       <file name="/mediuschatserver.public.auth_user_user_permissions [Quro_PROD]" timestamp="1538020453565">
         <mark key="[" line="0" column="0" />
@@ -335,15 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="609" column="13" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" />
-      <jump line="170" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="310" column="41" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="158" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="306" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="403" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="163" column="25" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="161" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="164" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="168" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="174" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
@@ -435,6 +468,15 @@
       <jump line="439" column="17" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" />
       <jump line="53" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" />
       <jump line="2" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
+      <jump line="53" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="930" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="949" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="950" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="952" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="954" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="966" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="967" column="27" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
+      <jump line="1018" column="12" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -444,7 +486,7 @@
         <text>S_013</text>
       </register>
       <register name="/" type="4">
-        <text>DATABASES</text>
+        <text>except</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGphbmdvLWRiLW11bHRpdGVuYW50PT0wLjMuMgo=</text>
@@ -488,9 +530,9 @@ ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their ch
       </register>
     </registers>
     <search>
-      <last-search>DATABASES</last-search>
+      <last-search>except</last-search>
       <last-offset />
-      <last-pattern>DATABASES</last-pattern>
+      <last-pattern>except</last-pattern>
       <last-replace>websocket_consumer</last-replace>
       <last-substitute>websocket_message</last-substitute>
       <last-dir>1</last-dir>
@@ -498,7 +540,6 @@ ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their ch
     </search>
     <history>
       <history-search>
-        <entry>message.content</entry>
         <entry>EMAIL</entry>
         <entry>message</entry>
         <entry>content</entry>
@@ -518,6 +559,7 @@ ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their ch
         <entry>settings</entry>
         <entry>fail</entry>
         <entry>DATABASES</entry>
+        <entry>except</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEwLzExL2dj</entry>
