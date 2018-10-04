@@ -36,11 +36,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1538020487717" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/.env" timestamp="1538627965649">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/.env" timestamp="1538640479864">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
@@ -470,8 +469,8 @@
       <jump line="947" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mediuschatserver2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">REpBTkdPX0RFQlVHPQo=</text>
       </register>
       <register name="-" type="4">
         <text>mediuschatserver2</text>
@@ -480,41 +479,41 @@
         <text>except</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGphbmdvLWRiLW11bHRpdGVuYW50PT0wLjMuMgo=</text>
+        <text encoding="base64">REpBTkdPX0RFQlVHPVRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">REpBTkdPX0RFQlVHPQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIyClBPU1RHUkVTX1VTRVJOQU1FPW1lZGl1c2hlYWx0aAo=</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIKUE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
+        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIyClBPU1RHUkVTX1VTRVJOQU1FPW1lZGl1c2hlYWx0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9Cg==</text>
+        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIKUE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2hhbm5lbF9sYXllciA9IGdldF9jaGFubmVsX2xheWVyKCkK</text>
+        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Y2hhbm5lbF9sYXllciA9IGdldF9jaGFubmVsX2xheWVyKCkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBjaGFubmVscy5hc2dpIGltcG9ydCBnZXRfY2hhbm5lbF9sYXllcgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>&quot;&quot;&quot;
 ASGI entrypoint file for default channel layer.
 Points to the channel layer configured as &quot;default&quot; so you can point
 ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their channel layer.
 &quot;&quot;&quot;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
