@@ -13,7 +13,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1535615973993">
+      <file name="/a.dummy" timestamp="1538700149256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backend/base.py" timestamp="1536568021173">
@@ -30,11 +30,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1538020487717" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/migrations/0016_auto_20181004_2355.py" timestamp="1538697617805">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/migrations/0016_auto_20181004_2355.py" timestamp="1538699956561">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="30" column="49" />
       </file>
       <file name="/mediuschatserver.public.diagnosis_symptomcategory [Quro_DEV]" timestamp="1538697716391">
         <mark key="[" line="0" column="0" />
@@ -98,6 +98,13 @@
         <mark key="^" line="225" column="11" />
         <mark key="." line="225" column="11" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1538700552508">
+        <mark key="'" line="521" column="134" />
+        <mark key="[" line="341" column="77" />
+        <mark key="]" line="341" column="84" />
+        <mark key="^" line="341" column="84" />
+        <mark key="." line="341" column="84" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/kb/migrations/0010_auto_20180812_2238.py" timestamp="1538697418479" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/mediuschatserver/asgi.py" timestamp="1538112083554">
         <mark key="[" line="9" column="14" />
@@ -129,6 +136,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mediuschatserver_sp_update.public.diagnosis_symptomcategory [mediuschatserver_sp_update@localhost]" timestamp="1538700195137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" timestamp="1536099872708">
@@ -211,10 +221,10 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1538697718256">
+      <file name="/dummy.sql" timestamp="1538700195434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538100231227">
+      <file name="/Dummy.txt" timestamp="1538699777603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1536888562037">
@@ -262,10 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="482" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="486" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="495" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="503" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="512" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="517" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
@@ -362,62 +368,62 @@
       <jump line="21" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" />
       <jump line="38" column="37" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="947" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="341" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="342" column="65" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="521" column="134" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>diagnosis_symptomcategory</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>diagnosis_symptomcategory</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>except</text>
+        <text>category</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REpBTkdPX0RFQlVHPVRydWUK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBTeW1wdG9tQ2F0ZWdvcnkub2JqZWN0cy5maWx0ZXIobmFtZT0iQ2F0ZWdvcnkyIikuZXhpc3RzKCk6CiAgICAgICAgU3ltcHRvbUNhdGVnb3J5Lm9iamVjdHMuY3JlYXRlKAogICAgICAgICAgICBuYW1lPSJDYXRlZ29yeTIiLAogICAgICAgICAgICBkZXNjcmlwdGlvbj0iQm9vayBhbiBhcHBvaW50bWVudCB3aXRoIHlvdXIgY2xvc2VzdCBHUCIKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REpBTkdPX0RFQlVHPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">REpBTkdPX0RFQlVHPQo=</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIyClBPU1RHUkVTX1VTRVJOQU1FPW1lZGl1c2hlYWx0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIKUE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9Cg==</text>
+        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIyClBPU1RHUkVTX1VTRVJOQU1FPW1lZGl1c2hlYWx0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2hhbm5lbF9sYXllciA9IGdldF9jaGFubmVsX2xheWVyKCkK</text>
+        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIKUE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjaGFubmVscy5hc2dpIGltcG9ydCBnZXRfY2hhbm5lbF9sYXllcgo=</text>
+        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;&quot;
-ASGI entrypoint file for default channel layer.
-Points to the channel layer configured as &quot;default&quot; so you can point
-ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their channel layer.
-&quot;&quot;&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y2hhbm5lbF9sYXllciA9IGdldF9jaGFubmVsX2xheWVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>except</last-search>
+      <last-search>category</last-search>
       <last-offset />
-      <last-pattern>except</last-pattern>
+      <last-pattern>category</last-pattern>
       <last-replace>websocket_consumer</last-replace>
       <last-substitute>websocket_message</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +431,6 @@ ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their ch
     </search>
     <history>
       <history-search>
-        <entry>content</entry>
         <entry>ALLO</entry>
         <entry>'user'</entry>
         <entry>reply</entry>
@@ -445,6 +450,7 @@ ASGI applications at &quot;mediuschatserver.asgi:channel_layer&quot; as their ch
         <entry>raise</entry>
         <entry>.exception</entry>
         <entry>except</entry>
+        <entry>category</entry>
       </history-search>
       <history-cmd>
         <entry>%s//ATTRIBUTE_KEY_SYSTEM_ANATOMY_LEVEL_1/gc</entry>
