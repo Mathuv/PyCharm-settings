@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1538627267270">
+      <file name="/Python Console" timestamp="1538705433162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1538549816082">
@@ -204,12 +204,12 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1538703995612">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1538705505042">
         <mark key="'" line="148" column="56" />
-        <mark key="[" line="251" column="36" />
-        <mark key="]" line="252" column="66" />
-        <mark key="." line="252" column="66" />
-        <mark key="^" line="252" column="66" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="45" />
+        <mark key="^" line="153" column="42" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
@@ -345,7 +345,7 @@
       <file name="/dummy.sql" timestamp="1538700195434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538699777603">
+      <file name="/Dummy.txt" timestamp="1538705129493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1536888562037">
@@ -495,47 +495,47 @@
       <jump line="155" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ta</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>ta</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tab2</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;MASTER RELATIONSHIPS IN DB [FINAL]&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSB0YWJfY291bnQgKyAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjMgPSAiTkVXIERJU0VBU0UgRElGRkVSRU5USUFMIFJFTEFUSU9OU0hJUFMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjIgPSAiQU5USSBQQVRURVJOIFJFTEFJT05TSElQUyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjEgPSAiRXhpc3RpbmcgU3ltcHRvbXMgTkVXIFJFTEFUSU9OU0hJUFMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYl9jb3VudCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi51cGRhdGVfZ29vZ2xlX3NoZWV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjMgPSAiTkVXIERJU0VBU0UgRElGRkVSRU5USUFMIFJFTEFUSU9OU0hJUFMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REpBTkdPX0RFQlVHPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjIgPSAiQU5USSBQQVRURVJOIFJFTEFJT05TSElQUyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
