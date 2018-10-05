@@ -204,11 +204,12 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1538703030540">
-        <mark key="[" line="167" column="47" />
-        <mark key="]" line="170" column="103" />
-        <mark key="." line="170" column="69" />
-        <mark key="^" line="170" column="69" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1538703995612">
+        <mark key="'" line="148" column="56" />
+        <mark key="[" line="251" column="36" />
+        <mark key="]" line="252" column="66" />
+        <mark key="." line="252" column="66" />
+        <mark key="^" line="252" column="66" />
       </file>
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
@@ -392,8 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="512" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="517" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="521" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="530" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
@@ -492,58 +491,60 @@
       <jump line="341" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="342" column="65" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="521" column="134" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="146" column="56" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
+      <jump line="155" column="23" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;MASTER RELATIONSHIPS IN DB [FINAL]&quot;</text>
+        <text>ta</text>
       </register>
       <register name="-" type="4">
-        <text>NEW HAS SYMPTOM RELATIONSHIPS</text>
+        <text>ta</text>
       </register>
       <register name="/" type="4">
-        <text>category</text>
+        <text>tab2</text>
       </register>
       <register name="0" type="4">
         <text>&quot;MASTER RELATIONSHIPS IN DB [FINAL]&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYl9jb3VudCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi51cGRhdGVfZ29vZ2xlX3NoZWV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjMgPSAiTkVXIERJU0VBU0UgRElGRkVSRU5USUFMIFJFTEFUSU9OU0hJUFMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjIgPSAiQU5USSBQQVRURVJOIFJFTEFJT05TSElQUyIK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjEgPSAiRXhpc3RpbmcgU3ltcHRvbXMgTkVXIFJFTEFUSU9OU0hJUFMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REpBTkdPX0RFQlVHPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYl9jb3VudCA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi51cGRhdGVfZ29vZ2xlX3NoZWV0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIyClBPU1RHUkVTX1VTRVJOQU1FPW1lZGl1c2hlYWx0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UE9TVEdSRVNfREJOQU1FPW1lZGl1c2NoYXRzZXJ2ZXIKUE9TVEdSRVNfVVNFUk5BTUU9bWVkaXVzaGVhbHRoCg==</text>
+        <text encoding="base64">REpBTkdPX0RFQlVHPQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>category</last-search>
+      <last-search>tab2</last-search>
       <last-offset />
-      <last-pattern>category</last-pattern>
+      <last-pattern>tab2</last-pattern>
       <last-replace>websocket_consumer</last-replace>
       <last-substitute>websocket_message</last-substitute>
       <last-dir>1</last-dir>
@@ -551,7 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ALLO</entry>
         <entry>'user'</entry>
         <entry>reply</entry>
         <entry>reply_</entry>
@@ -571,6 +571,7 @@
         <entry>.exception</entry>
         <entry>except</entry>
         <entry>category</entry>
+        <entry>tab2</entry>
       </history-search>
       <history-cmd>
         <entry>%s//ATTRIBUTE_KEY_SYSTEM_ANATOMY_LEVEL_1/gc</entry>
