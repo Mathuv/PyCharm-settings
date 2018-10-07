@@ -85,7 +85,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1538705433162">
+      <file name="/Python Console" timestamp="1538951930951">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1538020563493">
@@ -159,6 +159,7 @@
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/nlp/symptom_search.py" timestamp="1538951743559" />
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
         <mark key="[" line="104" column="0" />
       </file>
@@ -428,7 +429,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYjIgPSAiQU5USSBQQVRURVJOIFJFTEFJT05TSElQUyIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -474,7 +475,6 @@
         <entry>set noic</entry>
         <entry>set scs</entry>
         <entry>anatomy\c</entry>
-        <entry>q</entry>
         <entry>q!</entry>
         <entry>e)</entry>
         <entry>s/conn/connection/c</entry>
@@ -484,6 +484,7 @@
         <entry>wq</entry>
         <entry>Q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
