@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/kb/management/commands/0022_export_all_disease_symptom_relationship.py" timestamp="1538966082408" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/kb/management/commands/0022_export_all_disease_symptom_relationship.py" timestamp="1538966896282">
+        <mark key="[" line="147" column="25" />
+        <mark key="]" line="147" column="26" />
+        <mark key="." line="147" column="26" />
+        <mark key="^" line="147" column="26" />
+      </file>
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
       </file>
@@ -392,10 +397,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INNER</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>INNER</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>\t</text>
