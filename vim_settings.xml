@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/kb/management/commands/0022_export_all_disease_symptom_relationship.py" timestamp="1538971226642">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/kb/management/commands/0022_export_all_disease_symptom_relationship.py" timestamp="1538972874119">
         <mark key="[" line="147" column="25" />
         <mark key="]" line="147" column="26" />
         <mark key="." line="147" column="26" />
@@ -44,11 +44,6 @@
       </file>
       <file name="/mediuschatserver.public.diagnosis_symptomcategory [Quro_DEV]" timestamp="1538697716391">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/.env" timestamp="1538640479864">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
@@ -121,6 +116,7 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/kb/management/commands/0007_build_diagnosis_table_link.py" timestamp="1538973190420" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/573ff5a6-1467-4cb5-bc7b-2f0bb46bb7f8/console.sql" timestamp="1538970836706">
         <mark key="'" line="79" column="7" />
         <mark key="[" line="396" column="22" />
