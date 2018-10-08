@@ -115,12 +115,12 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/573ff5a6-1467-4cb5-bc7b-2f0bb46bb7f8/console.sql" timestamp="1538722993469">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/573ff5a6-1467-4cb5-bc7b-2f0bb46bb7f8/console.sql" timestamp="1538957793514">
         <mark key="'" line="79" column="7" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+        <mark key="[" line="395" column="0" />
+        <mark key="]" line="396" column="21" />
+        <mark key="^" line="396" column="21" />
+        <mark key="." line="396" column="21" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1536728242185">
         <mark key="'" line="4" column="0" />
@@ -129,6 +129,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1538958100343" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="35" column="8" />
@@ -392,11 +393,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/nlp/symptom_search.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>INNER</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>INNER</text>
       </register>
       <register name="/" type="4">
         <text>\t</text>
