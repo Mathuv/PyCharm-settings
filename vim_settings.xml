@@ -73,6 +73,7 @@
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/api/views.py" timestamp="1539068611223" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/nlp/symptom_search.py" timestamp="1538954830172">
         <mark key="'" line="0" column="0" />
       </file>
@@ -222,7 +223,7 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1539056157558">
+      <file name="/dummy.sql" timestamp="1539068490490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/models.py" timestamp="1538548624614">
