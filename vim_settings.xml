@@ -124,6 +124,7 @@
       <file name="/mediuschatserver.public.auth_user [Quro_PROD]" timestamp="1538020457925">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0005_update_symptoms_with_parent_id.py" timestamp="1539049062776" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1538550359698">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="9" column="0" />
@@ -194,12 +195,12 @@
       <file name="/django_session [Postgres_Dev_Local]" timestamp="1536816811240">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1539046656854">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1539049149909">
         <mark key="'" line="1227" column="8" />
-        <mark key="[" line="997" column="54" />
-        <mark key="]" line="997" column="37" />
-        <mark key="^" line="997" column="37" />
-        <mark key="." line="997" column="37" />
+        <mark key="[" line="1287" column="85" />
+        <mark key="]" line="1243" column="75" />
+        <mark key="^" line="1243" column="75" />
+        <mark key="." line="1243" column="75" />
       </file>
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
@@ -392,11 +393,11 @@
       <jump line="1227" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2hlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>symptom_id</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>symptom_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVfc2ltaWxhcl9lbnRpdGllc1w+</text>
