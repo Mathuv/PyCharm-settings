@@ -97,6 +97,7 @@
       <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533774401888">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/models.py" timestamp="1539053328221" />
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,11 +142,11 @@
       <file name="/Python Console" timestamp="1538954876825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539046509041">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539054344224">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
@@ -186,7 +187,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="/Django Console" timestamp="1538970649240">
+      <file name="/Django Console" timestamp="1539054096005">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
@@ -195,12 +196,12 @@
       <file name="/django_session [Postgres_Dev_Local]" timestamp="1536816811240">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1539050131718">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1539054431470">
         <mark key="'" line="534" column="36" />
-        <mark key="[" line="1245" column="93" />
-        <mark key="]" line="1247" column="110" />
-        <mark key="." line="1247" column="110" />
-        <mark key="^" line="1247" column="110" />
+        <mark key="[" line="1247" column="105" />
+        <mark key="]" line="1247" column="104" />
+        <mark key="." line="1247" column="104" />
+        <mark key="^" line="1247" column="104" />
       </file>
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
@@ -263,6 +264,9 @@
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1539053903891">
+        <mark key="'" line="64" column="29" />
+      </file>
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
       </file>
@@ -291,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1018" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="960" column="16" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1025" column="21" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
       <jump line="1070" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" />
@@ -391,19 +394,20 @@
       <jump line="407" column="40" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="410" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="534" column="36" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="64" column="29" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>similar_medius_id</text>
+        <text>count(*)</text>
       </register>
       <register name="-" type="4">
-        <text>similar_medius_id</text>
+        <text>count(*)</text>
       </register>
       <register name="/" type="4">
         <text>\)\.update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSB0YWJfY291bnQgKyAxCg==</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopCmZyb20gZGlhZ25vc2lzX3N5bXB0b20Kd2hlcmUgcGFyZW50X2lkX2lkIGlzIG5vdCBudWxsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3Qgc2VsZi5kcnlydW46CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHJlbGF0aW9uc2hpcC5lbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgPT0gJ0VSVF8yNDgnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlX3N5bXB0b21fcGFyZW50X2lkKHJlbGF0aW9uc2hpcC5lbnRpdHlfZnJvbV9pZCwgKQo=</text>
