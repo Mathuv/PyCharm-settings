@@ -140,6 +140,12 @@
       <file name="/Python Console" timestamp="1538954876825">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539046509041">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,8 +194,8 @@
       <file name="/django_session [Postgres_Dev_Local]" timestamp="1536816811240">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1539045894878">
-        <mark key="'" line="869" column="59" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1539046656854">
+        <mark key="'" line="1227" column="8" />
         <mark key="[" line="997" column="54" />
         <mark key="]" line="997" column="37" />
         <mark key="^" line="997" column="37" />
@@ -227,12 +233,12 @@
       <file name="/mediuschatserver.public.chat_chatmessage [Quro_PROD]" timestamp="1538020432838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/573ff5a6-1467-4cb5-bc7b-2f0bb46bb7f8/console.sql" timestamp="1538970836706">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/573ff5a6-1467-4cb5-bc7b-2f0bb46bb7f8/console.sql" timestamp="1539046562031">
         <mark key="'" line="79" column="7" />
-        <mark key="[" line="396" column="22" />
-        <mark key="]" line="396" column="21" />
-        <mark key="^" line="396" column="21" />
-        <mark key="." line="396" column="21" />
+        <mark key="[" line="402" column="15" />
+        <mark key="]" line="404" column="30" />
+        <mark key="." line="404" column="30" />
+        <mark key="^" line="404" column="30" />
       </file>
       <file name="/django_session [Quro_DEV_RDS]" timestamp="1536816886759">
         <mark key="[" line="0" column="0" />
@@ -284,8 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="672" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
-      <jump line="681" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="686" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="688" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
       <jump line="697" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" />
@@ -384,46 +388,48 @@
       <jump line="867" column="67" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="868" column="44" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
       <jump line="869" column="59" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="1182" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="1227" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2hlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>parent_id</text>
+        <text encoding="base64">XDxoYW5kbGVfc2ltaWxhcl9lbnRpdGllc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSB0YWJfY291bnQgKyAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
+        <text encoding="base64">d2hlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
+        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBzeWNvcGcyCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">aW1wb3J0IHBzeWNvcGcyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcy5pby5zcWwgYXMgcHNxbAo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBvcGVyYXRvciBpbXBvcnQgaXRlbWdldHRlcgo=</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcy5pby5zcWwgYXMgcHNxbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ZnJvbSBvcGVyYXRvciBpbXBvcnQgaXRlbWdldHRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJfY291bnQgPSsgMQo=</text>
@@ -433,9 +439,9 @@
       </register>
     </registers>
     <search>
-      <last-search>parent_id</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVfc2ltaWxhcl9lbnRpdGllc1w+</last-search>
       <last-offset />
-      <last-pattern>parent_id</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVfc2ltaWxhcl9lbnRpdGllc1w+</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -443,7 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>websocket_message</entry>
         <entry>websocket_consumer</entry>
         <entry>receive</entry>
         <entry>send_reply</entry>
@@ -461,8 +466,9 @@
         <entry>tab2</entry>
         <entry>\t</entry>
         <entry>duplicate</entry>
-        <entry encoding="base64">XDxoYW5kbGVfc2ltaWxhcl9lbnRpdGllczJcPg==</entry>
         <entry>parent_id</entry>
+        <entry encoding="base64">XDxoYW5kbGVfc2ltaWxhcl9lbnRpdGllczJcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVfc2ltaWxhcl9lbnRpdGllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//system_anatomy_level_1/gc</entry>
