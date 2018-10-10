@@ -73,7 +73,6 @@
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/api/views.py" timestamp="1539068611223" />
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
         <mark key="[" line="104" column="0" />
       </file>
@@ -98,7 +97,6 @@
       <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533774401888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/models.py" timestamp="1539053328221" />
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,7 +220,7 @@
       <file name="/dummy.sql" timestamp="1539068490490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539166988401">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539211494054">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="11" />
         <mark key="^" line="4" column="11" />
@@ -234,7 +232,6 @@
       <file name="/code.py" timestamp="1536888562037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0005_update_symptoms_with_parent_id.py" timestamp="1539045551674" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/mediuschatserver/asgi.py" timestamp="1538112083554">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="10" column="38" />
