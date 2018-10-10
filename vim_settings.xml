@@ -222,11 +222,11 @@
       <file name="/dummy.sql" timestamp="1539068490490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539158097861">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="5" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539166988401">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1538705129493">
         <mark key="[" line="0" column="0" />
@@ -404,16 +404,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>415</text>
+        <text>&quot;{{ server_group }}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>415</text>
+        <text>&quot;{{ server_group }}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkaWFnbm9zaXNfc3ltcHRvbQp3aGVyZSBzeW1wdG9tX2lkPSdTXzQxNScK</text>
+        <text encoding="base64">LSBob3N0czogInt7IHNlcnZlcl9ncm91cCB9fSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW50aXR5X3RvX19zdGF0dXM9MSwK</text>
