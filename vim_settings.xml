@@ -228,6 +228,12 @@
       <file name="/dummy.sql" timestamp="1539068490490">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539584676118">
+        <mark key="[" line="134" column="36" />
+        <mark key="]" line="134" column="35" />
+        <mark key="." line="134" column="35" />
+        <mark key="^" line="134" column="35" />
+      </file>
       <file name="/Dummy.txt" timestamp="1538705129493">
         <mark key="[" line="0" column="0" />
       </file>
@@ -403,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nginx</text>
+        <text encoding="base64">ZXRjIA==</text>
       </register>
       <register name="-" type="4">
-        <text>nginx</text>
+        <text encoding="base64">ZXRjIA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
