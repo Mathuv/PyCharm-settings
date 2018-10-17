@@ -162,7 +162,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1539754926296" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1539758621081">
+        <mark key="[" line="115" column="18" />
+        <mark key="]" line="115" column="18" />
+        <mark key="." line="115" column="18" />
+        <mark key="^" line="115" column="18" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
         <mark key="[" line="149" column="69" />
@@ -421,17 +426,17 @@
       <jump line="0" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>conn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICAgICAgICAgdGVuYW50X25hbWUgPSBXZWJTb2NrZXRUZW5hbnRNYXBwZXIoKS5nZXRfdGVuYW50X25hbWUoc2VsZi5zY29wZSkKICAgICAgICAgICAgICAgIHRocmVhZGxvY2FsLnNldF90ZW5hbnRfbmFtZSh0ZW5hbnRfbmFtZSkK</text>
+        <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MzAwMCcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikK</text>
@@ -470,7 +475,7 @@ _</text>
         <text encoding="base64">d2hlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -519,13 +524,13 @@ _</text>
         <entry>%s/message.content/scope/gc</entry>
         <entry>%s/websocket_message/websocket_consumer/gc</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>Q</entry>
         <entry>q</entry>
         <entry>q!</entry>
         <entry>%s/\t/    /g</entry>
         <entry>s/conn/connection</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
