@@ -159,11 +159,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1539758621081">
-        <mark key="[" line="115" column="18" />
-        <mark key="]" line="115" column="18" />
-        <mark key="." line="115" column="18" />
-        <mark key="^" line="115" column="18" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1539760900913">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="9" />
+        <mark key="^" line="46" column="9" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
@@ -236,11 +236,11 @@
       <file name="/dummy.sql" timestamp="1539068490490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539759380185">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="67" />
-        <mark key="." line="118" column="67" />
-        <mark key="^" line="118" column="67" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539760847750">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1538705129493">
         <mark key="[" line="0" column="0" />
@@ -423,17 +423,17 @@
       <jump line="0" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>conn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdsb2NhbGhvc3Q6MzAwMCcsCg==</text>
+        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikK</text>
