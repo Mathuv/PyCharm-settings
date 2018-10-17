@@ -9,7 +9,6 @@
         <mark key="." line="147" column="26" />
         <mark key="^" line="147" column="26" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/utils.py" timestamp="1539755016470" />
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,7 +29,6 @@
         <mark key="^" line="153" column="42" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/mapper.py" timestamp="1539755067221" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backend/base.py" timestamp="1539753425916">
         <mark key="'" line="7" column="19" />
         <mark key="[" line="11" column="47" />
@@ -72,7 +70,6 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1539753470927" />
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -239,11 +236,11 @@
       <file name="/dummy.sql" timestamp="1539068490490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539650939718">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-        <mark key="^" line="29" column="9" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/deploy_tools/provision.ansible.yml" timestamp="1539759380185">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="67" />
+        <mark key="." line="118" column="67" />
+        <mark key="^" line="118" column="67" />
       </file>
       <file name="/Dummy.txt" timestamp="1538705129493">
         <mark key="[" line="0" column="0" />
@@ -475,7 +472,7 @@ _</text>
         <text encoding="base64">d2hlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -529,8 +526,8 @@ _</text>
         <entry>q!</entry>
         <entry>%s/\t/    /g</entry>
         <entry>s/conn/connection</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
