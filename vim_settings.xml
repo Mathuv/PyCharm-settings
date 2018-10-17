@@ -9,6 +9,7 @@
         <mark key="." line="147" column="26" />
         <mark key="^" line="147" column="26" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/utils.py" timestamp="1539755016470" />
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,7 +30,8 @@
         <mark key="^" line="153" column="42" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backend/base.py" timestamp="1539750246838">
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/mapper.py" timestamp="1539755067221" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backend/base.py" timestamp="1539753425916">
         <mark key="'" line="7" column="19" />
         <mark key="[" line="11" column="47" />
         <mark key="]" line="38" column="104" />
@@ -70,6 +72,7 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/db/backends/postgresql/base.py" timestamp="1539753470927" />
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,12 +117,12 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1539749243868">
-        <mark key="'" line="53" column="23" />
-        <mark key="[" line="47" column="34" />
-        <mark key="]" line="47" column="59" />
-        <mark key="." line="47" column="59" />
-        <mark key="^" line="47" column="59" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1539755926768">
+        <mark key="'" line="61" column="23" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="68" column="56" />
+        <mark key="^" line="68" column="56" />
+        <mark key="." line="68" column="56" />
       </file>
       <file name="/mediuschatserver.public.auth_user [Quro_PROD]" timestamp="1538020457925">
         <mark key="[" line="0" column="0" />
@@ -143,7 +146,10 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1539750440049">
+      <file name="/Python Console" timestamp="1539755709467">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1539755613392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539059390756">
@@ -156,6 +162,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1539754926296" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
         <mark key="[" line="149" column="69" />
@@ -264,12 +271,12 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1539750432578">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1539755705132">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="4" column="0" />
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="39" />
+        <mark key="." line="37" column="39" />
+        <mark key="^" line="37" column="53" />
       </file>
       <file name="/kb_entitytype [Postgres_Dev_Local]" timestamp="1533706126524">
         <mark key="[" line="0" column="0" />
@@ -414,57 +421,53 @@
       <jump line="0" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>_
-_
-_
-_
-_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>conn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogcmVzdGFydCBuZ2lueAogICAgICBzZXJ2aWNlOiAgbmFtZT1uZ2lueCBzdGF0ZT1yZXN0YXJ0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICAgICAgICAgdGVuYW50X25hbWUgPSBXZWJTb2NrZXRUZW5hbnRNYXBwZXIoKS5nZXRfdGVuYW50X25hbWUoc2VsZi5zY29wZSkKICAgICAgICAgICAgICAgIHRocmVhZGxvY2FsLnNldF90ZW5hbnRfbmFtZSh0ZW5hbnRfbmFtZSkK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWRsb2NhbC5zZXRfdGVuYW50X25hbWUoInF1cm8iKQo=</text>
+      </register>
+      <register name="s" type="4">
+        <text>df1.loc[df1[] != &quot;&quot;]</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWRsb2NhbCA9IGNvbm5lY3Rpb24uZ2V0X3RocmVhZGxvY2FsKCkK</text>
+      </register>
+      <register name="5" type="8">
         <text>_
 _
 _
 _
 _</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW50aXR5X3RvX19zdGF0dXM9MSwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3Qgc2VsZi5kcnlydW46CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHJlbGF0aW9uc2hpcC5lbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgPT0gJ0VSVF8yNDgnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlX3N5bXB0b21fcGFyZW50X2lkKHJlbGF0aW9uc2hpcC5lbnRpdHlfZnJvbV9pZCwgKQo=</text>
       </register>
-      <register name="s" type="4">
-        <text>df1.loc[df1[] != &quot;&quot;]</text>
-      </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>if not self.dryrun:
                         if relationship.entity_relationship_type_id == 'ERT_248':
                             update_symptom_parent_id(relationship.entity_from_id, )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">d2hlcgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBzeWNvcGcyCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">d2hlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
