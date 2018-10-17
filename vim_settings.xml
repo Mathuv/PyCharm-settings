@@ -130,12 +130,12 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1539737035805">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1539745579755">
         <mark key="'" line="0" column="7" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -143,7 +143,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1539737061880">
+      <file name="/Python Console" timestamp="1539745588656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539059390756">
@@ -414,8 +414,12 @@
       <jump line="0" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="8">
+        <text>_
+_
+_
+_
+_</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -426,37 +430,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gbmFtZTogcmVzdGFydCBuZ2lueAogICAgICBzZXJ2aWNlOiAgbmFtZT1uZ2lueCBzdGF0ZT1yZXN0YXJ0ZWQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5X3RvX19zdGF0dXM9MSwK</text>
+      <register name="1" type="8">
+        <text>_
+_
+_
+_
+_</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3Qgc2VsZi5kcnlydW46CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHJlbGF0aW9uc2hpcC5lbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgPT0gJ0VSVF8yNDgnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlX3N5bXB0b21fcGFyZW50X2lkKHJlbGF0aW9uc2hpcC5lbnRpdHlfZnJvbV9pZCwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5X3RvX19zdGF0dXM9MSwK</text>
       </register>
-      <register name="3" type="4">
-        <text>if not self.dryrun:
-                        if relationship.entity_relationship_type_id == 'ERT_248':
-                            update_symptom_parent_id(relationship.entity_from_id, )</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3Qgc2VsZi5kcnlydW46CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHJlbGF0aW9uc2hpcC5lbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgPT0gJ0VSVF8yNDgnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlX3N5bXB0b21fcGFyZW50X2lkKHJlbGF0aW9uc2hpcC5lbnRpdHlfZnJvbV9pZCwgKQo=</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">d2hlcgo=</text>
+      <register name="4" type="4">
+        <text>if not self.dryrun:
+                        if relationship.entity_relationship_type_id == 'ERT_248':
+                            update_symptom_parent_id(relationship.entity_from_id, )</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
+        <text encoding="base64">d2hlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
+        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBzeWNvcGcyCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">aW1wb3J0IHBzeWNvcGcyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcy5pby5zcWwgYXMgcHNxbAo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
