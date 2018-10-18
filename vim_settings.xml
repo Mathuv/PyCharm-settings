@@ -86,7 +86,7 @@
       <file name="/search_symptomsearchhistory [Postgres_Dev_Local]" timestamp="1533706345824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements.txt" timestamp="1538553507145">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements.txt" timestamp="1539905983944">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="27" />
         <mark key="^" line="28" column="0" />
@@ -113,13 +113,6 @@
         <mark key="]" line="20" column="46" />
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1539755926768">
-        <mark key="'" line="61" column="23" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="68" column="56" />
-        <mark key="^" line="68" column="56" />
-        <mark key="." line="68" column="56" />
       </file>
       <file name="/mediuschatserver.public.auth_user [Quro_PROD]" timestamp="1538020457925">
         <mark key="[" line="0" column="0" />
@@ -225,6 +218,12 @@
       </file>
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1539906010919">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
         <mark key="'" line="25" column="18" />
@@ -472,7 +471,7 @@ _</text>
         <text encoding="base64">d2hlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -526,8 +525,8 @@ _</text>
         <entry>q!</entry>
         <entry>%s/\t/    /g</entry>
         <entry>s/conn/connection</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
