@@ -51,6 +51,12 @@
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/dev.txt" timestamp="1540100690563">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+      </file>
       <file name="/mediuschatserver_sp_update.public.diagnosis_symptomcategory [mediuschatserver_sp_update@localhost]" timestamp="1538700195137">
         <mark key="[" line="0" column="0" />
       </file>
@@ -471,7 +477,7 @@ _</text>
         <text encoding="base64">d2hlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -525,8 +531,8 @@ _</text>
         <entry>q!</entry>
         <entry>%s/\t/    /g</entry>
         <entry>s/conn/connection</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
