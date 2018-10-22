@@ -228,6 +228,13 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/provider.py" timestamp="1540198338981">
+        <mark key="'" line="1" column="73" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1540171137107">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
@@ -329,7 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" />
       <jump line="327" column="10" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" />
       <jump line="328" column="8" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" />
       <jump line="335" column="4" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" />
@@ -429,6 +435,7 @@
       <jump line="0" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
       <jump line="27" column="33" filename="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/django/core/handlers/base.py" />
       <jump line="249" column="8" filename="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/django/core/handlers/base.py" />
+      <jump line="1" column="73" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/provider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
