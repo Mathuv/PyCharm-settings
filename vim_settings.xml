@@ -225,11 +225,11 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1539909699822">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="27" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1540171137107">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
         <mark key="'" line="25" column="18" />
@@ -428,11 +428,11 @@
       <jump line="0" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>conn</text>
