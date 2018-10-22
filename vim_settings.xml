@@ -60,7 +60,7 @@
       <file name="/mediuschatserver_sp_update.public.diagnosis_symptomcategory [mediuschatserver_sp_update@localhost]" timestamp="1538700195137">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/django/core/handlers/base.py" timestamp="1540177145938">
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/django/core/handlers/base.py" timestamp="1540177750123">
         <mark key="'" line="249" column="8" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/migrations/0016_auto_20181004_2355.py" timestamp="1538699956561">
@@ -161,11 +161,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1540176288057">
-        <mark key="[" line="81" column="29" />
-        <mark key="]" line="46" column="11" />
-        <mark key="." line="46" column="11" />
-        <mark key="^" line="46" column="11" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1540178412852">
+        <mark key="[" line="74" column="37" />
+        <mark key="]" line="80" column="28" />
+        <mark key="." line="80" column="28" />
+        <mark key="^" line="80" column="27" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
