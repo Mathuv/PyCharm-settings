@@ -48,6 +48,9 @@
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/urls.py" timestamp="1540251453235">
+        <mark key="[" line="71" column="1" />
+      </file>
       <file name="/kb_entityrelationshiptype [Postgres_Dev_Local]" timestamp="1533706150517">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,6 +91,9 @@
         <mark key="]" line="340" column="7" />
         <mark key="^" line="340" column="7" />
         <mark key="." line="340" column="7" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/urls.py" timestamp="1540251748405">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
         <mark key="[" line="104" column="0" />
@@ -228,12 +234,12 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/provider.py" timestamp="1540198338981">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/provider.py" timestamp="1540251383733">
         <mark key="'" line="1" column="73" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1540171137107">
         <mark key="[" line="3" column="14" />
@@ -320,6 +326,9 @@
         <mark key="]" line="891" column="30" />
         <mark key="^" line="891" column="30" />
         <mark key="." line="891" column="30" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540251827667">
+        <mark key="[" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
         <mark key="'" line="0" column="0" />
