@@ -339,11 +339,11 @@
         <mark key="^" line="891" column="30" />
         <mark key="." line="891" column="30" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540255372455">
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="34" column="19" />
-        <mark key="." line="34" column="19" />
-        <mark key="^" line="34" column="19" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540271912825">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
         <mark key="'" line="0" column="0" />
@@ -463,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>mobile</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>mobile</text>
       </register>
       <register name="/" type="4">
         <text>conn</text>
