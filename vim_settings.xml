@@ -142,7 +142,7 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1540254874563" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1540277307568" />
       <file name="/mediuschatserver.public.auth_user [Quro_PROD]" timestamp="1538020457925">
         <mark key="[" line="0" column="0" />
       </file>
@@ -226,7 +226,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="/Django Console" timestamp="1540253440960">
+      <file name="/Django Console" timestamp="1540275608864">
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -343,11 +343,17 @@
         <mark key="^" line="891" column="30" />
         <mark key="." line="891" column="30" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540274208297">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="35" column="36" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/utils.py" timestamp="1540277448452">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540276787703">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="78" column="43" />
+        <mark key="." line="78" column="43" />
+        <mark key="^" line="78" column="43" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
         <mark key="'" line="0" column="0" />
@@ -466,11 +472,11 @@
       <jump line="1" column="73" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/provider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>nt(content['text'])</text>
       </register>
       <register name="-" type="4">
-        <text>mobile</text>
+        <text>nt(content['text'])</text>
       </register>
       <register name="/" type="4">
         <text>conn</text>
@@ -478,41 +484,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="1" type="4">
+        <text encoding="base64">dG9kYXkgPSBkYXRlLnRvZGF5KCkKICAgIHJldHVybiB0b2RheSA9IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>elf._token = self._oauth.fetch_token(
+                    token_url=MY_HEALTH_TOKEN_URL,
+                    auth=self._auth</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWRsb2NhbC5zZXRfdGVuYW50X25hbWUoInF1cm8iKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLnJlcXVlc3QoIkdFVCIsIHVybD0sIGRhdGE9cGF5bG9hZCwgaGVhZGVycz1oZWFkZXJzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWRsb2NhbCA9IGNvbm5lY3Rpb24uZ2V0X3RocmVhZGxvY2FsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
-      <register name="6" type="8">
-        <text>_
-_
-_
-_
-_</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRocmVhZGxvY2FsID0gY29ubmVjdGlvbi5nZXRfdGhyZWFkbG9jYWwoKQogICAgICAgICMgdGhyZWFkbG9jYWwuc2V0X3RlbmFudF9uYW1lKCJxdXJvIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5X3RvX19zdGF0dXM9MSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3Qgc2VsZi5kcnlydW46CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHJlbGF0aW9uc2hpcC5lbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgPT0gJ0VSVF8yNDgnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlX3N5bXB0b21fcGFyZW50X2lkKHJlbGF0aW9uc2hpcC5lbnRpdHlfZnJvbV9pZCwgKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWRsb2NhbC5zZXRfdGVuYW50X25hbWUoInF1cm8iKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>if not self.dryrun:
-                        if relationship.entity_relationship_type_id == 'ERT_248':
-                            update_symptom_parent_id(relationship.entity_from_id, )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWRsb2NhbCA9IGNvbm5lY3Rpb24uZ2V0X3RocmVhZGxvY2FsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
