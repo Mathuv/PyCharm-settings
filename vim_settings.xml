@@ -171,7 +171,7 @@
       <file name="/fragment.py" timestamp="1539755613392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/user_views.py" timestamp="1540273433122">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/user_views.py" timestamp="1540278080977">
         <mark key="[" line="65" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539059390756">
@@ -349,11 +349,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540276787703">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="78" column="43" />
-        <mark key="." line="78" column="43" />
-        <mark key="^" line="78" column="43" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540278138803">
+        <mark key="[" line="74" column="35" />
+        <mark key="]" line="66" column="44" />
+        <mark key="." line="66" column="44" />
+        <mark key="^" line="66" column="44" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
         <mark key="'" line="0" column="0" />
