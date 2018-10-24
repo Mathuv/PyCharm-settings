@@ -25,7 +25,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1539060400951">
+      <file name="/a.dummy" timestamp="1540360366359">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1539057374610">
@@ -98,6 +98,7 @@
         <mark key="^" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0017_csv2markdown.py" timestamp="1540360574917" />
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
