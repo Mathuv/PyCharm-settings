@@ -91,11 +91,12 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/settings.py" timestamp="1540254215275">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/settings.py" timestamp="1540341631447">
+        <mark key="'" line="2" column="58" />
+        <mark key="[" line="3" column="73" />
+        <mark key="]" line="3" column="73" />
+        <mark key="^" line="3" column="73" />
+        <mark key="." line="3" column="73" />
       </file>
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
@@ -107,7 +108,7 @@
         <mark key="^" line="340" column="7" />
         <mark key="." line="340" column="7" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/urls.py" timestamp="1540339533368">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/urls.py" timestamp="1540341065456">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
@@ -191,11 +192,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1540274470004">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1540341397709">
         <mark key="[" line="74" column="37" />
-        <mark key="]" line="80" column="13" />
-        <mark key="." line="80" column="13" />
-        <mark key="^" line="80" column="13" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="29" />
+        <mark key="^" line="39" column="29" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1536045572584">
         <mark key="'" line="595" column="76" />
@@ -356,11 +357,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540338593228">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540341286047">
         <mark key="'" line="96" column="0" />
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="80" column="19" />
+        <mark key="." line="80" column="19" />
         <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
@@ -378,9 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="32" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" />
-      <jump line="59" column="2" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="61" column="30" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="62" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="180" column="59" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="181" column="41" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -478,19 +476,22 @@
       <jump line="110" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" />
       <jump line="96" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" />
+      <jump line="0" column="19" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/settings.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/settings.py" />
+      <jump line="2" column="58" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urlpattners</text>
+        <text>MY_HEALTH_USER_PROFILE_URL</text>
       </register>
       <register name="-" type="4">
-        <text>urlpattners</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>conn</text>
+        <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
+      <register name="0" type="4">
+        <text>MY_HEALTH_USER_PROFILE_URL</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -527,17 +528,16 @@
       </register>
     </registers>
     <search>
-      <last-search>conn</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>conn</last-pattern>
-      <last-replace>connection</last-replace>
-      <last-substitute>conn</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fail</entry>
         <entry>DATABASES</entry>
         <entry>raise</entry>
         <entry>.exception</entry>
@@ -557,10 +557,9 @@
         <entry>print</entry>
         <entry>\t</entry>
         <entry>conn</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0FuYXRvbXkgTGV2ZWwgMS9hbmF0b215X2xldmVsL2dj</entry>
-        <entry encoding="base64">JzwsJz5zLyJBbmF0b215IExldmVsIDEiL2FuYXRvbXlfbGV2ZWwvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL2FuYXRvbXlfbGV2ZWwvYW5hdG9teV9sZXZlbF9jbHVtbi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL2FuYXRvbXlfbGV2ZWxfY2x1bW4vYW5hdG9teV9sZXZlbF9jb2x1bW4vZ2M=</entry>
         <entry>set ic</entry>
@@ -574,10 +573,12 @@
         <entry>e</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>q!</entry>
         <entry>%s/\t/    /g</entry>
         <entry>s/conn/connection</entry>
         <entry>wq</entry>
+        <entry>q!</entry>
+        <entry>%s/'/&quot;</entry>
+        <entry>%s/'/&quot;/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
