@@ -25,7 +25,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1540360366359">
+      <file name="/a.dummy" timestamp="1540524886323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1539057374610">
@@ -98,7 +98,6 @@
         <mark key="^" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0017_csv2markdown.py" timestamp="1540360574917" />
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,7 +115,6 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/apps.py" timestamp="1540274488909" />
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
         <mark key="[" line="104" column="0" />
       </file>
@@ -129,7 +127,6 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/urls.py" timestamp="1540339529749" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/inventory.ansible" timestamp="1537911513187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
@@ -152,7 +149,6 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1540277307568" />
       <file name="/mediuschatserver.public.auth_user [Quro_PROD]" timestamp="1538020457925">
         <mark key="[" line="0" column="0" />
       </file>
