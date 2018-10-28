@@ -54,6 +54,7 @@
       <file name="/diagnosis_symptom [Postgres_Dev_Local]" timestamp="1533706052238">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Mathu/elm/toptal1/hello_world.elm" timestamp="1540733569373" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/urls.py" timestamp="1540339548673">
         <mark key="[" line="75" column="32" />
         <mark key="]" line="72" column="0" />
@@ -132,6 +133,11 @@
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/Devel/Mathu/elm/toptal1/src/Main.elm" timestamp="1540734048396">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1534996634534">
         <mark key="[" line="0" column="0" />
@@ -480,10 +486,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>Html</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>Html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPbmJvYXJkTXlIZWFsdGhVc2VyXD4=</text>
@@ -492,22 +498,22 @@
         <text>MY_HEALTH_CLIENT_SECRET</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAneW91cl9jbGllbnRfc2VjcmV0Jwo=</text>
+        <text encoding="base64">aW1wb3J0IEhUTUwgZXhwb3NpbmcgKC4uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICd5b3VyX2NsaWVuCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAneW91cl9jbGllbnRfc2VjcmV0Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICd5b3VyX2NsaWVuCg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
