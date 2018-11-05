@@ -95,7 +95,6 @@
         <mark key="^" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1540776016980" />
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,7 +144,6 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/models.py" timestamp="1540953743955" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1538548648995">
         <mark key="'" line="745" column="0" />
         <mark key="[" line="20" column="0" />
@@ -153,6 +151,7 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541403870351" />
       <file name="/mediuschatserver.public.auth_user [Quro_PROD]" timestamp="1538020457925">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,7 +171,6 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1540789007865" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
@@ -258,7 +256,6 @@
         <mark key="." line="1415" column="90" />
         <mark key="^" line="1415" column="90" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/kb/management/commands/0006_import_all_relationships.py" timestamp="1540879057754" />
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
