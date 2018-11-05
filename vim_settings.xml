@@ -169,12 +169,12 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1540964834195">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-        <mark key="." line="28" column="36" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1541460223281">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -182,7 +182,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541404614617">
+      <file name="/Python Console" timestamp="1541460494652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1539755613392">
@@ -387,7 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="65" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="183" column="57" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="184" column="69" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="185" column="67" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -473,7 +472,6 @@
       <jump line="58" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="60" column="20" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="61" column="35" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
       <jump line="27" column="33" filename="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/django/core/handlers/base.py" />
       <jump line="249" column="8" filename="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/django/core/handlers/base.py" />
       <jump line="1" column="73" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/provider.py" />
@@ -487,16 +485,18 @@
       <jump line="16" column="6" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" />
       <jump line="30" column="14" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" />
       <jump line="4" column="11" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/urls.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Html</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>Html</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPbmJvYXJkTXlIZWFsdGhVc2VyXD4=</text>
+        <text>^_</text>
       </register>
       <register name="0" type="4">
         <text>MY_HEALTH_CLIENT_SECRET</text>
@@ -536,18 +536,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPbmJvYXJkTXlIZWFsdGhVc2VyXD4=</last-search>
+      <last-search>^_</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPbmJvYXJkTXlIZWFsdGhVc2VyXD4=</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>^_</last-pattern>
+      <last-replace>#</last-replace>
+      <last-substitute>^_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>raise</entry>
-        <entry>.exception</entry>
         <entry>except</entry>
         <entry>category</entry>
         <entry>tab2</entry>
@@ -566,10 +564,10 @@
         <entry>conn</entry>
         <entry>'</entry>
         <entry encoding="base64">XDxPbmJvYXJkTXlIZWFsdGhVc2VyXD4=</entry>
+        <entry>_</entry>
+        <entry>^_</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FuYXRvbXlfbGV2ZWwvYW5hdG9teV9sZXZlbF9jbHVtbi9nYw==</entry>
-        <entry encoding="base64">JzwsJz5zL2FuYXRvbXlfbGV2ZWxfY2x1bW4vYW5hdG9teV9sZXZlbF9jb2x1bW4vZ2M=</entry>
         <entry>set ic</entry>
         <entry>set noic</entry>
         <entry>set scs</entry>
@@ -587,6 +585,8 @@
         <entry>q!</entry>
         <entry>%s/'/&quot;</entry>
         <entry>%s/'/&quot;/gc</entry>
+        <entry>%s/_/#/gc</entry>
+        <entry>%s/^_/#/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
