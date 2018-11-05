@@ -151,7 +151,12 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541403870351" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541404512171">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="42" column="19" />
+        <mark key="." line="45" column="20" />
+      </file>
       <file name="/mediuschatserver.public.auth_user [Quro_PROD]" timestamp="1538020457925">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,7 +179,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540343052183">
+      <file name="/Python Console" timestamp="1541404614617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1539755613392">
@@ -194,7 +199,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1540341397709">
-        <mark key="[" line="74" column="37" />
         <mark key="]" line="39" column="29" />
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
