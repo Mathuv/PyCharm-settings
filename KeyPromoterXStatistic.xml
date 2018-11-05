@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>37</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -566,6 +566,14 @@
           <IdeaActionID>Django.RunManageTaskAction</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run manage.py Task...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Safe Delete...">
+        <Item>
+          <IdeaActionID>SafeDelete</IdeaActionID>
+          <ShortCut>'⌘⌦'</ShortCut>
+          <Description>Safe Delete...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
