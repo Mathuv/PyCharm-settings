@@ -142,6 +142,12 @@
       <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533774401888">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Mathu/elm/elm-architecture-tutorial/examples/button2.elm" timestamp="1541579486041">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="30" column="8" />
+      </file>
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
@@ -490,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>^_</text>
