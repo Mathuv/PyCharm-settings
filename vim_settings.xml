@@ -227,8 +227,11 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="69" />
       </file>
-      <file name="$USER_HOME$/Devel/Mathu/elm/experiment/src/Experiment.elm" timestamp="1541698749345">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Devel/Mathu/elm/experiment/src/Experiment.elm" timestamp="1541700845058">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="50" />
+        <mark key="." line="49" column="50" />
+        <mark key="^" line="49" column="50" />
       </file>
       <file name="/a.sql" timestamp="1538020563493">
         <mark key="[" line="0" column="0" />
@@ -492,11 +495,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYgcG93ZXJMZXZlbCA+IDkwMCB0aGVuICJPVkVSIDkwMDAhISEiIGVsc2UgIm1laCI=</text>
       </register>
       <register name="-" type="4">
-        <text>dev-be</text>
+        <text encoding="base64">aWYgcG93ZXJMZXZlbCA+IDkwMCB0aGVuICJPVkVSIDkwMDAhISEiIGVsc2UgIm1laCI=</text>
       </register>
       <register name="/" type="4">
         <text>^_</text>
@@ -504,35 +507,38 @@
       <register name="0" type="4">
         <text>MY_HEALTH_CLIENT_SECRET</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+      <register name="1" type="4">
+        <text>True : Bool
+False : Bool
+
+42 : number</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd0ZXN0LWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdxdXJvLmRldi1iZS5tZWRpdXNoZWFsdGgub3JnJywK</text>
+        <text encoding="base64">ICAgICd0ZXN0LWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdtZWRpdXNoZWFsdGgucHl0aG9uYW55d2hlcmUuY29tJywK</text>
+        <text encoding="base64">ICAgICdxdXJvLmRldi1iZS5tZWRpdXNoZWFsdGgub3JnJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdtYXRodS5weXRob25hbnl3aGVyZS5jb20nLAo=</text>
+        <text encoding="base64">ICAgICdtZWRpdXNoZWFsdGgucHl0aG9uYW55d2hlcmUuY29tJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEhUTUwgZXhwb3NpbmcgKC4uKQo=</text>
+        <text encoding="base64">ICAgICdtYXRodS5weXRob25hbnl3aGVyZS5jb20nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAneW91cl9jbGllbnRfc2VjcmV0Jwo=</text>
+        <text encoding="base64">aW1wb3J0IEhUTUwgZXhwb3NpbmcgKC4uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICd5b3VyX2NsaWVuCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAneW91cl9jbGllbnRfc2VjcmV0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
