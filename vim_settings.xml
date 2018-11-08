@@ -172,12 +172,12 @@
         <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1541659419316" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1541460223281">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1541661400338">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -186,7 +186,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541659670855">
+      <file name="/Python Console" timestamp="1541661405805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1541461729151">
