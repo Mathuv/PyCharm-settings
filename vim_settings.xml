@@ -158,11 +158,6 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541461918300">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-      </file>
       <file name="$USER_HOME$/Devel/Mathu/elm/elm-official-tutorial/src/Main.elm" timestamp="1541455749112">
         <mark key="[" line="0" column="0" />
       </file>
@@ -208,10 +203,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1540341397709">
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-        <mark key="^" line="39" column="29" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1541647820606">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="4" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1540788909564">
         <mark key="'" line="595" column="76" />
@@ -280,11 +276,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1540171137107">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1541647672717">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
         <mark key="'" line="25" column="18" />
@@ -496,11 +492,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>dev-be</text>
       </register>
       <register name="/" type="4">
         <text>^_</text>
@@ -509,37 +505,37 @@
         <text>MY_HEALTH_CLIENT_SECRET</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEhUTUwgZXhwb3NpbmcgKC4uKQo=</text>
+        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAneW91cl9jbGllbnRfc2VjcmV0Jwo=</text>
+        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICd5b3VyX2NsaWVuCg==</text>
+        <text encoding="base64">ICAgICd0ZXN0LWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdxdXJvLmRldi1iZS5tZWRpdXNoZWFsdGgub3JnJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdtZWRpdXNoZWFsdGgucHl0aG9uYW55d2hlcmUuY29tJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdtYXRodS5weXRob25hbnl3aGVyZS5jb20nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEhUTUwgZXhwb3NpbmcgKC4uKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAneW91cl9jbGllbnRfc2VjcmV0Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICd5b3VyX2NsaWVuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -588,13 +584,13 @@
         <entry>q</entry>
         <entry>%s/\t/    /g</entry>
         <entry>s/conn/connection</entry>
-        <entry>wq</entry>
         <entry>q!</entry>
         <entry>%s/'/&quot;</entry>
         <entry>%s/'/&quot;/gc</entry>
         <entry>%s/_/#/gc</entry>
         <entry>%s/^_/#/gc</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
