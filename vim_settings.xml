@@ -171,7 +171,7 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1541657220087" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1541659419316" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1541460223281">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="0" />
@@ -186,7 +186,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541460494652">
+      <file name="/Python Console" timestamp="1541659670855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1541461729151">
@@ -532,7 +532,7 @@
         <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICd5b3VyX2NsaWVuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -586,8 +586,8 @@
         <entry>%s/'/&quot;/gc</entry>
         <entry>%s/_/#/gc</entry>
         <entry>%s/^_/#/gc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
