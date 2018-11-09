@@ -142,7 +142,8 @@
       <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533774401888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/cache/helper.py" timestamp="1541653490961" />
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/cache/helper.py" timestamp="1541724774221" />
+      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/threadlocal.py" timestamp="1541724849656" />
       <file name="$USER_HOME$/Devel/Mathu/elm/elm-architecture-tutorial/examples/button2.elm" timestamp="1541649557916">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="28" column="10" />
@@ -158,6 +159,9 @@
         <mark key="]" line="20" column="46" />
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541724880699">
+        <mark key="[" line="47" column="56" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/elm/elm-official-tutorial/src/Main.elm" timestamp="1541455749112">
         <mark key="[" line="0" column="0" />
@@ -186,10 +190,10 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541661405805">
+      <file name="/Python Console" timestamp="1541724234861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1541461729151">
+      <file name="/fragment.py" timestamp="1541724724423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/user_views.py" timestamp="1540278080977">
@@ -332,7 +336,7 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1541653639036">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1541725133148">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="37" column="39" />
         <mark key="]" line="37" column="39" />
