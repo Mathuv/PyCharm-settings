@@ -160,10 +160,8 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541725991226">
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="8" />
-        <mark key="." line="74" column="8" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541733146153">
+        <mark key="[" line="42" column="68" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/elm/elm-official-tutorial/src/Main.elm" timestamp="1541455749112">
         <mark key="[" line="0" column="0" />
@@ -192,7 +190,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541726270440">
+      <file name="/Python Console" timestamp="1541733052974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1541724724423">
