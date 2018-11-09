@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -494,7 +494,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'medius_chatserver'</Description>
-          <Count>48</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'medius_chatserver_34'">
@@ -526,7 +526,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1464</Count>
+          <Count>1468</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -622,7 +622,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2115</Count>
+          <Count>2117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet'">
@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'medius_chatserver'</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'medius_chatserver_34'">
@@ -774,7 +774,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>428</Count>
+          <Count>429</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -790,7 +790,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>251</Count>
+          <Count>258</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

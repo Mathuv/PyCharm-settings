@@ -160,8 +160,10 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541724880699">
-        <mark key="[" line="47" column="56" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541725991226">
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="74" column="8" />
+        <mark key="." line="74" column="8" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/elm/elm-official-tutorial/src/Main.elm" timestamp="1541455749112">
         <mark key="[" line="0" column="0" />
@@ -190,7 +192,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541724234861">
+      <file name="/Python Console" timestamp="1541726270440">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1541724724423">
@@ -336,11 +338,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1541725133148">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1541725931024">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="39" />
-        <mark key="." line="37" column="39" />
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="36" />
+        <mark key="." line="54" column="36" />
         <mark key="^" line="37" column="53" />
       </file>
       <file name="/kb_entitytype [Postgres_Dev_Local]" timestamp="1533706126524">
@@ -500,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgcG93ZXJMZXZlbCA+IDkwMCB0aGVuICJPVkVSIDkwMDAhISEiIGVsc2UgIm1laCI=</text>
+        <text>threadlocal.set_set_cache_prefix(tenant_name)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYgcG93ZXJMZXZlbCA+IDkwMCB0aGVuICJPVkVSIDkwMDAhISEiIGVsc2UgIm1laCI=</text>
+        <text>threadlocal.set_set_cache_prefix(tenant_name)</text>
       </register>
       <register name="/" type="4">
         <text>^_</text>
