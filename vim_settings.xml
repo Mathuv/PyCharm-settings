@@ -88,12 +88,12 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/settings.py" timestamp="1540342584210">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/settings.py" timestamp="1541977746023">
         <mark key="'" line="2" column="58" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="70" />
-        <mark key="." line="5" column="70" />
+        <mark key="[" line="3" column="61" />
+        <mark key="]" line="3" column="104" />
+        <mark key="^" line="3" column="104" />
+        <mark key="." line="3" column="104" />
       </file>
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
@@ -373,12 +373,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1541929766670">
-        <mark key="'" line="36" column="14" />
-        <mark key="[" line="118" column="6" />
-        <mark key="]" line="118" column="6" />
-        <mark key="." line="118" column="6" />
-        <mark key="^" line="95" column="15" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1541977803318">
+        <mark key="'" line="37" column="14" />
+        <mark key="[" line="156" column="22" />
+        <mark key="]" line="159" column="38" />
+        <mark key="." line="159" column="38" />
+        <mark key="^" line="159" column="38" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
         <mark key="'" line="0" column="0" />
@@ -497,50 +497,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MyHealthUserOnboard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MyHealthUserOnboard</text>
+        <text>https://api-uat.medinet.net.au/oauth2/token</text>
       </register>
       <register name="/" type="4">
         <text>^_</text>
       </register>
-      <register name="0" type="4">
-        <text>MY_HEALTH_CLIENT_SECRET</text>
+      <register name="0" type="2">
+        <text encoding="base64">TVlfSEVBTFRIX1RPS0VOX1VSTCA9IG9zLmVudmlyb24uZ2V0KCJNWV9IRUFMVEhfVE9LRU5fVVJMIiwgImh0dHBzOi8vYXBpLXVhdC5tZWRpbmV0Lm5ldC5hdS9vYXV0aDIvdG9rZW4iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAKCgogICAgIyBkZWYgY2hlY2tfYWNjb3VudF9leGlzdHMoc2VsZiwgZW1haWw9Tm9uZSwgbW9iaWxlPU5vbmUpOgogICAgIyAgICAgaWYgZW1haWw6</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>True : Bool
-False : Bool
-
-42 : number</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICd0ZXN0LWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAKCgogICAgIyBkZWYgY2hlY2tfYWNjb3VudF9leGlzdHMoc2VsZiwgZW1haWw9Tm9uZSwgbW9iaWxlPU5vbmUpOgogICAgIyAgICAgaWYgZW1haWw6</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICdxdXJvLmRldi1iZS5tZWRpdXNoZWFsdGgub3JnJywK</text>
+      <register name="6" type="4">
+        <text>True : Bool
+False : Bool
+
+42 : number</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdtZWRpdXNoZWFsdGgucHl0aG9uYW55d2hlcmUuY29tJywK</text>
+        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdtYXRodS5weXRob25hbnl3aGVyZS5jb20nLAo=</text>
+        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEhUTUwgZXhwb3NpbmcgKC4uKQo=</text>
+        <text encoding="base64">ICAgICd0ZXN0LWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
