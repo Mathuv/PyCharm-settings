@@ -182,7 +182,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1541914548002" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1541924039768" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,7 +192,7 @@
       <file name="/fragment.py" timestamp="1541724724423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/user_views.py" timestamp="1540278080977">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/user_views.py" timestamp="1541924713372">
         <mark key="[" line="65" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539059390756">
@@ -365,12 +365,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1541912553927">
-        <mark key="'" line="30" column="14" />
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="22" column="48" />
-        <mark key="^" line="22" column="48" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1541924427748">
+        <mark key="'" line="36" column="14" />
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="92" column="15" />
+        <mark key="." line="92" column="15" />
+        <mark key="^" line="92" column="15" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
         <mark key="'" line="0" column="0" />
