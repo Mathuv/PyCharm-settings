@@ -130,6 +130,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.elm" timestamp="1541969703703">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/Devel/Mathu/elm/toptal1/src/Main.elm" timestamp="1540734048396">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="7" />
@@ -182,8 +188,10 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1541924039768" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1541969661436">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1541912322398">
