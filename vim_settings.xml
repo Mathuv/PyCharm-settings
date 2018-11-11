@@ -182,6 +182,7 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0001_activate_deactivate_diseases.py" timestamp="1541914548002" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
