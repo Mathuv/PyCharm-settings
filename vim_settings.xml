@@ -48,7 +48,6 @@
       <file name="/mediuschatserver.public.diagnosis_symptom [Quro_DEV]" timestamp="1539056156664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Mathu/elm/elm-architecture-tutorial/examples/02-field.elm" timestamp="1541556272670" />
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,8 +141,6 @@
       <file name="/diagnosis_disease [Postgres_Dev_Local]" timestamp="1533774401888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/cache/helper.py" timestamp="1541724774221" />
-      <file name="$USER_HOME$/.virtualenvs/medius_chatserver-RnnxSxtJ/lib/python3.6/site-packages/db_multitenant/threadlocal.py" timestamp="1541724849656" />
       <file name="$USER_HOME$/Devel/Mathu/elm/elm-architecture-tutorial/examples/button2.elm" timestamp="1541649557916">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="28" column="10" />
@@ -175,8 +172,7 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0010_update_disease_dictionary_info_from_google_spreadsheet.py" timestamp="1541659419316" />
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1541661400338">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1541913270523">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="16" />
@@ -186,11 +182,10 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
       </file>
-      <file name="$USER_HOME$/Devel/Mathu/elm/tomatotmr.com/src/Main.elm" timestamp="1541587343308" />
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yml" timestamp="1537911206601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541733052974">
+      <file name="/Python Console" timestamp="1541912322398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1541724724423">
@@ -369,7 +364,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1540343054981">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1541912553927">
         <mark key="'" line="30" column="14" />
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="48" />
