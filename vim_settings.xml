@@ -283,12 +283,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542060372841">
-        <mark key="'" line="11" column="7" />
-        <mark key="[" line="24" column="56" />
-        <mark key="]" line="24" column="56" />
-        <mark key="^" line="24" column="56" />
-        <mark key="." line="24" column="56" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542061850571">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="35" />
+        <mark key="^" line="32" column="35" />
+        <mark key="." line="32" column="35" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1541647672717">
         <mark key="[" line="25" column="12" />
@@ -403,7 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="67" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="186" column="75" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="187" column="53" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="188" column="70" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -503,19 +502,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
       <jump line="11" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
       <jump line="565" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" />
+      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'E_0000341384'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YW5kIGVudGl0eV9yZWxhdGlvbnNoaXBfdHlwZV9pZCBpbiAoJ0VSVF8yOTUnLCAnRVJUXzI5NycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>serializer.data['email']}</text>
+        <text>E_0000341384</text>
       </register>
       <register name="/" type="4">
         <text>undo</text>
       </register>
-      <register name="0" type="4">
-        <text>'E_0000341384'</text>
+      <register name="0" type="2">
+        <text encoding="base64">YW5kIGVudGl0eV9yZWxhdGlvbnNoaXBfdHlwZV9pZCBpbiAoJ0VSVF8yOTUnLCAnRVJUXzI5NycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
