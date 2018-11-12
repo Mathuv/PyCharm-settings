@@ -200,7 +200,7 @@
       <file name="/fragment.py" timestamp="1541724724423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/user_views.py" timestamp="1541924713372">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/user_views.py" timestamp="1541983519327">
         <mark key="[" line="65" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539059390756">
@@ -373,11 +373,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1541981042962">
-        <mark key="'" line="38" column="14" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/views.py" timestamp="1541983438960">
+        <mark key="'" line="40" column="14" />
+        <mark key="[" line="195" column="60" />
+        <mark key="]" line="195" column="60" />
+        <mark key="." line="195" column="60" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
         <mark key="'" line="0" column="0" />
@@ -496,11 +496,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>serializer.data['email']}</text>
       </register>
       <register name="-" type="4">
-        <text>re_ex</text>
+        <text>serializer.data['email']}</text>
       </register>
       <register name="/" type="4">
         <text>^_</text>
@@ -512,16 +512,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text># obtain access token from authorization server
+                self._token = self._oauth.fetch_token(
+                    token_url=MY_HEALTH_TOKEN_URL,
+                    auth=self._auth
+                )</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -529,17 +533,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAKCgogICAgIyBkZWYgY2hlY2tfYWNjb3VudF9leGlzdHMoc2VsZiwgZW1haWw9Tm9uZSwgbW9iaWxlPU5vbmUpOgogICAgIyAgICAgaWYgZW1haWw6</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>True : Bool
-False : Bool
-
-42 : number</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
