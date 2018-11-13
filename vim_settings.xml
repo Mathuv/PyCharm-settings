@@ -285,12 +285,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542113816076">
-        <mark key="'" line="74" column="40" />
-        <mark key="[" line="86" column="45" />
-        <mark key="]" line="88" column="28" />
-        <mark key="^" line="88" column="28" />
-        <mark key="." line="88" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542115841185">
+        <mark key="'" line="76" column="40" />
+        <mark key="[" line="108" column="116" />
+        <mark key="]" line="108" column="116" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="108" column="116" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
         <mark key="'" line="25" column="18" />
@@ -502,10 +502,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INNER</text>
+        <text>AND
+              (CASE WHEN ke.key_id = 'A_5'
+                         THEN ke.value IS NOT NULL
+                  END)</text>
       </register>
       <register name="-" type="4">
-        <text>INNER</text>
+        <text>select *</text>
       </register>
       <register name="/" type="4">
         <text>undo</text>
@@ -513,36 +516,41 @@
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKd2hlcmUgKGVudGl0eV9mcm9tX2lkIGluICgnRV8wMDAwMTU3MDc1JykKICAgIG9yIGVudGl0eV90b19pZCBpbiAoJ0VfMDAwMDE1NzA3NScpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZCBlbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgaW4gKCdFUlRfMjk1JywgJ0VSVF8yOTcnKTsK</text>
+      <register name="1" type="4">
+        <text>AND
+              (CASE WHEN ke.key_id = 'A_5'
+                         THEN ke.value IS NOT NULL
+                  END)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>(CASE WHEN ke.key_id = 'A_5'
+                         THEN ke.value IS NOT NULL
+                  END)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGFuZCBlbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgaW4gKCdFUlRfMjk1JywgJ0VSVF8yOTcnKTsK</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text># obtain access token from authorization server
                 self._token = self._oauth.fetch_token(
                     token_url=MY_HEALTH_TOKEN_URL,
                     auth=self._auth
                 )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
