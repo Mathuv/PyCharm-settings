@@ -153,8 +153,11 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1541733146153">
-        <mark key="[" line="42" column="68" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1542093639890">
+        <mark key="[" line="253" column="20" />
+        <mark key="]" line="254" column="19" />
+        <mark key="." line="254" column="19" />
+        <mark key="^" line="254" column="19" />
       </file>
       <file name="$USER_HOME$/Devel/Mathu/elm/elm-official-tutorial/src/Main.elm" timestamp="1541455749112">
         <mark key="[" line="0" column="0" />
@@ -288,12 +291,6 @@
         <mark key="]" line="64" column="40" />
         <mark key="^" line="52" column="40" />
         <mark key="." line="64" column="40" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1542088882446">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="12" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
         <mark key="'" line="25" column="18" />
@@ -505,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test-be</text>
+        <text>except transitions.core.MachineError as ex:</text>
       </register>
       <register name="-" type="4">
-        <text>test-be</text>
+        <text>except transitions.core.MachineError as ex:</text>
       </register>
       <register name="/" type="4">
         <text>undo</text>
