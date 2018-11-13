@@ -285,12 +285,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542095981452">
-        <mark key="'" line="54" column="7" />
-        <mark key="[" line="66" column="19" />
-        <mark key="]" line="66" column="24" />
-        <mark key="^" line="66" column="24" />
-        <mark key="." line="66" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542106510540">
+        <mark key="'" line="74" column="40" />
+        <mark key="[" line="86" column="45" />
+        <mark key="]" line="88" column="28" />
+        <mark key="^" line="88" column="28" />
+        <mark key="." line="88" column="28" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
         <mark key="'" line="25" column="18" />
@@ -399,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="48" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="190" column="51" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="191" column="46" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="195" column="35" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -499,19 +498,20 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f22b0263-9b29-4a1e-b40d-d2f577056caf/console.sql" />
       <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
       <jump line="54" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
+      <jump line="74" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>quro</text>
+        <text>INNER</text>
       </register>
       <register name="-" type="4">
-        <text>quro</text>
+        <text>INNER</text>
       </register>
       <register name="/" type="4">
         <text>undo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKd2hlcmUgKGVudGl0eV9mcm9tX2lkIGluICgnRV8wMDAwMzQxMzY1JykKICAgICAgICAgICBvciBlbnRpdHlfdG9faWQgaW4gKCdFXzAwMDAzNDEzNjUnKSkKICAgIGFuZCBlbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgaW4gKCdFUlRfMjkyJywnRVJUXzI5NScsICdFUlRfMjk3JywnRVJUXzMwMycpOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAKd2hlcmUgKGVudGl0eV9mcm9tX2lkIGluICgnRV8wMDAwMTU3MDc1JykKICAgIG9yIGVudGl0eV90b19pZCBpbiAoJ0VfMDAwMDE1NzA3NScpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFuZCBlbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQgaW4gKCdFUlRfMjk1JywgJ0VSVF8yOTcnKTsK</text>
