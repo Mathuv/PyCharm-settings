@@ -203,6 +203,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1542088913677">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="5" />
+        <mark key="." line="43" column="5" />
+      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1540788909564">
         <mark key="'" line="595" column="76" />
         <mark key="[" line="149" column="69" />
@@ -281,8 +286,11 @@
         <mark key="^" line="52" column="40" />
         <mark key="." line="64" column="40" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1541647672717">
-        <mark key="^" line="4" column="14" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/requirements/common.txt" timestamp="1542088882446">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
         <mark key="'" line="25" column="18" />
@@ -494,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">J0VSVF8yOTInLCdFUlRfMjk1Jywg</text>
+        <text>test-be</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J0VSVF8yOTInLCdFUlRfMjk1Jywg</text>
+        <text>test-be</text>
       </register>
       <register name="/" type="4">
         <text>undo</text>
@@ -540,7 +548,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -594,8 +602,8 @@
         <entry>%s/'/&quot;/gc</entry>
         <entry>%s/_/#/gc</entry>
         <entry>%s/^_/#/gc</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
