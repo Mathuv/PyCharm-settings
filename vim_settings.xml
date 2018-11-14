@@ -186,7 +186,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1541969661436">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541912322398">
+      <file name="/Python Console" timestamp="1542153486105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1541724724423">
@@ -205,10 +205,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1542088913677">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="5" />
-        <mark key="." line="43" column="5" />
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/mediuschatserver/settings.py" timestamp="1542154062777">
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
+        <mark key="^" line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1540788909564">
         <mark key="'" line="595" column="76" />
@@ -267,7 +268,7 @@
       <file name="/django_session [Postgres_Dev_Local]" timestamp="1536816811240">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542153370692">
+      <file name="/JavaScript Console" timestamp="1542153438309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1539060055607">
@@ -503,11 +504,11 @@
       <jump line="563" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-be</text>
       </register>
       <register name="-" type="4">
-        <text>top_3_ranking</text>
+        <text>-be</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -516,37 +517,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjU2hvdWxkIGhhdmUgYWxsIGRpc2Vhc2VzCg==</text>
+        <text encoding="base64">ICAgICd0ZXN0LWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjU2hvdWxkIGhhdmUgYWxsIGRpc2Vhc2VzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNJbnNlcnQgdG9wXzNfcmFua2luZyBpbiByYW5rX2xpc3QKICAgICMgdG9wXzNfcmFua2luZ19sZW5ndGggPSBsZW4odG9wXzNfcmFua2luZykKICAgICMgaWYgdG9wXzNfcmFua2luZ19sZW5ndGggPCAzOgogICAgIyAgICAgZm9yIGkgaW4gcmFuZ2UodG9wXzNfcmFua2luZ19sZW5ndGgpOgogICAgIyAgICAgICAgIHJhbmtfbGlzdFtpXSA9IHRvcF8zX3JhbmtpbmdbaV0KICAgICMgZWxzZToKICAgICMgICAgIHJhbmtfbGlzdFswXSA9IHRvcF8zX3JhbmtpbmdbMF0KICAgICMgICAgIHJhbmtfbGlzdFsxXSA9IHRvcF8zX3JhbmtpbmdbMV0KICAgICMgICAgIHJhbmtfbGlzdFsyXSA9IHRvcF8zX3JhbmtpbmdbMl0KCiAgICBmb3IgaiBpbiByYW5nZShsZW4odG9wXzNfcmFua2luZykpOgogICAgICAgIHJhbmtfbGlzdFtpXSA9IHRvcF8zX3Jhbmtpbmdbal0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -600,8 +601,8 @@
         <entry>%s/'/&quot;/gc</entry>
         <entry>%s/_/#/gc</entry>
         <entry>%s/^_/#/gc</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
