@@ -18,7 +18,7 @@
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1542169681772">
+      <file name="/a.dummy" timestamp="1542185441976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
@@ -26,6 +26,11 @@
       </file>
       <file name="/mediuschatserver.public.diagnosis_symptom [Quro_DEV]" timestamp="1539056156664">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0011_update_age_gender_for_disease_from_g_spreadsheet.py" timestamp="1542185480402">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
       </file>
       <file name="/kb_entityrelationshipattribute [Postgres_Dev_Local]" timestamp="1533706236302">
         <mark key="[" line="0" column="0" />
@@ -386,11 +391,11 @@
       <jump line="972" column="53" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3FsX2tiX2VudGl0eXJlbGF0aW9uc2hpcCA9ICIiIgpTRUxFQ1QgZmlsdGVyZWRfZXIubWVkaXVzX2lkLAogICAgICAgZmlsdGVyZWRfZXIuZW50aXR5X2Zyb21faWQsCiAgICAgICBmaWx0ZXJlZF9lci5lbnRpdHlfdG9faWQsCiAgICAgICBmaWx0ZXJlZF9lci5lbnRpdHlfcmVsYXRpb25zaGlwX3R5cGVfaWQsCiAgICAgICBmaWx0ZXJlZF9lci5wcmVkaWN0b3JfY2F0ZWdvcnksCiAgICAgICBtYXgoQ0FTRSBXSEVOIGVyYS5rZXlfaWQgPSAnQV85JwogICAgICAgICAgICAgICAgICAgICBUSEVOIGVyYS52YWx1ZQogICAgICAgICAgICAgICBFTkQpIEFTIGNvbmZpcm1hdGlvbl9xdWVzdGlvbgpGUk9NCiAgICAtLSBCRUdJTiBGaWx0ZXIgcmVsYXRpb25zaGlwL3ByZWRpY3Rvcl9jYXRlZ29yeSBub3QgbnVsbAogICAgIChTRUxFQ1QgZXIuKiwKICAgICAgICAgICAgIGtlLnZhbHVlIEFTIHByZWRpY3Rvcl9jYXRlZ29yeQoKICAgICAgRlJPTSBrYl9lbnRpdHlyZWxhdGlvbnNoaXAgZXIKICAgICAgICAgICAgIElOTkVSIEpPSU4ga2JfZW50aXR5cmVsYXRpb25zaGlwYXR0cmlidXRlIGtlIE9OIGVyLm1lZGl1c19pZCA9IGtlLmVudGl0eV9yZWxhdGlvbnNoaXBfaWQKICAgICAgV0hFUkUgZXIuZW50aXR5X3JlbGF0aW9uc2hpcF90eXBlX2lkIElOCiAgICAgICAgICAgICgnRVJUXzI5MicsICdFUlRfMjkzJywgJ0VSVF8yOTQnLCAnRVJUXzI5NScsICdFUlRfMjk3JywgJ0VSVF8yOTgnLCAnRVJUXzMwMycsICdFUlRfMzA1JykgQU5EIHN0YXR1cyA9IDEpIGZpbHRlcmVkX2VyIC0tIEVORCBGaWx0ZXIgcmVsYXRpb25zaGlwL3ByZWRpY3Rvcl9jYXRlZ29yeSBub3QgbnVsbAoKICAgICAgICAgLS0gQXR0YWNoIG90aGVyIGF0dHJpYnV0ZXMKICAgICAgIExFRlQgSk9JTiBrYl9lbnRpdHlyZWxhdGlvbnNoaXBhdHRyaWJ1dGUgZXJhIE9OIGZpbHRlcmVkX2VyLm1lZGl1c19pZCA9IGVyYS5lbnRpdHlfcmVsYXRpb25zaGlwX2lkCgpHUk9VUCBCWSBmaWx0ZXJlZF9lci5tZWRpdXNfaWQsCiAgICAgICAgIGZpbHRlcmVkX2VyLmVudGl0eV9mcm9tX2lkLAogICAgICAgICBmaWx0ZXJlZF9lci5lbnRpdHlfdG9faWQsCiAgICAgICAgIGZpbHRlcmVkX2VyLmVudGl0eV9yZWxhdGlvbnNoaXBfdHlwZV9pZCwKICAgICAgICAgZmlsdGVyZWRfZXIucHJlZGljdG9yX2NhdGVnb3J5OyIiIgo=</text>
+      <register name="&quot;" type="4">
+        <text>/home/grammy-jiang/PycharmProjects/medius_chatserver/</text>
       </register>
       <register name="-" type="4">
-        <text>-be</text>
+        <text>/home/grammy-jiang/PycharmProjects/medius_chatserver/</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
