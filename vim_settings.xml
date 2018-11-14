@@ -18,29 +18,8 @@
       <file name="/kb_entity [Postgres_Dev_Local]" timestamp="1534838231400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/utils.py" timestamp="1537506955950">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="19" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1540775781360">
+      <file name="/a.dummy" timestamp="1542169681772">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1539057374610">
-        <mark key="'" line="420" column="58" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="45" />
-        <mark key="^" line="153" column="42" />
-        <mark key="." line="175" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/backend/base.py" timestamp="1539753425916">
-        <mark key="'" line="7" column="19" />
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="38" column="104" />
-        <mark key="." line="38" column="104" />
-        <mark key="^" line="38" column="104" />
       </file>
       <file name="/lazysignup_lazyuser [Postgres_Dev_Local]" timestamp="1533706423154">
         <mark key="[" line="0" column="0" />
@@ -93,20 +72,6 @@
       <file name="/kb_synonymsource [Postgres_Dev_Local]" timestamp="1533706323489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/nlp/symptom_search.py" timestamp="1539734824083">
-        <mark key="'" line="8" column="32" />
-        <mark key="[" line="340" column="7" />
-        <mark key="]" line="340" column="7" />
-        <mark key="^" line="340" column="7" />
-        <mark key="." line="340" column="7" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/urls.py" timestamp="1540343186322">
-        <mark key="'" line="4" column="11" />
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="11" />
-      </file>
       <file name="$USER_HOME$/Devel/Mathu/Django/hnews/.gitignore" timestamp="1533613439071">
         <mark key="[" line="104" column="0" />
       </file>
@@ -146,13 +111,6 @@
       <file name="/kb_synonym [Postgres_Dev_Local]" timestamp="1533706260339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/chat/consumers.py" timestamp="1538548648995">
-        <mark key="'" line="745" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="46" />
-        <mark key="^" line="20" column="46" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/chat/consumers.py" timestamp="1542093639890">
         <mark key="[" line="253" column="20" />
         <mark key="]" line="254" column="19" />
@@ -170,13 +128,6 @@
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/.env" timestamp="1541913270523">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symtom_select_test.py" timestamp="1532415037261">
         <mark key="[" line="101" column="103" />
@@ -196,13 +147,6 @@
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/user_views.py" timestamp="1541983519327">
         <mark key="[" line="65" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fb84a0f-f348-49e6-bee3-031fe62ccbc6/console.sql" timestamp="1539059390756">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="22" />
-        <mark key="^" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.log" timestamp="1534983181303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,13 +155,6 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
         <mark key="^" line="41" column="4" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/management/commands/0008_update_entity_relationships_with_google_spreadsheet.py" timestamp="1540788909564">
-        <mark key="'" line="595" column="76" />
-        <mark key="[" line="149" column="69" />
-        <mark key="]" line="149" column="93" />
-        <mark key="^" line="149" column="93" />
-        <mark key="." line="149" column="93" />
       </file>
       <file name="/mediuschatserver.public.auth_user_user_permissions [Quro_PROD]" timestamp="1538020453565">
         <mark key="[" line="0" column="0" />
@@ -236,20 +173,6 @@
       </file>
       <file name="/a.sql" timestamp="1538020563493">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/git_hooks/post-commit" timestamp="1538018132462">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/api/views.py" timestamp="1540254916238">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="225" column="13" />
-        <mark key="]" line="225" column="11" />
-        <mark key="^" line="225" column="11" />
-        <mark key="." line="225" column="11" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/migrations/0001_squashed_0015_assessmentsymptom_who_selected.py" timestamp="1534988514846">
         <mark key="[" line="15" column="58" />
@@ -272,22 +195,8 @@
       <file name="/JavaScript Console" timestamp="1542153438309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_34/diagnosis/management/commands/0006_update_symptoms_with_ALL_SYMPTOMS_QURO_spreadsheet.py" timestamp="1539060055607">
-        <mark key="'" line="1174" column="26" />
-        <mark key="[" line="1415" column="0" />
-        <mark key="]" line="1415" column="90" />
-        <mark key="." line="1415" column="90" />
-        <mark key="^" line="1415" column="90" />
-      </file>
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/provider.py" timestamp="1540251383733">
-        <mark key="'" line="1" column="73" />
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542166519312">
         <mark key="'" line="119" column="0" />
@@ -295,13 +204,6 @@
         <mark key="]" line="131" column="19" />
         <mark key="^" line="131" column="19" />
         <mark key="." line="131" column="19" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
-        <mark key="'" line="25" column="18" />
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
       </file>
       <file name="/dummy.sql" timestamp="1539068490490">
         <mark key="[" line="0" column="0" />
@@ -327,13 +229,6 @@
       <file name="/mediuschatserver.public.chat_chatmessage [Quro_PROD]" timestamp="1538020432838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/573ff5a6-1467-4cb5-bc7b-2f0bb46bb7f8/console.sql" timestamp="1539058888067">
-        <mark key="'" line="399" column="7" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="409" column="40" />
-        <mark key="." line="409" column="40" />
-        <mark key="^" line="409" column="40" />
-      </file>
       <file name="/django_session [Quro_DEV_RDS]" timestamp="1536816886759">
         <mark key="[" line="0" column="0" />
       </file>
@@ -342,13 +237,6 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/multitenant_db/mapper.py" timestamp="1541725931024">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="54" column="36" />
-        <mark key="]" line="54" column="36" />
-        <mark key="." line="54" column="36" />
-        <mark key="^" line="37" column="53" />
       </file>
       <file name="/kb_entitytype [Postgres_Dev_Local]" timestamp="1533706126524">
         <mark key="[" line="0" column="0" />
@@ -387,13 +275,6 @@
         <mark key="[" line="195" column="60" />
         <mark key="]" line="195" column="60" />
         <mark key="." line="195" column="60" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/deploy_tools/provision.ansible.yaml" timestamp="1538094984572">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="8" />
-        <mark key="^" line="35" column="10" />
       </file>
       <file name="/utils_dynamictable [Postgres_Dev_Local]" timestamp="1533706354498">
         <mark key="[" line="0" column="0" />
