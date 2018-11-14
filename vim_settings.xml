@@ -198,12 +198,12 @@
       <file name="/kb_attributekey [Postgres_Dev_Local]" timestamp="1533706244841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542166519312">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="110" column="99" />
-        <mark key="]" line="131" column="19" />
-        <mark key="^" line="131" column="19" />
-        <mark key="." line="131" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542172400569">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="87" column="105" />
+        <mark key="]" line="84" column="7" />
+        <mark key="^" line="84" column="7" />
+        <mark key="." line="84" column="7" />
       </file>
       <file name="/dummy.sql" timestamp="1539068490490">
         <mark key="[" line="0" column="0" />
