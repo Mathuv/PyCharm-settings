@@ -186,7 +186,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1541969661436">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1542153486105">
+      <file name="/Python Console" timestamp="1542161649841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1541724724423">
@@ -288,12 +288,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542115841185">
-        <mark key="'" line="76" column="40" />
-        <mark key="[" line="108" column="116" />
-        <mark key="]" line="108" column="116" />
-        <mark key="^" line="71" column="0" />
-        <mark key="." line="108" column="116" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" timestamp="1542162354729">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="128" column="35" />
+        <mark key="]" line="93" column="15" />
+        <mark key="^" line="93" column="15" />
+        <mark key="." line="93" column="15" />
       </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver_36/.env" timestamp="1538549987129">
         <mark key="'" line="25" column="18" />
@@ -355,12 +355,12 @@
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1542151597857">
+      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1542161592765">
         <mark key="'" line="57" column="5" />
-        <mark key="[" line="2345" column="0" />
-        <mark key="]" line="2345" column="0" />
-        <mark key="^" line="2343" column="7" />
-        <mark key="." line="2345" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="^" line="2338" column="7" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
@@ -402,10 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2257" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="2263" column="56" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="2266" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
-      <jump line="2268" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="2273" column="58" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="2276" column="24" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
       <jump line="2278" column="0" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" />
@@ -502,10 +498,14 @@
       <jump line="543" column="5" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="545" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
       <jump line="563" column="9" filename="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" />
+      <jump line="93" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
+      <jump line="106" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
+      <jump line="116" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
+      <jump line="119" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c2083b95-f057-4d26-8a59-4ec329c1da11/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-be</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-be</text>
@@ -517,37 +517,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICd0ZXN0LWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
+        <text encoding="base64">d2hlcmUgZHMua2JfZW50aXR5X2lkX2lkID0gYXR0ci5lbnRpdHlfaWQgYW5kIGtleV9pZCA9ICdBXzExJwo=</text>
       </register>
       <register name="s" type="4">
         <text>df1.loc[df1[] != &quot;&quot;]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">c2VsZWN0IGRzLmtiX2VudGl0eV9pZF9pZCwgZHMuc3ltcHRvbV9uYW1lLCBhdHRyLnZhbHVlIGZyb20ga2JfZW50aXR5YXR0cmlidXRlIGFzIGF0dHIsIGRpYWdub3Npc19zeW1wdG9tIGFzIGRzIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
+        <text encoding="base64">c3FsX2FuYXRvbXkgPSAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
+        <text encoding="base64">ICAgICdwcmVwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd0ZXN0LWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAjU2hvdWxkIGhhdmUgYWxsIGRpc2Vhc2VzCg==</text>
+        <text encoding="base64">ICAgICdkZXYtYmUubWVkaXVzaGVhbHRoLm9yZycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICdwcm9kLWJlLm1lZGl1c2hlYWx0aC5vcmcnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -601,8 +601,8 @@
         <entry>%s/'/&quot;/gc</entry>
         <entry>%s/_/#/gc</entry>
         <entry>%s/^_/#/gc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
