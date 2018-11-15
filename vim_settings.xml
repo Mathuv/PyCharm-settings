@@ -123,13 +123,6 @@
       <file name="/mediuschatserver_sp_update.public.diagnosis_symptomcategory [mediuschatserver_sp_update@localhost]" timestamp="1538700195137">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/disease_scoring/kb_disease_scoring.py" timestamp="1542167628251">
-        <mark key="'" line="563" column="9" />
-        <mark key="[" line="122" column="92" />
-        <mark key="]" line="122" column="122" />
-        <mark key="." line="122" column="122" />
-        <mark key="^" line="122" column="122" />
-      </file>
       <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/myhealth/settings.py" timestamp="1541980550711">
         <mark key="'" line="2" column="58" />
         <mark key="[" line="3" column="104" />
@@ -261,13 +254,6 @@
       </file>
       <file name="/kb_entityattribute [Postgres_Dev_Local]" timestamp="1533706226544">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Devel/Medius/Beta/medius_chatserver/diagnosis/symptom_select/kb_symptom_selection.py" timestamp="1542175497344">
-        <mark key="'" line="972" column="53" />
-        <mark key="[" line="121" column="99" />
-        <mark key="]" line="121" column="109" />
-        <mark key="." line="121" column="109" />
-        <mark key="^" line="121" column="109" />
       </file>
       <file name="/kb_entityrelationship [Postgres_Dev_Local]" timestamp="1533706143964">
         <mark key="[" line="0" column="0" />
